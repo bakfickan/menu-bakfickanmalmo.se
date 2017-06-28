@@ -8,9 +8,11 @@
 
 * Snackkorg `79`
 
-* Ost & Kycklinggratinerade nachos `79` serveras med salsa & guacamole
+* Ost & Kycklinggratinerade nachos `79`
+  > serveras med salsa & guacamole
 
-* Extra sås: `10:-/st` aioli, blue cheese, chilibearnaise, guacamole, salsa
+* Extra sås: `10:-/st`
+  > aioli, blue cheese, chilibearnaise, guacamole, salsa
 
 
 ## Förrätter
@@ -98,44 +100,44 @@
 
 ## Fatöl
 
-* Norrlands Guld _0,40cl_ `56`
-* Melleruds Pils Ekologisk _0,40cl_ `59`
-* Krušovice _0,40cl_ `62`
-* Wisby Klosteröl _0,50cl_ `75`
-* Wisby Bulldog IPA _0,50cl_ `75`
-* Wisby Pale Ale _0,50cl_ `75`
-* Paulaner Hefe Weißbier _0,50cl_ `75`
+* Norrlands Guld _40cl_ `56`
+* Melleruds Pils Ekologisk _40cl_ `59`
+* Krušovice _40cl_ `62`
+* Wisby Klosteröl _50cl_ `75`
+* Wisby Bulldog IPA _50cl_ `75`
+* Wisby Pale Ale _50cl_ `75`
+* Paulaner Hefe Weißbier _50cl_ `75`
 
 
 ## Flasköl
 
-* Mariestad _(alkoholfri) 0,33cl_ `40`
-* Mariestad Continental _(mellanöl) 0,33cl_ `59`
-* Amstel _0,33cl_ `59`
-* Birra Moretti _0,33cl_ `59`
-* Heineken _0,33cl_ `59`
-* Sol _0,33cl_ `59`
-* Mariestad _0,55cl_ `65`
-* Newcastle Brown Ale _0,33cl_ `65`
-* Södra Ekologisk IPA _0,33cl_ `65`
-* A Ship Full Of IPA _0,33cl_ `69`
-* Affligem Blonde Ale _0,33cl_ `69`
-* Brutal Bulldog DIPA _0,33cl_ `69`
-* Crate Stout _0,33cl_ `69`
-* Firestone Easy Jack _0,33cl_ `69`
-* Fürstenberg Premium Pilsner _0,33cl_ `69`
-* Great White Ipa _0,33cl_ `69`
-* Sleepy Bulldog Summer Pale Ale _(eko) 0,33cl_ `69`
-* Mariestad Old Ox _0,50cl_ `69`
-* Paulaner Dunkel _0,50cl_ `75`
-* Paulaner Lager _0,50cl_ `75`
+* Mariestad _(alkoholfri) 33cl_ `40`
+* Mariestad Continental _(mellanöl) 33cl_ `59`
+* Amstel _33cl_ `59`
+* Birra Moretti _33cl_ `59`
+* Heineken _33cl_ `59`
+* Sol _33cl_ `59`
+* Mariestad _55cl_ `65`
+* Newcastle Brown Ale _33cl_ `65`
+* Södra Ekologisk IPA _33cl_ `65`
+* A Ship Full Of IPA _33cl_ `69`
+* Affligem Blonde Ale _33cl_ `69`
+* Brutal Bulldog DIPA _33cl_ `69`
+* Crate Stout _33cl_ `69`
+* Firestone Easy Jack _33cl_ `69`
+* Fürstenberg Premium Pilsner _33cl_ `69`
+* Great White Ipa _33cl_ `69`
+* Sleepy Bulldog Summer Pale Ale _(eko) 33cl_ `69`
+* Mariestad Old Ox _50cl_ `69`
+* Paulaner Dunkel _50cl_ `75`
+* Paulaner Lager _50cl_ `75`
 
 
 ## Cider & Alkoläsk
 
-* Briska päron _(alkoholfri) 0,33cl_ `45`
-* Briska päron _0,33cl_ `59`
-* Briska fläder _0,33cl_ `59`
-* Strongbow _(torr engelsk cider) 0,33cl_ `65`
+* Briska päron _(alkoholfri) 33cl_ `45`
+* Briska päron _33cl_ `59`
+* Briska fläder _33cl_ `59`
+* Strongbow _(torr engelsk cider) 33cl_ `65`
 * Bacardi Breezer vattenmelon `69`
 * Bacardi Breezer pineapple `69`
