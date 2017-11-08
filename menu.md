@@ -1,15 +1,15 @@
 
-## Snacks & Tilltugg
+## Snacks & Smårätter
 
 * `39` Pommeskorg
 
 * `69` Buffalo Wings
-  > serveras med selleristicks & blue cheesedip
+  > serveras med sallad & blue cheesedip
 
 * `79` Snackkorg
 
-* `79` Ost & Kycklinggratinerade nachos
-  > serveras med salsa & guacamole
+* `79` Ost & Kycklinggratinerade Nachos
+  > serveras med guacamole, salsa & aioli
 
 * `10:-/st` Extra sås:
   > aioli, blue cheese, chilibearnaise, guacamole, salsa
@@ -17,17 +17,17 @@
 
 ## Förrätter
 
-* `39` Vitlöksbröd
+* `39` Ostgratinerade vitlöksbröd
   > serveras med aioli
 
-* `79` Vegetarisk Tartar
-  > på sparris, ägg, kapris & dijonsenap<br>serveras med getostcrème
+* `79` Jordärtskockssoppa
+  > toppad med syrat sidfläsk (kan även fås veg)
 
-* `89` Rökt Röding
-  > serveras med blomkålspuré, picklad fänkål, dill & citron
+* `89` Vitlök & Chilifrästa Scampi
+  > serveras med vitlöksbröd
 
-* `95` 2 x Räkor
-  > rökta räkor och räkor med skal<br>serveras med aioli, bröd & citron
+* `89` Rökt Ankbröst
+  > serveras med rödvinsbräserad lök & tomatchutney
 
 
 ## Burgare
@@ -35,16 +35,16 @@
 * `99` Klassisk Burgare
   > med hamburgerdressing, bacon, ost & coleslaw
 
-* `139` Jack Daniel’s Burgare
-  > med Jack Daniel’s Barbecue Sauce, stekt lök, bacon, ost & lökringar
+* `139` Pepper Jack & ChipotleBurgare
+  > med spice pepper cheddarost, chipotleglaze, jalapeños & stekt lök
 
 * `139` Friterad Halloumiburgare
-  > (vegetarisk) med tomat, sallad, kikärtscrème, salsa
+  > med basilika/citrusmajonäs, tomat & picklad rödlök
 
-* `139` Chili & Fetaostburgare
-  > med chili & fetaostcrème, tomat, lök & briochebröd
+* `139` Pulled Pork Burgare
+  > med rökt aioli, syrade äpplen, idahopotatis & briochebröd
 
-**Alla burgare är gjorde på oxfärs och serveras med pommes frites, sallad, tomat, lök & saltgurka.**
+**Alla burgare är gjorda på oxfärs och serveras med pommes frites, sallad, tomat, lök & saltgurka.**
 
 *Samtliga burgare går även att få som vegetariskt alternativ.*
 
@@ -53,26 +53,29 @@
 
 ## Huvudrätter
 
-* `139` Caesarsallad
-  > med kyckling, krutonger, grana padano & ceasardressing
+* `139` Risotto
+  > med savoykål, portabello, grana padano & vitt vin
 
-* `139` Friterad Halloumisallad
-  > med honungsmelon, rostade kikärtor, & dijonvinägrett
+* `149` Scampisallad
+  > serveras med rostade cashewnötter, matvete, böngroddar & mango/limedressing
 
-* `149` Veckans Fisk
+* `159` Veckans Fisk
   > (fråga personalen)
 
-* `149` Moules Frites
-  > vittvinskokta blåmusslor, vitlök, grädde & persilja<br>serveras med pommes frites & aioli
+* `159` Örtbakad Fläsksida
+  > serveras med äppelchutney, lingon, gräddsås & potatispuré
 
-* `159` Chili & Ingefärsbräserad Fläsksida
-  > serveras med örtslungad potatis, äpple & fänkålscoleslaw
+* `159` Bakfickans Hjortgryta
+  > Bourgogne style med rödvin, sidfläsk, champinjoner & lök
+
+* `169` Confiterat Anklår
+  > serveras med potatispuré & äppelsky
 
 * `169` Grillad Ryggbiff
-  > serveras med ljummen färskpotatissallad, ört & citrussmör, säsongens primörer & rödvinssås
+  > serveras med gorgonzolakräm, portvinssås & valfri potatis
 
-* `169` Grillad Entrecôte
-  > serveras med saltbakad potatis, mangosalsa, sotad marinerad paprika & timjansky
+* `199` Pepparstek på Oxfilé
+  > serveras med potatisgratäng
 
 
 ## Desserter
@@ -80,12 +83,10 @@
 * `39` 2 x Husets Tryffel
 
 * `45` Vaniljglass eller Sorbet
-  > serveras med bärcoulis
+  > serveras med chokladsås
 
-* `65` Citruscheesecake
-
-* `65` Rabarber & Jordgubbskompott
-  > serveras med vanilj crème fraîche
+* `65` Äpple & Hallonpaj
+  > smaksatt med kanel & kardemumma, serveras med vanlijsås
 
 * `79` 3 x Osttallrik
   > serveras med tillbehör
@@ -94,8 +95,7 @@
 ## Kaffe / Te / Läsk
 
 * `25` Kaffe / Te
-* `29` Läsk
-* `29` Lättöl
+* `29` Läsk / Lättöl
 
 
 ## Fatöl
@@ -129,6 +129,7 @@
 * `69` Great White Ipa _33cl_
 * `69` Sleepy Bulldog Summer Pale Ale _(eko) 33cl_
 * `69` Mariestad Old Ox _50cl_
+* `75` Ferdinand mörk/ljus _(glutenfri) 50cl_
 * `75` Paulaner Dunkel _50cl_
 * `75` Paulaner Lager _50cl_
 
