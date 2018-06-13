@@ -4,89 +4,91 @@
 * `39` Pommeskorg
 
 * `69` Buffalo Wings
-  > serveras med sallad & blue cheesedip
+  > serveras med selleristavar & blue cheesedip
 
 * `79` Snackkorg
 
-* `79` Ost & Kycklinggratinerade Nachos
-  > serveras med guacamole, salsa & aioli
+* `79` Ostgratinerade Nachos
+  > serveras med salsa & aioli
 
 * `10:-/st` Extra sås:
-  > aioli, blue cheese, chilibearnaise, guacamole, salsa
+  > aioli, salsa, blue cheese, chilibearnaise, srirachamajonäs
 
 
 ## Förrätter
 
-* `39` Ostgratinerade vitlöksbröd
+* `39` Vitlöksbröd
   > serveras med aioli
 
-* `79` Jordärtskockssoppa
-  > toppad med syrat sidfläsk (kan även fås veg)
+* `79` Bakfickans Sallad
+  > med fetaost, oliver, grillad paprika & vinägrett
 
-* `89` Vitlök & Chilifrästa Scampi
+* `89` Vitlök- & Chilifrästa Scampi
   > serveras med vitlöksbröd
 
-* `89` Rökt Ankbröst
-  > serveras med rödvinsbräserad lök & tomatchutney
+* `89` Två olika korvar
+  > 1 st lammkorv & 1 st fläskkorv<br>serveras med dagens tillbehör
 
 
 ## Burgare
 
 * `99` Klassisk Burgare
-  > med hamburgerdressing, bacon, ost & coleslaw
+  > med bacon, ost, coleslaw & hamburgerdressing
 
-* `139` Pepper Jack & ChipotleBurgare
-  > med spice pepper cheddarost, chipotleglaze, jalapeños & stekt lök
+* `139` ChiliBurgare
+  > med bönragu, syrad lök, örtdressing & briochebröd
 
-* `139` Friterad Halloumiburgare
-  > med basilika/citrusmajonäs, tomat & picklad rödlök
+* `139` Halloumiburgare
+  > med marinerade grönsaker, srirachamajonäs & briochebröd
 
-* `139` Pulled Pork Burgare
-  > med rökt aioli, syrade äpplen, idahopotatis & briochebröd
+* `139` Kyckling- & Baconburgare
+  > med pankopanerad kycklingfilé, svartpeppar & baconmajonäs
 
 **Alla burgare är gjorda på oxfärs och serveras med pommes frites, sallad, tomat, lök & saltgurka.**
 
 *Samtliga burgare går även att få som vegetariskt alternativ.*
 
-**Briochebröd på övriga burgare + 10 kr.**
+**Briochebröd på övriga burgare +10kr.**
+
+**Extra sås +10kr • Lökringar +20kr**
 
 
 ## Huvudrätter
 
-* `139` Risotto
-  > med savoykål, portabello, grana padano & vitt vin
+* `139` Ramslöksrisotto
+  > toppad med marinerade körsbärstomater, ruccola, pinjenötter & grana padano
 
-* `149` Scampisallad
-  > serveras med rostade cashewnötter, matvete, böngroddar & mango/limedressing
+* `139` Bakfickans räkmacka
+  > med 150g handskalade räkor, kokt ägg, dillmajonäs & citron
 
-* `159` Veckans Fisk
+* `139` Caesarsallad
+  > med pankopanerad kycklingfilé, bacon, krutonger & grana padano
+
+* `–––` Veckans Fisk
   > (fråga personalen)
 
-* `159` Örtbakad Fläsksida
-  > serveras med äppelchutney, lingon, gräddsås & potatispuré
+* `149` Moules Marinières
+  > med vittvinskokta blåmusslor i vitlök & grädde<br>serveras med bröd, extra pommes +20kr
 
-* `159` Bakfickans Hjortgryta
-  > Bourgogne style med rödvin, sidfläsk, champinjoner & lök
-
-* `169` Confiterat Anklår
-  > serveras med potatispuré & äppelsky
+* `169` Marinerade Lammracks
+  > serveras med getost- & rödbetssallad, balsamico & vinägrett
 
 * `169` Grillad Ryggbiff
-  > serveras med gorgonzolakräm, portvinssås & valfri potatis
+  > serveras med rostad sötpotatissallad med smak av chimichurri
 
-* `199` Pepparstek på Oxfilé
-  > serveras med potatisgratäng
+* `179` Kalventrecôte
+  > serveras med rostad färskpotatis, rödvinsås, grillad citron, persilje- & pepparrotssmör
 
 
 ## Desserter
 
 * `39` 2 x Husets Tryffel
 
-* `45` Vaniljglass eller Sorbet
-  > serveras med chokladsås
+* `39` Vaniljglass Romanoff
+  > med mynta & sockermarinerade bär
 
-* `65` Äpple & Hallonpaj
-  > smaksatt med kanel & kardemumma, serveras med vanlijsås
+* `69` Rabarberpaj
+  > serveras med vaniljkräm
 
 * `79` 3 x Osttallrik
   > serveras med tillbehör
@@ -100,45 +102,48 @@
 
 ## Fatöl
 
-* `56` Norrlands Guld _40cl_
-* `59` Melleruds Pils Ekologisk _40cl_
-* `62` Krušovice _40cl_
+* `59` Norrlands Guld _40cl_
+* `59` Mariestad _40cl_
+* `65` Krušovice _40cl_
+* `69` Rotating Tap _40cl_
 * `75` Wisby Klosteröl _50cl_
-* `75` Wisby Bulldog IPA _50cl_
-* `75` Wisby Pale Ale _50cl_
-* `75` Paulaner Hefe Weißbier _50cl_
+* `79` Wisby Bulldog IPA _50cl_
+* `79` Paulaner Hefe Weißbier _50cl_
 
 
 ## Flasköl
 
 * `40` Mariestad _(alkoholfri) 33cl_
-* `59` Mariestad Continental _(mellanöl) 33cl_
-* `59` Amstel _33cl_
 * `59` Birra Moretti _33cl_
+* `59` Daredevil Bulldog Peoples IPA _33cl_
 * `59` Heineken _33cl_
+* `59` Melleruds Pils Ekologisk _33cl_
 * `59` Sol _33cl_
-* `65` Mariestad _55cl_
+* `59` Starobrno _33cl_
+* `65` Mariestad _50cl_
 * `65` Newcastle Brown Ale _33cl_
-* `65` Södra Ekologisk IPA _33cl_
+* `69` Amstel _33cl_
 * `69` A Ship Full Of IPA _33cl_
-* `69` Affligem Blonde Ale _33cl_
 * `69` Brutal Bulldog DIPA _33cl_
-* `69` Crate Stout _33cl_
+* `69` Höganäs APA _33cl_
 * `69` Firestone Easy Jack _33cl_
-* `69` Fürstenberg Premium Pilsner _33cl_
-* `69` Great White Ipa _33cl_
+* `69` Firestone 31 PA _33cl_
 * `69` Sleepy Bulldog Summer Pale Ale _(eko) 33cl_
+* `69` Södra Ekologisk IPA _33cl_
+* `69` Wisby Stout _33cl (8,5%)_
 * `69` Mariestad Old Ox _50cl_
+* `72` Bushweld Bulldog IPA _33cl_
+* `72` Duvel _33cl_
 * `75` Ferdinand mörk/ljus _(glutenfri) 50cl_
-* `75` Paulaner Dunkel _50cl_
-* `75` Paulaner Lager _50cl_
-
+* `75` Paulaner Hefe-Weissebier Dunkel _50cl_
+* `79` Paulaner Lager _50cl_
 
 ## Cider & Alkoläsk
 
 * `45` Briska päron _(alkoholfri) 33cl_
 * `59` Briska päron _33cl_
 * `59` Briska fläder _33cl_
-* `65` Strongbow _(torr engelsk cider) 33cl_
+* `59` Briska jordgubb/rabarber _33cl_
+* `69` Strongbow _(torr engelsk cider) 33cl_
 * `69` Bacardi Breezer vattenmelon
 * `69` Bacardi Breezer pineapple
