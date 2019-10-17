@@ -9,7 +9,7 @@
 * `79` Ostgratinerade Nachos
   > serveras med jalapeños, salsa & aioli
 
-* `85` Snackkorg
+* `89` Snackkorg
 
 * `10:-/st` Extra sås:
   > aioli, salsa, blue cheese, bearnaise
@@ -20,7 +20,7 @@
 * `39` Vitlöksbröd
   > Lantbröd stekt i örtigt vitlökssmör, serveras med aioli.
 
-* `89` Svamp Toast
+* `85` Svamp Toast
   > Tryffelstuvad svamp på smörstekt bröd med knaprigt bacon.
 
 * `89` Gambas
@@ -57,24 +57,24 @@
 ## Varmrätter
 
 * `139` Tomatrisotto
-  > Halv torkade körsbärstomater, saffrans aioli & Serrano chips.
+  > Halvtorkade körsbärstomater, saffrans aioli & Serrano chips.
 
 * `109` Caesarsallad
   > Romansallad slungad med krutonger, Grana Padano & bacon. Kyckling, Gambas eller Halloumi +30:-
 
-* `159` Anklår
-  > Confiterat, palsternacks puré, rosmarinsky & säsongsenliga primörer. Valfri side.
+* `159` Confiterat anklår
+  > Serveras med palsternackspuré, rosmarinsky & säsongens primörer. Valfri side.
 
 * `169` Ryggbiff
-  > Bearnaise, rödvinsky & säsongsenliga primörer. Valfri side.
+  > Bearnaise, rödvinsky & säsongens primörer. Valfri side.
 
 * `179` Lammytterfilé
   > Ljummen rödbetsallad på chevré, valnötter, balsamico & rosmarinsky. Valfri side.
 
 * `219` Oxfilé
-  > Rullad i svartpeppar, grönpepparsås & säsongsenliga primörer. Valfri side.
+  > Rullad i svartpeppar, grönpepparsås & säsongens primörer. Valfri side.
 
-* ` ` Sides
+* `35` Sides
   > pommes frites, potatisgratäng, trädgårds sallad, potatis/palsternacks puré.
 
 
