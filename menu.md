@@ -101,17 +101,18 @@
 
 * `59` Norrlands Guld _40cl 5,3%_
 * `59` Mariestad Continental _40cl 4,2%_
-* `65` Krušovice _40cl 5,0%_
+* `67` Krušovice _40cl 5,0%_
 * `69` Rotating Tap _40cl_
+* `72` Wisby Bulldog IPA _40cl 6,4%_
 * `79` Wisby Klosteröl _50cl 5,0%_
-* `79` Wisby Bulldog IPA _50cl 6,4%_
 * `79` Paulaner Hefe Weißbier _50cl 5,5%_
 
 
 ## Flasköl
 
 * `40` Heineken _(alkoholfri) 33cl_
-* `59` Daredevil Peoples IPA _33cl 3,5%_
+* `45` A Ship Full Of IPA _(alkoholfri) 33cl_
+* `59` Peoples IPA _33cl 3,5%_
 * `59` Heineken _33cl 5,0%_
 * `59` Melleruds Pils Ekologisk _33cl 4,5%_
 * `62` Birra Moretti _33cl 4,6%_
@@ -124,10 +125,10 @@
 * `69` Kallholmen Levande IPA _33cl 5,6%_
 * `69` Sleepy Bulldog Pale Ale _(eko) 33cl 5,0%_
 * `69` Wisby Stout _33cl 5,0%_
+* `69` Leffe Blonde _33cl 6,6%_
 * `69` Mariestad Old Ox _50cl 6,9%_
 * `72` Brutal Bulldog DIPA _33cl 8,4%_
 * `72` Duvel _33cl 8,5%_
-* `72` Great White IPA _33cl 4,5%_
 * `72` Höganäs APA _33cl 5,6%_
 * `72` Höganäs Missbehave IPA _33cl 6,0%_
 * `72` Höganäs Stroke _(glutenfri) 33cl 6,2%_
