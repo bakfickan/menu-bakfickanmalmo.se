@@ -18,76 +18,77 @@
 ## Förrätter
 
 * `39` Vitlöksbröd
-  > serveras med aioli
+  > Lantbröd stekt i örtigt vitlökssmör, serveras med aioli.
 
-* `85` Kallrökt lax
-  > serveras med potatischips, gräslökscrème & dillsalt
+* `89` Svamp Toast
+  > Tryffelstuvad svamp på smörstekt bröd med knaprigt bacon.
 
-* `89` Vitlök- & Chilifrästa Scampi
-  > serveras med vitlöksbröd
+* `89` Gambas
+  > Chili & vitlöksfrästa räkor, serveras med vitlöksbröd.
 
 * `1p 79, 2p 139` Plocktallrik
-  > 3 sorters ost, kallskuret, husets marmelad & tilltugg
+  > Ost, charkuteri, husets marmelad & tilltugg
 
 
 ## Burgare
 
-* `99` Klassisk Burgare
-  > med bacon, ost & hamburgerdressing
+* `99` Klassisk
+  > Cheddar, bacon & hamburgerdressing
 
-* `139` Chiliburgare
-  > med chili relish, fetaostcrème, syrad lök & briochebröd
+* `139` Bourbon
+  > Pepperjack ost, Lökringar & Bourbon BBQ dressing
 
-* `139` Kycklingburgare
-  > med mango- & jalapeñodressing, bacon & briochebröd
+* `139` Tryffel
+  > Smörstekt svamp, rökt sidfläsk & tryffelmajonäs
 
-* `139` Halloumiburgare
-  > med gurka- & myntayoghurt, jalapeños & briochebröd
+* `139` Japansk
+  > Syrad ingefära, salladslök & wasabimajonäs
 
-**Alla burgare är gjorda på oxfärs och serveras med pommes frites, sallad, tomat, lök, coleslaw & saltgurka.**
+* `10:-/st` Dips
+  > Bearnaise, Bluecheese, Chili, Salsa, Aioli
 
-*Extra sås +10kr • Lökringar +20kr • Briochebröd +10k*
+**Samtliga burgare serveras med pommes frites, sallad, tomat & rödlök.**
 
+*Välj mellan 100% nötkött eller halloumi*
 
-## Huvudrätter
-
-* `139` Ärtrisotto
-  > serveras med syrad lök, saltrostade solrosfrön & gräslökscrème
-
-* `139` Bakfickans Räkmacka
-  > 150g handskalade räkor, kokt ägg, dillmajonäs & citron
-
-* `139` Caesarsallad
-  > med pankopanerad kycklingfilé, bacon, krutonger & grana padano
-
-* `149` Roquefortsallad
-  > med lufttorkad skinka, melon, saltrostade solrosfrön & syrad lök
-
-* `–––` Veckans Fisk
-  > (fråga personalen)
-
-* `169` Moules Frites
-  > blåmusslor kokta i vitt vin, grädde & vitlök, serveras med pommes frites & aioli
-
-* `169` Grillad Ryggbiff
-  > serveras med chili- & örtsmör, sommarprimörer, pommes frites, bearnaisesås & rödvinssky
-
-* `219` Vitlöksgratinerade Oxfilémedaljonger
-  > serveras med saltrostad potatis, sommarprimörer & rödvinssky
+*Lökringar +20kr • Briochebröd +10kr*
 
 
-## Desserter
+## Varmrätter
 
-* `39` 2 x Husets Tryffel
+* `139` Tomatrisotto
+  > Halv torkade körsbärstomater, saffrans aioli & Serrano chips.
 
-* `39` Vaniljglass
-  > serveras med vaniljkokta bär
+* `109` Caesarsallad
+  > Romansallad slungad med krutonger, Grana Padano & bacon. Kyckling, Gambas eller Halloumi +30:-
+
+* `159` Anklår
+  > Confiterat, palsternacks puré, rosmarinsky & säsongsenliga primörer. Valfri side.
+
+* `169` Ryggbiff
+  > Bearnaise, rödvinsky & säsongsenliga primörer. Valfri side.
+
+* `179` Lammytterfilé
+  > Ljummen rödbetsallad på chevré, valnötter, balsamico & rosmarinsky. Valfri side.
+
+* `219` Oxfilé
+  > Rullad i svartpeppar, grönpepparsås & säsongsenliga primörer. Valfri side.
+
+* ` ` Sides
+  > pommes frites, potatisgratäng, trädgårds sallad, potatis/palsternacks puré.
+
+
+## Dessert
+
+* `59` Vit chokladmousse
+  > Havthornsorbet & riven choklad
+
+* `69` Choklad brownie
+  > Vaniljglass & bärcoulis
+
+* `39` Husets chokladtryffel
 
 * `39` Sorbet
-  > (fråga personalen)
-
-* `69` Cheesecake
-  > Mascarpone med smak av vanilj & lime, kaksmulor & havtornsorbet
 
 
 ## Kaffe / Te / Läsk
