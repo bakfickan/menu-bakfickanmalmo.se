@@ -62,6 +62,12 @@
 * `139` Caesarsallad
   > Romansallad slungad med krutonger, Grana Padano & bacon.<br>Alternativ: Kyckling, Scampi eller Halloumi
 
+* ` ` Veckans fisk
+  > Fråga personalen
+
+* ` ` Veckans gryta
+  > Fråga personalen
+
 * `159` Confiterat anklår
   > Serveras med palsternackspuré, rosmarinsky & säsongens primörer. Valfri side.
 
