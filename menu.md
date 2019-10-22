@@ -18,13 +18,13 @@
 ## Förrätter
 
 * `39` Vitlöksbröd
-  > Lantbröd stekt i örtigt vitlökssmör, serveras med aioli.
+  > Lantbröd stekt i örtigt vitlökssmör, serveras med aioli.
 
 * `85` Svamp Toast
-  > Tryffelstuvad svamp på smörstekt bröd med knaprigt bacon.
+  > Tryffelstuvad svamp på smörstekt bröd med knaprigt bacon.
 
 * `89` Gambas
-  > Chili & vitlöksfrästa räkor, serveras med vitlöksbröd.
+  > Chili & vitlöksfrästa räkor, serveras med vitlöksbröd.
 
 * `1p 79, 2p 139` Plocktallrik
   > Ost, charkuteri, husets marmelad & tilltugg
@@ -36,18 +36,18 @@
   > Cheddar, bacon & hamburgerdressing
 
 * `139` Bourbon
-  > Pepperjack ost, Lökringar & Bourbon BBQ dressing
+  > Pepperjack ost, Lökringar & Bourbon BBQ dressing
 
 * `139` Tryffel
-  > Smörstekt svamp, rökt sidfläsk & tryffelmajonäs
+  > Smörstekt svamp, rökt sidfläsk & tryffelmajonäs
 
 * `139` Japansk
-  > Syrad ingefära, salladslök & wasabimajonäs
+  > Syrad ingefära, salladslök & wasabimajonäs
 
 * `10:-/st` Dips
   > Bearnaise, Bluecheese, Chili, Salsa, Aioli
 
-**Samtliga burgare serveras med pommes frites, sallad, tomat & rödlök.**
+**Samtliga burgare serveras med pommes frites, sallad, tomat & rödlök.**
 
 *Välj mellan 100% nötkött eller halloumi*
 
@@ -57,25 +57,25 @@
 ## Varmrätter
 
 * `139` Tomatrisotto
-  > Halvtorkade körsbärstomater, saffrans aioli & Serrano chips.
+  > Halvtorkade körsbärstomater, saffrans aioli & Serrano chips.
 
-* `109` Caesarsallad
-  > Romansallad slungad med krutonger, Grana Padano & bacon. Kyckling, Gambas eller Halloumi +30:-
+* `139` Caesarsallad
+  > Romansallad slungad med krutonger, Grana Padano & bacon.<br>Alternativ: Kyckling, Scampi eller Halloumi
 
-* `159` Confiterat anklår
-  > Serveras med palsternackspuré, rosmarinsky & säsongens primörer. Valfri side.
+* `159` Confiterat anklår
+  > Serveras med palsternackspuré, rosmarinsky & säsongens primörer. Valfri side.
 
 * `169` Ryggbiff
-  > Bearnaise, rödvinsky & säsongens primörer. Valfri side.
+  > Bearnaise, rödvinsky & säsongens primörer. Valfri side.
 
-* `179` Lammytterfilé
-  > Ljummen rödbetsallad på chevré, valnötter, balsamico & rosmarinsky. Valfri side.
+* `179` Lammytterfilé
+  > Ljummen rödbetsallad på chevré, valnötter, balsamico & rosmarinsky. Valfri side.
 
-* `219` Oxfilé
-  > Rullad i svartpeppar, grönpepparsås & säsongens primörer. Valfri side.
+* `219` Oxfilé
+  > Rullad i svartpeppar, grönpepparsås & säsongens primörer. Valfri side.
 
 * `35` Sides
-  > pommes frites, potatisgratäng, trädgårds sallad, potatis/palsternacks puré.
+  > pommes frites, potatisgratäng, trädgårds sallad, potatis/palsternacks puré.
 
 
 ## Dessert
@@ -84,7 +84,7 @@
   > Havthornsorbet & riven choklad
 
 * `69` Choklad brownie
-  > Vaniljglass & bärcoulis
+  > Vaniljglass & bärcoulis
 
 * `39` Husets chokladtryffel
 
