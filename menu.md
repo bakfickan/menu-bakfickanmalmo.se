@@ -119,13 +119,16 @@
 * `65` Corona _33cl 4,5%_
 * `65` Mariestad _50cl 5,3%_
 * `65` Newcastle Brown Ale _33cl 4,7%_
+* `65` The Tail Of A Whale _33cl 4,8%_
 * `69` A Ship Full Of IPA _33cl 5,8%_
+* `69` Södra EKO Pale Ale _33cl 5,0%_
 * `69` Firestone Easy Jack _33cl 4,5%_
 * `69` Ginger Beer _33cl 4,5%_
 * `69` Kallholmen Levande IPA _33cl 5,6%_
 * `69` Sleepy Bulldog Pale Ale _(eko) 33cl 5,0%_
 * `69` Wisby Stout _33cl 5,0%_
 * `69` Leffe Blonde _33cl 6,6%_
+* `69` Sapporo _33cl 4,7%_
 * `69` Mariestad Old Ox _50cl 6,9%_
 * `72` Brutal Bulldog DIPA _33cl 8,4%_
 * `72` Duvel _33cl 8,5%_
