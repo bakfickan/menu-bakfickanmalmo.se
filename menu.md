@@ -74,13 +74,8 @@
 * `189` Lammytterfilé
   > Calvadoskokta päron, vanötter, svartvinbärssky. Valfri side.
 
-#### Sides 35:-/st
-
-* Pommes frites
-* Dillslungad potatis
-* Trädgårdssallad
-* Potatispuré
-* Lökringar 
+* `35/st` Sides
+  > Pommes frites, Dillslungad potatis, Trädgårdssallad, Potatispuré, Lökringar 
 
 
 ## Dessert
