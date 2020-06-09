@@ -12,7 +12,7 @@
 * `89` Snackkorg
 
 * `10:-/st` Extra sås:
-  > aioli, salsa, blue cheese, bearnaise
+  > Bearnaise, Bluecheese, Wasabi mayo, Chili, Salsa, Aioli
 
 
 ## Förrätter
@@ -20,14 +20,14 @@
 * `39` Vitlöksbröd
   > Lantbröd stekt i örtigt vitlökssmör, serveras med aioli.
 
-* `85` Svamp Toast
-  > Tryffelstuvad svamp på smörstekt bröd med knaprigt bacon.
+* `85` Toast Napolitana
+  > Mossarella gratinerad toast med tomat, pesto & pinjenötter.
 
 * `89` Gambas
   > Chili & vitlöksfrästa räkor, serveras med vitlöksbröd.
 
-* `1p 79, 2p 139` Plocktallrik
-  > Ost, charkuteri, husets marmelad & tilltugg
+* `119` Charktallrik
+  > Carkuteri, husets marmelad & tilltugg.
 
 
 ## Burgare
@@ -35,64 +35,64 @@
 * `99` Klassisk
   > Cheddar, bacon & hamburgerdressing
 
-* `139` Bourbon
+* `139` Jack Daniels
   > Pepperjack ost, Lökringar & Bourbon BBQ dressing
 
-* `139` Tryffel
-  > Smörstekt svamp, rökt sidfläsk & tryffelmajonäs
+* `139` Italian
+  > Mossarella, Serrano skinka & tomat ragu
 
-* `139` Japansk
-  > Syrad ingefära, salladslök & wasabimajonäs
+* `139` Roquefort
+  > Bluecheese, bacon & örtmajonäs
 
-* `10:-/st` Dips
-  > Bearnaise, Bluecheese, Chili, Salsa, Aioli
+**Samtliga burgare serveras med pommes frites, briochebröd, sallad, tomat & rödlök.**
 
-**Samtliga burgare serveras med pommes frites, sallad, tomat & rödlök.**
+*Välj mellan 100% nötkött eller halloumi.*
 
-*Välj mellan 100% nötkött eller halloumi*
-
-*Lökringar +20kr • Briochebröd +10kr*
+*Lökringar +20kr*
 
 
 ## Varmrätter
 
-* `139` Tomatrisotto
-  > Halvtorkade körsbärstomater, saffrans aioli & Serrano chips.
+* `139` Bakfickans Räkmacka
+  > 150g handskalade räkor, kokt ägg, dillmajonäs & citron
 
 * `139` Caesarsallad
-  > Romansallad slungad med krutonger, Grana Padano & bacon.<br>Alternativ: Kyckling, Scampi eller Halloumi
+  > med pankopanerad kycklingfilé, bacon, krutonger & grana padano
 
-* `–` Veckans fisk
-  > Fråga personalen
+* `139` Sparris risotto
+  > Med ramslök
 
-* `–` Veckans gryta
-  > Fråga personalen
+* `169` Moules Frites
+  > blåmusslor kokta i vitt vin, grädde & vitlök. Serveras med pommes och aioli.
 
-* `159` Confiterat anklår
-  > Serveras med palsternackspuré, rosmarinsky & säsongens primörer. Valfri side.
+* `–––` Veckans Fisk
+  > (Fråga personalen)
 
 * `169` Ryggbiff
   > Bearnaise, rödvinsky & säsongens primörer. Valfri side.
 
-* `179` Lammytterfilé
-  > Ljummen rödbetsallad på chevré, valnötter, balsamico & rosmarinsky. Valfri side.
+* `189` Lammytterfilé
+  > Calvadoskokta päron, vanötter, svartvinbärssky. Valfri side.
 
-* `219` Oxfilé
-  > Rullad i svartpeppar, grönpepparsås & säsongens primörer. Valfri side.
+#### Sides 35:-/st
 
-* `35` Sides
-  > pommes frites, potatisgratäng, trädgårds sallad, potatis/palsternacks puré.
+* Pommes frites
+* Dillslungad potatis
+* Trädgårdssallad
+* Potatispuré
+* Lökringar 
 
 
 ## Dessert
 
-* `59` Vit chokladmousse
-  > Havthornsorbet & riven choklad
+* `59` Äppelpaj
+  > Med vaniljglass
 
-* `69` Choklad brownie
-  > Vaniljglass & bärcoulis
+* `69` Ostbricka
+  > Utvalda ostar, husets marmelad & tilltugg
 
 * `39` Husets chokladtryffel
+  > (fråga personalen)
 
 * `39` Sorbet
 
@@ -108,10 +108,10 @@
 * `59` Norrlands Guld _40cl 5,3%_
 * `59` Mariestad Continental _40cl 4,2%_
 * `67` Krušovice _40cl 5,0%_
-* `69` Rotating Tap _40cl_
-* `72` Wisby Bulldog IPA _40cl 6,4%_
-* `79` Wisby Klosteröl _50cl 5,0%_
-* `79` Paulaner Hefe Weißbier _50cl 5,5%_
+* `72` Rotating Tap _40cl_
+* `75` Wisby Bulldog IPA _40cl 5,0%_
+* `79` Wisby Klosteröl _50cl 5,5%_
+* `79` Paulaner Hefe Weißbier _50cl 5,0%_
 
 
 ## Flasköl
@@ -125,7 +125,6 @@
 * `65` Corona _33cl 4,5%_
 * `65` Mariestad _50cl 5,3%_
 * `65` Newcastle Brown Ale _33cl 4,7%_
-* `65` The Tail Of A Whale _33cl 4,8%_
 * `69` A Ship Full Of IPA _33cl 5,8%_
 * `69` Södra EKO Pale Ale _33cl 5,0%_
 * `69` Firestone Easy Jack _33cl 4,5%_
@@ -133,7 +132,7 @@
 * `69` Kallholmen Levande IPA _33cl 5,6%_
 * `69` Sleepy Bulldog Pale Ale _(eko) 33cl 5,0%_
 * `69` Wisby Stout _33cl 5,0%_
-* `69` Leffe Blonde _33cl 6,6%_
+* `69` Blue Moon Belgian White _33cl 5,4%_
 * `69` Sapporo _33cl 4,7%_
 * `69` Mariestad Old Ox _50cl 6,9%_
 * `72` Brutal Bulldog DIPA _33cl 8,4%_
