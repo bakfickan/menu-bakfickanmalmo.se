@@ -4,92 +4,97 @@
 * `39` Pommeskorg
 
 * `69` Hot Wings
-  > slungade i chilisås, serveras med grönsaksstavar & blue cheese dip
+  > Serveras med grönsaksstavar & bluecheese dip
+
+* `79` Snackkorg
 
 * `79` Ostgratinerade Nachos
-  > serveras med jalapeños, salsa & aioli
-
-* `89` Snackkorg
+  > Serveras med jalapeños, salsa & aioli
 
 * `10:-/st` Extra sås:
-  > Bearnaise, Bluecheese, Wasabi mayo, Chili, Salsa, Aioli
+  > Aioli, Salsa, Bluecheese, Bearnaise, Tryffelmajonäs, Chilisås
 
 
 ## Förrätter
 
 * `39` Vitlöksbröd
-  > Lantbröd stekt i örtigt vitlökssmör, serveras med aioli.
+  > Serveras med aioli
 
-* `85` Toast Napolitana
-  > Mossarella gratinerad toast med tomat, pesto & pinjenötter.
+* `79` Honungsgratinerad Chevré
+  > Serveras med rödbetor och valnötter
+
+* `89` Svamptoast
+  > Tryffelstuvad svamp på lantbröd med varmrökt sidfläsk
 
 * `89` Gambas
-  > Chili & vitlöksfrästa räkor, serveras med vitlöksbröd.
-
-* `119` Charktallrik
-  > Carkuteri, husets marmelad & tilltugg.
+  > Chili & vitlöksfrästa, serveras med vitlöksbröd
 
 
 ## Burgare
 
 * `99` Klassisk
-  > Cheddar, bacon & hamburgerdressing
+  > Med ost, bacon & hamburgardressing
 
 * `139` Jack Daniels
-  > Pepperjack ost, Lökringar & Bourbon BBQ dressing
+  > Med Pepperjack ost, BBQ-sås & lökringar
 
-* `139` Italian
-  > Mossarella, Serrano skinka & tomat ragu
+* `139` Tryffel
+  > Med rökt sidfläsk, stekt svamp, tryffelmajonäs
 
 * `139` Roquefort
-  > Bluecheese, bacon & örtmajonäs
+  > Med rostad paprika, syrad lök, salsa & briochebröd
 
-**Samtliga burgare serveras med pommes frites, briochebröd, sallad, tomat & rödlök.**
+**Samtliga burgare serveras med pommes frites, sallad, tomat, lök, coleslaw & saltgurka**
 
-*Välj mellan 100% nötkött eller halloumi.*
-
+*Extra sås +10kr*
 *Lökringar +20kr*
 
 
 ## Varmrätter
 
-* `139` Bakfickans Räkmacka
-  > 150g handskalade räkor, kokt ägg, dillmajonäs & citron
+* `139` Svamprisotto
+  > Toppad med syrad lök, grana padano
 
 * `139` Caesarsallad
-  > med pankopanerad kycklingfilé, bacon, krutonger & grana padano
+  > Bacon, krutonger & grana padano. Välj mellan scampi, halloumi eller kyckling.
 
-* `139` Sparris risotto
-  > Med ramslök
-
-* `169` Moules Frites
-  > blåmusslor kokta i vitt vin, grädde & vitlök. Serveras med pommes och aioli.
+* `–––` Veckans Gryta
+  > (Fråga personalen)
 
 * `–––` Veckans Fisk
   > (Fråga personalen)
 
-* `169` Ryggbiff
-  > Bearnaise, rödvinsky & säsongens primörer. Valfri side.
+* `139` Nattbakad Grissida
+  > Serveras med potatispuré, gräddsås & rårörda lingon
+
+* `159` Confiterat Anklår
+  > Serveras med potatispuré, rödvinsås & säsongens primörer
+
+* `169` Grillad Ryggbiff
+  > Serveras med rödvinsås, bearnaise, säsongens primörer & potatisgratäng
 
 * `189` Lammytterfilé
-  > Calvadoskokta päron, vanötter, svartvinbärssky. Valfri side.
+  > med ljummen chevré & rödbetssallad, rödvinsky, valnötter & valfri potatis
 
-* `35/st` Sides
-  > Pommes frites, Dillslungad potatis, Trädgårdssallad, Potatispuré, Lökringar 
+* `229` Pepparstek
+  > Oxfilé med säsongens primörer
+
+* `35/st` Extra sides
+  > Pommes frites, potatispuré, potatisgratäng, side sallad
 
 
 ## Dessert
 
-* `59` Äppelpaj
-  > Med vaniljglass
+* `39` Husets tryffel
 
-* `69` Ostbricka
-  > Utvalda ostar, husets marmelad & tilltugg
+* `39` Vaniljglass
+  > Serveras med chokladsås
 
-* `39` Husets chokladtryffel
-  > (fråga personalen)
+* `59` Blåbärspaj
+  > Serveras med vaniljglass
 
-* `39` Sorbet
+* `89` Osttallrik
+  > Serveras med husets marmelad & tilltugg
 
 
 ## Kaffe / Te / Läsk
