@@ -3,7 +3,7 @@
 
 * `39` Pommeskorg
 
-* `69` Hot Wings
+* `79` Hot Wings
   > Serveras med grönsaksstavar & bluecheese dip
 
 * `79` Snackkorg
@@ -76,7 +76,7 @@
 * `189` Lammytterfilé
   > med ljummen chevré & rödbetssallad, rödvinsky, valnötter & valfri potatis
 
-* `229` Pepparstek
+* `219` Pepparstek
   > Oxfilé med säsongens primörer
 
 * `35/st` Extra sides
