@@ -42,7 +42,7 @@
   > Med rökt sidfläsk, stekt svamp, tryffelmajonäs
 
 * `139` Roquefort
-  > Med rostad paprika, syrad lök, salsa & briochebröd
+  > Bluecheese, bacon & örtmajonäs
 
 **Samtliga burgare serveras med pommes frites, sallad, tomat, lök, coleslaw & saltgurka**
 
