@@ -1,42 +1,45 @@
 
-## Dagens meny, V. 49
+## Dagens meny, V. 50
 
 ### Måndag
 
-* `95` Pannbiff
-  > Med stekt ägg, skysås och rostad potatis.
+* `95` Wallenbergare
+  > Med potatismos, skirat smör, rårörda lingon samt gröna ärtor.
 
 ### Tisdag
 
-* `95` Stekt sill
-  > Med brynt smör, rårörda lingon, potatismos samt ärtor.
+* `95` Lasagne
+  > Med tomatsås.
 
 ### Onsdag
 
-* `95` Fläskschnitzel
-  > Med rödvinssky, stekt potatis, kryddsmör samt ärtor.
+* `95` Jägarschnitzel
+  > Med svampsås & stekt potatis.
 
 ### Torsdag
 
-* `95` Svamprisotto
-  > Med grana padano och syltad rödlök.
+* `95` Baconlindat kycklingbröst
+  > Med strimlad purjolökspotatis, svartvinbärsgelé och gräddsås.
 
 ### Fredag
 
-* `95` Grillad entrecôte
-  > Med klyftpotatis, bearnaise och skysås.
+* `95` Grillad fläskfilé
+  > Med klyftpotatis och rosmarinsky.
 
 
 ## Stående alternativ
 
 * `95` Bakfickans Klassiska Hamburgare
-  > Med ost, bacon & hamburgardressing. Serveras med pommes.
+  > Med ost, bacon & hamburgardressing. Serveras med pommes frites.
+
+* `119` Entrecôte
+  > Med klyftpotatis, skysås & bearnaisesås.
+
+* `119` Klassisk Skånsk Kalops
+  > Serveras med kokt potatis och rödbetor.
+
+* `119` Friterad skädda
+  > Med räkor, remouladsås och kokt potatis.
 
 * `119` Caesarsallad
-  > Bacon, krutonger & grana padano. Välj mellan scampi, halloumi eller kyckling.
-
-* `119` Veckans gryta
-  > (Fråga personalen)
-
-* `119` Fish and chips
-  > Med aioli
+  > Med bacon, krutonger & grana padano. Välj mellan scampi, halloumi eller kyckling.
