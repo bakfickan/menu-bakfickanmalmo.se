@@ -3,13 +3,12 @@
 
 ### Måndag
 
-* `95` Wallenbergare
-  > Med potatismos, skirat smör, rårörda lingon samt gröna ärtor.
+* `-` *STÄNGT*
 
 ### Tisdag
 
-* `95` Lasagne
-  > Med tomatsås.
+* `95` Klassisk lövbiff
+  > Med kryddsmör, skysås och pommes frites.
 
 ### Onsdag
 
@@ -18,8 +17,8 @@
 
 ### Torsdag
 
-* `95` Baconlindat kycklingbröst
-  > Med strimlad purjolökspotatis, svartvinbärsgelé och gräddsås.
+* `95` Wallenbergare
+  > Med potatismos, skirat smör, rårörda lingon samt gröna ärtor.
 
 ### Fredag
 
