@@ -1,29 +1,29 @@
-
-## Dagens meny, V. 50
+## Dagens meny, V. 51
 
 ### Måndag
 
-* `-` *STÄNGT*
+* `95` Biff á la Lindström
+  > Med skysås, stekt ägg, ugnstekt potatis, rödbetor & kapris.
 
 ### Tisdag
 
-* `95` Klassisk lövbiff
-  > Med kryddsmör, skysås och pommes frites.
+* `95` Dansk Fläskestek
+  > Med gräddsås, rödkål, äpplemos samt rostad potatis.
 
 ### Onsdag
 
-* `95` Jägarschnitzel
-  > Med svampsås & stekt potatis.
+* `95` Fläsk Wienerschnitzel
+  > Med skysås, citron, ansjovis, kapris samt stekt potatis.
 
 ### Torsdag
 
-* `95` Wallenbergare
-  > Med potatismos, skirat smör, rårörda lingon samt gröna ärtor.
+* `95` Stekt fläsk med lök
+  > Med kokt potatis och persilja.
 
 ### Fredag
 
-* `95` Grillad fläskfilé
-  > Med klyftpotatis och rosmarinsky.
+* `95` Biff Rydberg
+  > Med senapscréme och äggula.
 
 
 ## Stående alternativ
@@ -34,8 +34,8 @@
 * `119` Entrecôte
   > Med klyftpotatis, skysås & bearnaisesås.
 
-* `119` Klassisk Skånsk Kalops
-  > Serveras med kokt potatis och rödbetor.
+* `119` Coq au vin
+  > Serveras med tryffelpuré.
 
 * `119` Friterad skädda
   > Med räkor, remouladsås och kokt potatis.
