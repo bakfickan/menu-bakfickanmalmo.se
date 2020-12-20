@@ -1,29 +1,29 @@
-## Dagens meny, V. 51
+## Dagens meny, V. 52
 
 ### Måndag
 
-* `95` Biff á la Lindström
-  > Med skysås, stekt ägg, ugnstekt potatis, rödbetor & kapris.
+* `95` Baconlindad köttfärslimpa
+  > Med gräddsås, lingon, och kokt potatis.
 
 ### Tisdag
 
-* `95` Dansk Fläskestek
-  > Med gräddsås, rödkål, äpplemos samt rostad potatis.
+* `95` Sjömansbiff
+  > Med potatis, inlagd gurka och senap.
 
 ### Onsdag
 
-* `95` Fläsk Wienerschnitzel
-  > Med skysås, citron, ansjovis, kapris samt stekt potatis.
+* `95` Fläskschnitzel
+  > Med skysås, gröna ärtor & stekt potatis.
 
 ### Torsdag
 
-* `95` Stekt fläsk med lök
-  > Med kokt potatis och persilja.
+* `<>` Stängt!!!
+  > JULAFTON . God Jul allesammans.
 
 ### Fredag
 
-* `95` Biff Rydberg
-  > Med senapscréme och äggula.
+* `95` EntrécÔte  
+  > Med bearnaise, kryddsmör samt pommes frites.
 
 
 ## Stående alternativ
@@ -31,14 +31,11 @@
 * `95` Bakfickans Klassiska Hamburgare
   > Med ost, bacon & hamburgardressing. Serveras med pommes frites.
 
-* `119` Entrecôte
-  > Med klyftpotatis, skysås & bearnaisesås.
+* `119` Italiens bondgryta
+  > Med Lantbröd.
 
-* `119` Coq au vin
-  > Serveras med tryffelpuré.
-
-* `119` Friterad skädda
-  > Med räkor, remouladsås och kokt potatis.
+* `119` Fish & Chips 
+  > Med aioli.
 
 * `119` Caesarsallad
   > Med bacon, krutonger & grana padano. Välj mellan scampi, halloumi eller kyckling.
