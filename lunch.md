@@ -22,7 +22,7 @@
 
 ### Fredag
 
-* `95` EntrécÔte  
+* `95` Entrécote  
   > Med bearnaise, kryddsmör samt pommes frites.
 
 
@@ -31,7 +31,7 @@
 * `95` Bakfickans Klassiska Hamburgare
   > Med ost, bacon & hamburgardressing. Serveras med pommes frites.
 
-* `119` Italiens bondgryta
+* `119` Italiensk bondgryta
   > Med Lantbröd.
 
 * `119` Fish & Chips 
