@@ -17,13 +17,13 @@
 
 ### Torsdag
 
-* `<>` Stängt!!!
+* `95` Stängt!!!
   > NYÅRSAFTON!! . Gott nytt år - Vi ses 2021 allesammans.
 
 ### Fredag
 
-* `95` STÄNGT! Välkomna åter den 2/1-2021 
-  > 
+* `95` STÄNGT!  
+  > Välkomna åter den 2/1-2021
 
 
 ## Stående alternativ
