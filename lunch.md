@@ -1,29 +1,29 @@
-## Dagens meny, V. 52
+## Dagens meny, V. 1
 
 ### Måndag
 
-* `95` Baconlindad köttfärslimpa
-  > Med gräddsås, lingon, och kokt potatis.
+* `95` Pannbiff med lök
+  > Stekt ägg, skysås och kokt potatis.
 
 ### Tisdag
 
-* `95` Sjömansbiff
-  > Med potatis, inlagd gurka och senap.
+* `95` Lövbiff
+  > Med örtsmör, pommes frites & bearnaise.
 
 ### Onsdag
 
-* `95` Fläskschnitzel
-  > Med skysås, gröna ärtor & stekt potatis.
+* `95` Jägarschnitzel
+  > Med svampsås & stekt potatis.
 
 ### Torsdag
 
 * `<>` Stängt!!!
-  > JULAFTON . God Jul allesammans.
+  > NYÅRSAFTON!! . Gott nytt år - Vi ses 2021 allesammans.
 
 ### Fredag
 
-* `95` Entrécote  
-  > Med bearnaise, kryddsmör samt pommes frites.
+* `95` STÄNGT! Välkomna åter den 2/1-2021 
+  > 
 
 
 ## Stående alternativ
