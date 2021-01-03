@@ -1,29 +1,29 @@
-## Dagens meny, V. 53
+## Dagens meny, V. 1
 
 ### Måndag
 
-* `95` Pannbiff med lök
-  > Stekt ägg, skysås och kokt potatis.
+* `95` Biff á la Lindström
+  > Stekt ägg, rödvinssky och kokt potatis.
 
 ### Tisdag
 
-* `95` Lövbiff
-  > Med örtsmör, pommes frites & bearnaise.
+* `95` Kycklingspett med krispig potatis
+  > Stekta grönsaker, & citronsås.
 
 ### Onsdag
 
-* `95` Jägarschnitzel
-  > Med svampsås & stekt potatis.
+* `95` Klassisk Wienerschnitzel
+  > Med stekt potatis, skysås, kapris, ansjovis & citron.
 
 ### Torsdag
 
-* `95` STÄNGT!!!
-  > NYÅRSAFTON =) . Gott nytt år - Vi ses 2021 allesammans.
+* `95` Dansk fläskestek med rostad potatis.
+  > Rödkål, äpplemos & gräddsås.
 
 ### Fredag
 
-* `95` STÄNGT!!! 
-  > Välkomna åter den 2/1-2021
+* `95` Svampfylld Oxrullad
+  > Med potatismos & lingon.
 
 
 ## Stående alternativ
@@ -31,11 +31,14 @@
 * `95` Bakfickans Klassiska Hamburgare
   > Med ost, bacon & hamburgardressing. Serveras med pommes frites.
 
-* `119` Italiensk bondgryta
-  > Med Lantbröd.
+* `119` Skånsk kalops.
+  > Med kokt potatos & rödbetor
 
-* `119` Fish & Chips 
-  > Med aioli.
+* `119` Panerad Torskrygg med kokt potatis.
+  > Remouladsås & citron.
 
 * `119` Caesarsallad
   > Med bacon, krutonger & grana padano. Välj mellan scampi, halloumi eller kyckling.
+  
+* `119` Ryggbiff med pommes frites & bearnaisesås.
+  >
