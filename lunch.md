@@ -17,8 +17,8 @@
 
 ### Torsdag
 
-* `95` Grillspett på fläskfilé
-  > Serveras med stekta grönsaker, tzatziki & krispig potatis.
+* `95` Fläskfilémedaljonger
+  > Serveras med bearnaise & sky, samt krispig potatis.
 
 ### Fredag
 
