@@ -1,29 +1,29 @@
-## Dagens meny, V. 2
+## Dagens meny, V. 3
 
 ### Måndag
 
-* `95` Persiljejärpar
-  > Med potatispuré, gräddsås & lingon.
+* `95` Kålpudding
+  > Med kokt potatis, gräddsås, lingon & ättiksgurka.
 
 ### Tisdag
 
-* `95` Stekt fläsk med löksås
-  > Serveras med kokt potatis & lingon.
+* `95` Fläskpannkaka med lingon
+  > 
 
 ### Onsdag
 
-* `95` Schnitzel
-  > Med stekt potatis, gröna ärtor & skysås.
+* `95` Schnitzel Milanese
+  > Med örtslungad pasta.
 
 ### Torsdag
 
-* `95` Fläskfilémedaljonger
-  > Serveras med bearnaise & sky, samt krispig potatis.
+* `95` Gratinerad falukorv 
+  > Serveras med tomatsås & potatispuré.
 
 ### Fredag
 
-* `95` Biff Rydberg
-  > Ryggbiff, lök & potatis samt en senaps créme.
+* `95` Lövbiff
+  > Med vitlöksfräst svamp, skysås & krispig potatis.
 
 
 ## Stående alternativ
@@ -31,14 +31,14 @@
 * `95` Bakfickans Klassiska Hamburgare
   > Med ost, bacon & hamburgardressing. Serveras med pommes frites.
 
-* `119` Bouef Bourguignon.
-  > Med potatispuré.
+* `119` Spansk chorizogryta
+  > Serveras med lantbröd.
 
-* `119` Panerad Torskrygg
-  > Ärtpuré, tartarsås samt pommes frites & citron.
+* `119` Fish & chips med aioli & citron.
+  > 
 
 * `119` Caesarsallad
   > Med bacon, krutonger & grana padano. Välj mellan scampi, halloumi eller kyckling.
   
-* `119` Ryggbiff 
-  > Med pommes frites & bearnaisesås.
+* `119` Babyback ribs
+  > Med bbqsås, coleslaw samt pommes frites.
