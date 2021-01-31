@@ -2,28 +2,28 @@
 
 ### Måndag
 
-* `95` Pannbiff med lök
-  > Med kokt potatis, skysås & lingon.
+* `95` Skogsjärpar 
+  > Med svampsky, rostad potatis & lingon.
 
 ### Tisdag
 
-* `95` Pytt i panna med stekt ägg & rödbetor.
-  > 
+* `95` Råraka 
+  > Med stekt fläsk & lingon.
 
 ### Onsdag
 
-* `95` Jägarschnitzel  
-  > Med svampsås & stekt potatis
+* `95` Fläskschnitzel  
+  > Med skysås,gröna ärtor & stekt potatis
 
 ### Torsdag
 
-* `95` Baconlindad kycklingfilé
-  > Serveras med ädelostsås & potatispuré.
+* `95` Lasagne
+  > Serveras med tomatsås.
 
 ### Fredag
 
-* `95` Slottsstek
-  > Med kokt potatis, gräddsås & pressgurka.
+* `95` Steaksandwich
+  > Med entrécote, stekt ägg, karamelliserad lök & bearnaisesås.
 
 
 ## Stående alternativ
@@ -31,8 +31,8 @@
 * `95` Bakfickans Klassiska Hamburgare
   > Med ost, bacon & hamburgardressing. Serveras med pommes frites.
 
-* `119` Boeuf Bourguignong
-  > Serveras med potatispuré.
+* `119` Gulash 
+  > Serveras med lantbröd & créme fraiche.
 
 * `119` Fish & chips med aioli & citron.
   
