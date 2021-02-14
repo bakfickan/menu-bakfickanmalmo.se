@@ -40,6 +40,6 @@
 * `119` Caesarsallad
   > bacon, krutonger & grana padano. Välj mellan scampi, halloumi eller kyckling.
   
-* `119` Ryggbiff med pommes frites & bearnaise.
-  
+* `119` Ryggbiff 
+  > pommes frites & bearnaise.
 
