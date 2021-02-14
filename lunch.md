@@ -23,7 +23,7 @@
 ### Fredag
 
 * `95` Porterstek
-  > sereveras på klassiskt vis.
+  > serveras på klassiskt vis.
 
 
 ## Stående alternativ
