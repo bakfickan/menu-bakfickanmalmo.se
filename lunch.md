@@ -1,44 +1,44 @@
-## Dagens meny, V. 6
+## Dagens meny, V. 7
 
 ### Måndag
 
-* `95` Lunchstängt pga byte av ventilation
-  > 
+* `95` Biff Rydberg 
+  > med stekt ägg, kokt potatis & skysås
 
 ### Tisdag
 
-* `95` Stekt fläsk med löksås
-  > Serveras med kokt potatis & lingon.
+* `95` Dansk fläskestek 
+  > rostade rotfrukter, gräddsås, äpplemos & rödkål.
 
 ### Onsdag
 
-* `95` Klassisk schnitzel med citron, kapris & anjovis  
-  > Serveras med skysås & stekt potatis.
+* `95` Fläskschnitzel   
+  > gröna ärtor, stekt potatis & skysås.
 
 ### Torsdag
 
-* `95` Hallstrad laxfjäril
-  > Serveras med hollandaiesås, gröna ärtor & potatispuré.
+* `95` Pytt Bellman 
+  > saltgurka, äggula & rödbetor.
 
 ### Fredag
 
-* `95` Fläskfilémedaljonger
-  > Med svamsås & klyftpotatis.
+* `95` Porterstek
+  > sereveras på klassiskt vis.
 
 
 ## Stående alternativ
 
 * `95` Bakfickans Klassiska Hamburgare
-  > Med ost, bacon & hamburgardressing. Serveras med pommes frites.
+  > ost, bacon & hamburgardressing. Serveras med pommes frites.
 
-* `119` Chili på högrev
-  > Serveras med lantbröd & créme fraiche.
+* `119` Chiq au vin 
+  > haricot verts samt potatis.
 
-* `119` Fish & chips med aioli & citron.
-  
+* `119` Fish & chips 
+  > aioli & citron.
 
 * `119` Caesarsallad
-  > Med bacon, krutonger & grana padano. Välj mellan scampi, halloumi eller kyckling.
+  > bacon, krutonger & grana padano. Välj mellan scampi, halloumi eller kyckling.
   
 * `119` Ryggbiff med pommes frites & bearnaise.
   
