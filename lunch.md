@@ -8,7 +8,7 @@
 ### Tisdag
 
 * `95` Stekt fläsk
-  > med raggmunk samt lingon.
+  > med råraka samt lingon.
 
 ### Onsdag
 
