@@ -1,29 +1,29 @@
-## Dagens meny, V. 7
+## Dagens meny, V. 8
 
 ### Måndag
 
-* `95` Biff Rydberg 
-  > med stekt ägg, kokt potatis & skysås
+* `95` Kålpudding
+  > med kokt potatis samt lingon & gräddsås.
 
 ### Tisdag
 
-* `95` Dansk fläskestek 
-  > rostade rotfrukter, gräddsås, äpplemos & rödkål.
+* `95` Stekt fläsk
+  > med raggmunk samt lingon.
 
 ### Onsdag
 
-* `95` Fläskschnitzel   
-  > gröna ärtor, stekt potatis & skysås.
+* `95` Jägarschnitzel
+  > svampsås & stekt potatis.
 
 ### Torsdag
 
-* `95` Pytt Bellman 
-  > saltgurka, äggula & rödbetor.
+* `95` Plommonspäckad karré
+  > gräddsås, gröna ärtor kokt potatis.
 
 ### Fredag
 
-* `95` Porterstek
-  > serveras på klassiskt vis.
+* `95` Lövbiff
+  > chilismör & rostad potatis, samt skysås.
 
 
 ## Stående alternativ
