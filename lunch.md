@@ -1,29 +1,29 @@
-## Dagens meny, V. 8
+## Dagens meny, V. 9
 
 ### Måndag
 
-* `95` Kålpudding
-  > med kokt potatis samt lingon & gräddsås.
+* `95` Persiljejärpar
+  > med potatispuré samt lingon & gräddsås.
 
 ### Tisdag
 
-* `95` Stekt fläsk
-  > med råraka samt lingon.
+* `95` Fläskpannkaka
+  > serveras med lingon.
 
 ### Onsdag
 
-* `95` Jägarschnitzel
-  > svampsås & stekt potatis.
+* `95` Fläsk Schnitzel 
+  > med görna ärtor, skysås & stekt potatis.
 
 ### Torsdag
 
-* `95` Plommonspäckad karré
-  > gräddsås, gröna ärtor kokt potatis.
+* `95` Lasagne 
+  > med tomatsås.
 
 ### Fredag
 
-* `95` Lövbiff
-  > chilismör & rostad potatis, samt skysås.
+* `95` Entrecoté 
+  > med krispig potatis, skysås & vitlökssmör.
 
 
 ## Stående alternativ
@@ -31,8 +31,8 @@
 * `95` Bakfickans Klassiska Hamburgare
   > ost, bacon & hamburgardressing. Serveras med pommes frites.
 
-* `119` Chiq au vin 
-  > haricot verts samt potatis.
+* `119` Skånsk kalops
+  > samt rödbetor & kokt potatis.
 
 * `119` Fish & chips 
   > aioli & citron.
