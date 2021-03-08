@@ -13,7 +13,7 @@
 ### Onsdag
 
 * `95` Schnitzel cordon bleu
-  > med görna ärtor, citronsås & stekt potatis.
+  > med citronsås & stekt potatis.
 
 ### Torsdag
 
