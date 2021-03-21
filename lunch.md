@@ -1,29 +1,29 @@
-## Dagens meny, V. 11
+## Dagens meny, V. 12
 
 ### Måndag
 
-* `95` Baconlindad Köttfärslimpa
-  > med potatispuré, gräddsås & lingon.
+* `95` Nötfärsbiffar
+  > med rostade rotfrukter, gräddsås & lingon.
 
 ### Tisdag
 
-* `95` Raggmunk med stekt fläsk
-  > serveras med lingon
+* `95` Rimmat sidfläsk
+  > med rosmarinsbakad palsternacka, lingon & stekt potatis.
 
 ### Onsdag
 
-* `95` Jägarschnitzel 
-  > med svamsås & stekt potatis.
+* `95` Fläskschnitzel 
+  > med paprikasås & vitlöksrostad potatis.
 
 ### Torsdag
 
-* `95` Laxfjäril 
-  > med potatispuré, hollandaise & gröna ärtor.
+* `95` Dansk fläskestek
+  > med rostad potatis, äpplemos, rödkål & gräddsås.
 
 ### Fredag
 
-* `95` Entrécote 
-  > med chilismör, skysås & pommes frites.
+* `95` Steak sandwich med lökringar
+  > med bearnaise & pommes frites.
 
 
 ## Stående alternativ
@@ -31,8 +31,8 @@
 * `95` Bakfickans Klassiska Hamburgare
   > ost, bacon & hamburgardressing. Serveras med pommes frites.
 
-* `119` Viltgryta 
-  > med svamp & potatispuré.
+* `119` Ölkokt högrev 
+  > med sidfläsk, morötter & potatispuré.
 
 * `119` Fish & chips 
   > aioli & citron.
