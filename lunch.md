@@ -1,29 +1,29 @@
-## Dagens meny, V. 12
+## Dagens meny, V. 13
 
 ### Måndag
 
-* `95` Nötfärsbiffar
-  > med rostade rotfrukter, gräddsås & lingon.
+* `95` Kålpudding
+  > med kokt potatis, gräddsås & lingon.
 
 ### Tisdag
 
-* `95` Rimmat sidfläsk
-  > med rosmarinsbakad palsternacka, lingon & stekt potatis.
+* `95` Stekt fläsk med löksås,
+  > potatis och lingon.
 
 ### Onsdag
 
 * `95` Fläskschnitzel 
-  > med paprikasås & vitlöksrostad potatis.
+  > med skysås, gröna ärtor & stekt potatis.
 
 ### Torsdag
 
-* `95` Dansk fläskestek
-  > med rostad potatis, äpplemos, rödkål & gräddsås.
+* `95` Lasagne med tomatsås
+  > 
 
 ### Fredag
 
-* `95` Steak sandwich med lökringar
-  > med bearnaise & pommes frites.
+* `95` Svampfylld oxrullad
+  > med potatispuré, gräddsås & lingon.
 
 
 ## Stående alternativ
@@ -31,8 +31,8 @@
 * `95` Bakfickans Klassiska Hamburgare
   > ost, bacon & hamburgardressing. Serveras med pommes frites.
 
-* `119` Ölkokt högrev 
-  > med sidfläsk, morötter & potatispuré.
+* `119` Gulasch med créme fraiche & gräslök.
+  > 
 
 * `119` Fish & chips 
   > aioli & citron.
