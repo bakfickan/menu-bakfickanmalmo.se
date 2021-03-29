@@ -17,14 +17,13 @@
 
 ### Torsdag
 
-* `95` Lasagne med tomatsås
-  > 
+* `95`Skärtorsdag - Svampfyllda Oxrullader
+  > med potatispuré, gräddsås & lingon.
 
 ### Fredag
 
-* `95` Svampfylld oxrullad
-  > med potatispuré, gräddsås & lingon.
-
+* `149` Långfredag - Lammstek 
+  > med chévregratinerad potatisgratäng med rosmarinssky. 
 
 ## Stående alternativ
 
