@@ -1,37 +1,34 @@
-## Dagens meny, V. 14
+## Dagens meny, V. 15
 
 ### Måndag
 
-* `95` Annandag Påsk
-  > Öppnar 13.00 med á la carté.
+* `95` Pannbiff 
+  > med lök, kokt potatis & lingon.
 
 ### Tisdag
 
 * `95` Stekt fläsk,
-  > råraka och lingon.
+  > löksås, kokt potatis och lingon.
 
 ### Onsdag
 
-* `95` Fläskschnitzel 
-  > med svampsås & stekt potatis.
+* `95` Schnitzel 
+  > med skysås, gröna ärtor & stekt potatis.
 
 ### Torsdag
 
-* `95` Lasagne med tomatsås.
-  > 
+* `95` Baconlindad kycklingfilé
+  > ädelostsås & potatispuré.
 
 ### Fredag
 
-* `95` Slottsstek
-  >  med gräddsås, lingon & kokt potatis,
+* `95` Lövbiff 
+  >  med örtsmör, skysås & rostad potatis.
 
 ## Stående alternativ
 
 * `95` Bakfickans Klassiska Hamburgare
   > ost, bacon & hamburgardressing. Serveras med pommes frites.
-
-* `119` Italiensk bondgryta serveras med lantbröd.
-  > 
 
 * `119` Fish & chips 
   > aioli & citron.
