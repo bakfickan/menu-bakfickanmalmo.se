@@ -1,14 +1,18 @@
 
 ## Snacks & Smårätter
 
-* `39` Pommeskorg
+* `49` Pommeskorg
+
+* `59` Padronés
+  
+* `59` Lökringar 
 
 * `79` Hot Wings
   > Serveras med grönsaksstavar & bluecheese dip
 
-* `79` Snackkorg
+* `89` Snackkorg
 
-* `79` Ostgratinerade Nachos
+* `89` Ostgratinerade Nachos
   > Serveras med jalapeños, salsa & aioli
 
 * `10:-/st` Extra sås:
@@ -17,13 +21,13 @@
 
 ## Förrätter
 
-* `39` Vitlöksbröd
+* `49` Vitlöksbröd
   > Serveras med aioli
 
 * `89` Melonsallad Serrano
   > med rostade pinjenötter, ruccola & husets dressing.
 
-* `89` Plocktallrik
+* `139` Plocktallrik för 2 personer
   > Charketurier, ostar, husets marmelad & tilltugg.
 
 * `89` Gambas
@@ -44,10 +48,11 @@
 * `139` Roquefort
   > Med roquefort, rökt sidfläsk, syrad lök & gräslöksmajonäs.
 
-**Samtliga burgare är gjorda oxfärs serveras med pommes frites, sallad, tomat, lök, coleslaw & saltgurka**
+**Samtliga burgare är gjorda på oxfärs, serveras med pommes frites, sallad, tomat, lök, coleslaw & saltgurka**
+Samtliga burgare går att få som vegetariskt alternativ med halloumi.
 
 *Extra sås +10kr*
-*Lökringar +20kr*
+
 
 
 ## Varmrätter
@@ -67,24 +72,24 @@
 * `149` Bakfickans räkmacka 
   > På lantbröd med dillmajonäs, kokt ägg & citron.
 
-* `159` Moules frites 
+* `169` Moules frites 
   > Vitvinskokta blåmusslor med pommes frites & aioli.
 
-* `189` Grillad Ryggbiff
+* `179` Grillad Ryggbiff
   > Serveras med rödvinsås, bearnaise, säsongens primörer & valfri side.
 
-* `219` Lammytterfilé 
+* `209` Lammytterfilé 
   > Med potatissallad, fetaost, chimichurri & rostade solrosfrön.
 
-* `35/st` Extra sides
-  > Pommes frites, potatispuré, purjolökspotatis, dillkokt potatis, side sallad, padronés
+* `39/st` Extra sides
+  > Pommes frites, potatispuré, purjolökspotatis, dillkokt potatis, side sallad
   
 
 ## Dessert
 
 * `39` Husets tryffel
 
-* `39` Vaniljglass
+* `45` Vaniljglass
   > Serveras med chokladsås
 
 * `59` Sorbet
