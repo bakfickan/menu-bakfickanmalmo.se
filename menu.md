@@ -78,8 +78,7 @@
 
 * `35/st` Extra sides
   > Pommes frites, potatispuré, purjolökspotatis, dillkokt potatis, side sallad, padronés
-  > 
-  > Har ni några allergier så fråga gärna personalen om vad maten innehåller.
+  
 
 ## Dessert
 
