@@ -12,7 +12,7 @@
   > Serveras med jalapeños, salsa & aioli
 
 * `10:-/st` Extra sås:
-  > Aioli, Salsa, Bluecheese, Bearnaise, Tryffelmajonäs, Chilisås
+  > Aioli, Salsa, Bluecheese, Bearnaise, Chilisås
 
 
 ## Förrätter
@@ -20,11 +20,11 @@
 * `39` Vitlöksbröd
   > Serveras med aioli
 
-* `79` Honungsgratinerad Chevré
-  > Serveras med rödbetor och valnötter
+* `89` Melonsallad Serrano
+  > med rostade pinjenötter, ruccola & husets dressing.
 
-* `89` Svamptoast
-  > Tryffelstuvad svamp på lantbröd med varmrökt sidfläsk
+* `89` Plocktallrik
+  > Charketurier, ostar, husets marmelad & tilltugg.
 
 * `89` Gambas
   > Chili & vitlöksfrästa, serveras med vitlöksbröd
@@ -38,13 +38,13 @@
 * `139` Jack Daniels
   > Med Pepperjack ost, BBQ-sås & lökringar
 
-* `139` Tryffel
-  > Med rökt sidfläsk, stekt svamp, tryffelmajonäs
+* `139` Chili
+  > Med chili relish, jalapenós & cheddar.
 
 * `139` Roquefort
-  > Bluecheese, bacon & örtmajonäs
+  > Med roquefort, rökt sidfläsk, syrad lök & gräslöksmajonäs.
 
-**Samtliga burgare serveras med pommes frites, sallad, tomat, lök, coleslaw & saltgurka**
+**Samtliga burgare är gjorda oxfärs serveras med pommes frites, sallad, tomat, lök, coleslaw & saltgurka**
 
 *Extra sås +10kr*
 *Lökringar +20kr*
@@ -52,36 +52,34 @@
 
 ## Varmrätter
 
-* `139` Svamprisotto
+* `139` Risotte Milanese 
   > Toppad med syrad lök, grana padano
 
 * `139` Caesarsallad
   > Bacon, krutonger & grana padano. Välj mellan scampi, halloumi eller kyckling.
 
-* `–––` Veckans Gryta
-  > (Fråga personalen)
-
 * `–––` Veckans Fisk
   > (Fråga personalen)
 
-* `139` Nattbakad Grissida
-  > Serveras med potatispuré, gräddsås & rårörda lingon
+* `169` Ankbröst
+  > Serveras med apelsin & lökchutney. 
 
-* `159` Confiterat Anklår
-  > Serveras med potatispuré, rödvinsås & säsongens primörer
+* `149` Bakfickans räkmacka 
+  > På lantbröd med dillmajonäs, kokt ägg & citron.
 
-* `169` Grillad Ryggbiff
-  > Serveras med rödvinsås, bearnaise, säsongens primörer & potatisgratäng
+* `159` Moules frites 
+  > Vitvinskokta blåmusslor med pommes frites & aioli.
 
-* `189` Lammytterfilé
-  > med ljummen chevré & rödbetssallad, rödvinsky, valnötter & valfri potatis
+* `189` Grillad Ryggbiff
+  > Serveras med rödvinsås, bearnaise, säsongens primörer & valfri side.
 
-* `219` Pepparstek
-  > Oxfilé med säsongens primörer
+* `219` Lammytterfilé 
+  > Med potatissallad, fetaost, chimichurri & rostade solrosfrön.
 
 * `35/st` Extra sides
-  > Pommes frites, potatispuré, potatisgratäng, side sallad
-
+  > Pommes frites, potatispuré, purjolökspotatis, dillkokt potatis, side sallad, padronés
+  > 
+  > Har ni några allergier så fråga gärna personalen om vad maten innehåller.
 
 ## Dessert
 
@@ -90,11 +88,14 @@
 * `39` Vaniljglass
   > Serveras med chokladsås
 
-* `59` Blåbärspaj
-  > Serveras med vaniljglass
+* `59` Sorbet
+  > Serveras med bärcoulis.
+  
+* `79` Pannacotta
+* > Fråga personalen om veckans smak.
 
-* `89` Osttallrik
-  > Serveras med husets marmelad & tilltugg
+* `99` Osttallrik
+  > 3 sorters ostar serveras med husets marmelad & tilltugg
 
 
 ## Kaffe / Te / Läsk
