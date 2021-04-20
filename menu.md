@@ -24,6 +24,9 @@
 * `49` Vitlöksbröd
   > Serveras med aioli
 
+* `79` Smörstekt sparris
+  > Serveras med grano padano, syrad chili & olivolja.
+
 * `89` Melonsallad Serrano
   > med rostade pinjenötter, ruccola & husets dressing.
 
@@ -96,7 +99,7 @@ Samtliga burgare går att få som vegetariskt alternativ med halloumi.
   > Serveras med bärcoulis.
   
 * `79` Pannacotta
-* > Fråga personalen om veckans smak.
+  > Fråga personalen om veckans smak.
 
 * `99` Osttallrik
   > 3 sorters ostar serveras med husets marmelad & tilltugg
