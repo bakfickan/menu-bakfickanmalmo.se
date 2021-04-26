@@ -1,4 +1,4 @@
-## Dagens meny, V. 17
+## Veckans meny, V. 17
 
 ### Måndag
 
