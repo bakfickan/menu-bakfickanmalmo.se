@@ -1,29 +1,29 @@
-## Dagens meny, V. 16
+## Dagens meny, V. 17
 
 ### Måndag
 
-* `95` Baconlindadköttfärslimpa
-  > med gräddsås, kokt potatis & lingon.
+* `95` Persiljejärpar
+  > med gräddsås, potatispuré & lingon.
 
 ### Tisdag
 
-* `95` Fläskpannkaka 
-  > med rårörda lingon.
+* `95` Pytt Bellmann
+  > med rödbetor.
 
 ### Onsdag
 
-* `95` Schnitzel med ansjovis, citron & kapris 
-  > samt kryddsmör. Serveras med stekt potatis.
+* `95` Kyckling schnitzel cordon bleu
+  > med citronsås & rostad potatis.
 
 ### Torsdag
 
-* `95` Fläskkarré med svampsky
-  > och rostad potatis.
+* `95` Wallenbergare
+  > gräddsås, rårörda lingon, skirat smör & gröna ärtor.
 
 ### Fredag
 
-* `95` Entrécote med 
-  >  med skysås och råstekt potatis.
+* `95` Bookmaker toast
+  >  med äggula & pepparrot.
 
 ## Stående alternativ
 
