@@ -3,7 +3,8 @@
 
 * `49` Pommeskorg
 
-* `59` Padronés
+* `59` Pimientos de Padrón 
+  > Serveras med graña padano & flingsalt.
   
 * `59` Lökringar 
 
@@ -16,7 +17,7 @@
   > Serveras med jalapeños, salsa & aioli
 
 * `10:-/st` Extra sås:
-  > Aioli, Salsa, Bluecheese, Bearnaise, Chilisås
+  > Aioli, Salsa, Bluecheese, Bearnaise, Chilisås, Bbq-sås
 
 
 ## Förrätter
@@ -25,12 +26,12 @@
   > Serveras med aioli
 
 * `79` Smörstekt sparris
-  > Serveras med grano padano, syrad chili & olivolja.
+  > Serveras med graña padano, syrad chili, rostade pinjenötter & olivolja.
 
-* `89` Melonsallad Serrano
-  > med rostade pinjenötter, ruccola & husets dressing.
+* `89` Feta & Melonsallad
+  > Serveras med serrano, oliver, rostade pinjenötter, sallad & husets dressing.
 
-* `139` Plocktallrik för 2 personer
+* `149` Plocktallrik för 2 personer
   > Charketurier, ostar, husets marmelad & tilltugg.
 
 * `89` Gambas
@@ -61,16 +62,16 @@ Samtliga burgare går att få som vegetariskt alternativ med halloumi.
 ## Varmrätter
 
 * `139` Risotte Milanese 
-  > Toppad med syrad lök, grana padano
+  > Toppad med syrad lök, graña padano, rostade tomater & pinjenötter.
 
 * `139` Caesarsallad
-  > Bacon, krutonger & grana padano. Välj mellan scampi, halloumi eller kyckling.
+  > Bacon, krutonger & graña padano. Välj mellan scampi, halloumi eller kyckling.
 
 * `–––` Veckans Fisk
   > (Fråga personalen)
 
 * `169` Ankbröst
-  > Serveras med apelsin & lökchutney. 
+  > Serveras med apelsin & lökchutney samt valfri side. 
 
 * `149` Bakfickans räkmacka 
   > På lantbröd med dillmajonäs, kokt ägg & citron.
@@ -82,7 +83,7 @@ Samtliga burgare går att få som vegetariskt alternativ med halloumi.
   > Serveras med rödvinsås, bearnaise, säsongens primörer & valfri side.
 
 * `209` Lammytterfilé 
-  > Med potatissallad, fetaost, chimichurri & rostade solrosfrön.
+  > Med chevrésallad,rostade solrosfrön, chimichurri och valfri side.
 
 * `39/st` Extra sides
   > Pommes frites, potatispuré, purjolökspotatis, dillkokt potatis, side sallad
