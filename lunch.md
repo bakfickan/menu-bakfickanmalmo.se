@@ -1,29 +1,29 @@
-## Veckans meny, V. 17
+## Veckans meny, V. 18
 
 ### Måndag
 
-* `95` Persiljejärpar
-  > med gräddsås, potatispuré & lingon.
+* `95` Köttbullar
+  > med gräddsås, kokt potatis & lingon.
 
 ### Tisdag
 
-* `95` Pytt Bellmann
-  > med rödbetor.
+* `95` Biff stroganoff 
+  > serveras med cremé fraiche.
 
 ### Onsdag
 
-* `95` Kyckling schnitzel cordon bleu
-  > med citronsås & rostad potatis.
+* `95` Fläskschnitzel 
+  > med skysås, gröna ärtor och råstekt potatis.
 
 ### Torsdag
 
-* `95` Wallenbergare
-  > gräddsås, rårörda lingon, skirat smör & gröna ärtor.
+* `95` Lasagne 
+  > serveras med tomatsås.
 
 ### Fredag
 
-* `95` Bookmaker toast
-  >  med äggula & pepparrot.
+* `95` Lövbiff
+  >  med krispig potatis, skysås samt chilismör.
 
 ## Stående alternativ
 
@@ -36,6 +36,6 @@
 * `119` Caesarsallad
   > bacon, krutonger & grana padano. Välj mellan scampi, halloumi eller kyckling.
   
-* `119` Ryggbiff 
+* `119` Entrecoté
   > pommes frites & bearnaise.
 
