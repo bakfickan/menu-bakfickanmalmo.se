@@ -1,29 +1,29 @@
-## Veckans meny, V. 18
+## Veckans meny, V. 19
 
 ### Måndag
 
-* `95` Köttbullar
-  > med gräddsås, kokt potatis & lingon.
+* `95` Baconlindad köttfärslimpa
+  > med pressgurka,gräddsås, kokt potatis & lingon.
 
 ### Tisdag
 
-* `95` Biff stroganoff 
-  > serveras med cremé fraiche.
+* `95` Pytt Bellman
+  > serveras med saltgurka & rödbetor.
 
 ### Onsdag
 
-* `95` Fläskschnitzel 
-  > med skysås, gröna ärtor och råstekt potatis.
+* `95` Jägarschnitzel  
+  > med svampsås och rostad potatis.
 
 ### Torsdag
 
-* `95` Lasagne 
-  > serveras med tomatsås.
+* `95` Dansk fläskstek 
+  > serveras med rödkål, äpplemos, rotfrukter, stekt potatis samt gräddsås.
 
 ### Fredag
 
-* `95` Lövbiff
-  >  med krispig potatis, skysås samt chilismör.
+* `95` Fläskfilé Oscar
+  >  serveras med grön sparris, räkor samt rostad potatis & choronsås.
 
 ## Stående alternativ
 
