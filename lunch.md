@@ -1,29 +1,29 @@
-## Veckans meny, V. 19
+## Veckans meny, V. 20
 
 ### Måndag
 
-* `95` Baconlindad köttfärslimpa
-  > med pressgurka,gräddsås, kokt potatis & lingon.
+* `95` Kålpudding 
+  > med gräddsås, kokt potatis & lingon.
 
 ### Tisdag
 
-* `95` Pytt Bellman
-  > serveras med saltgurka & rödbetor.
+* `95` Fläskfilé medaljonger
+  > serveras med rostad potatis & svampsås.
 
 ### Onsdag
 
-* `95` Jägarschnitzel  
-  > med svampsås och rostad potatis.
+* `95` Schnitzel 
+  > med stekt potatis, örtcréme & citron.
 
 ### Torsdag
 
-* `95` Dansk fläskstek 
-  > serveras med rödkål, äpplemos, rotfrukter, stekt potatis samt gräddsås.
+* `95` Torsk 
+  > serveras med kokt potatis, gröna ärtor & dragonsås.
 
 ### Fredag
 
-* `95` Fläskfilé Oscar
-  >  serveras med grön sparris, räkor samt rostad potatis & choronsås.
+* `95` Steak sandwich
+  >  serveras med pommes frites, bearnaisesås & lökringar.
 
 ## Stående alternativ
 
@@ -36,6 +36,6 @@
 * `119` Caesarsallad
   > bacon, krutonger & grana padano. Välj mellan scampi, halloumi eller kyckling.
   
-* `119` Entrecoté
+* `119` Ryggbiff
   > pommes frites & bearnaise.
 
