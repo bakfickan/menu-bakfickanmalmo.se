@@ -117,7 +117,7 @@ Samtliga burgare går att få som vegetariskt alternativ med halloumi.
 * `59` Norrlands Guld _40cl 5,3%_
 * `59` Mariestad Continental _40cl 4,2%_
 * `67` Krušovice _40cl 5,0%_
-* `72` Rotating Tap _40cl_
+* `75` Summer PA _40cl_
 * `75` Wisby Bulldog IPA _40cl 5,0%_
 * `79` Wisby Klosteröl _50cl 5,5%_
 * `79` Paulaner Hefe Weißbier _50cl 5,0%_
