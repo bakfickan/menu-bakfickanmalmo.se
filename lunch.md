@@ -31,7 +31,7 @@
   > ost, bacon & hamburgardressing. Serveras med pommes frites.
 
 * `119` Fish'n'chips  
-  > kokt potatis samt aioli & citron.
+  >  samt aioli & citron.
 
 * `119` Caesarsallad
   > bacon, krutonger & grana padano. Välj mellan scampi, halloumi eller kyckling.
