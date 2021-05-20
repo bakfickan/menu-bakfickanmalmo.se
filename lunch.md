@@ -18,7 +18,7 @@
 ### Torsdag
 
 * `95` Torsk 
-  > serveras med kokt potatis, gröna ärtor & dragonsås.
+  > serveras med kokt potatis & dragonsås.
 
 ### Fredag
 
