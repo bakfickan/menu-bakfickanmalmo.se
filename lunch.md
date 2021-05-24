@@ -1,29 +1,29 @@
-## Veckans meny, V. 20
+## Veckans meny, V. 21
 
 ### Måndag
 
-* `95` Kålpudding 
-  > med gräddsås, kokt potatis & lingon.
+* `95` Pannbiff
+  > med stekt lök, kokt potatis & lingon.
 
 ### Tisdag
 
-* `95` Fläskfilé medaljonger
-  > serveras med rostad potatis & svampsås.
+* `95` Stekt fläsk
+  > med löksås, kokt potatis & lingon.
 
 ### Onsdag
 
 * `95` Schnitzel 
-  > med stekt potatis, örtcréme & citron.
+  > med stekt potatis, anjovis, kapris & citron.
 
 ### Torsdag
 
-* `95` Torsk 
-  > serveras med kokt potatis & dragonsås.
+* `95` Wallenbergare
+  > serveras med kokt potatispuré, skirat smör, gröna ärtor & lingon.
 
 ### Fredag
 
-* `95` Steak sandwich
-  >  serveras med pommes frites, bearnaisesås & lökringar.
+* `95` Entrécote
+  >  serveras med rostad potatis, chilibea & skysås.
 
 ## Stående alternativ
 
@@ -36,6 +36,6 @@
 * `119` Caesarsallad
   > bacon, krutonger & grana padano. Välj mellan scampi, halloumi eller kyckling.
   
-* `119` Ryggbiff
-  > pommes frites & bearnaise.
+* `119` Fläskfilé 
+  > klyftpotatis & bearnaise.
 
