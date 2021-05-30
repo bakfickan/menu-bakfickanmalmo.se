@@ -1,29 +1,29 @@
-## Veckans meny, V. 21
+## Veckans meny, V. 22
 
 ### Måndag
 
-* `95` Pannbiff
-  > med stekt lök, kokt potatis & lingon.
+* `95` Biff á la limdström
+  > med kokt potatis, gräddsås, gröna ärtos & lingon.
 
 ### Tisdag
 
-* `95` Stekt fläsk
-  > med löksås, kokt potatis & lingon.
+* `95` Pasta carbonara
+  
 
 ### Onsdag
 
-* `95` Schnitzel 
-  > med stekt potatis, anjovis, kapris & citron.
+* `95` Fläsl schnitzel cordon bleu
+  > med stekt potatis.
 
 ### Torsdag
 
-* `95` Wallenbergare
-  > serveras med kokt potatispuré, skirat smör, gröna ärtor & lingon.
+* `95` Grillspett
+  > serveras med klyft potatis & örtcréme.
 
 ### Fredag
 
-* `95` Entrécote
-  >  serveras med rostad potatis, chilibea & skysås.
+* `95` Lövbiff 
+  >  serveras med rostad potatis, skysås & kryddsmör.
 
 ## Stående alternativ
 
@@ -36,6 +36,6 @@
 * `119` Caesarsallad
   > bacon, krutonger & grana padano. Välj mellan scampi, halloumi eller kyckling.
   
-* `119` Fläskfilé 
-  > klyftpotatis & bearnaise.
+* `119` Ryggbiff
+  > pommes & bearnaise.
 
