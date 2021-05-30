@@ -2,8 +2,8 @@
 
 ### Måndag
 
-* `95` Biff á la limdström
-  > med kokt potatis, gräddsås, gröna ärtos & lingon.
+* `95` Biff á la lindström
+  > med kokt potatis, gräddsås, gröna ärtor & lingon.
 
 ### Tisdag
 
@@ -12,7 +12,7 @@
 
 ### Onsdag
 
-* `95` Fläsl schnitzel cordon bleu
+* `95` Fläsk schnitzel cordon bleu
   > med stekt potatis.
 
 ### Torsdag
