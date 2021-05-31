@@ -3,7 +3,7 @@
 ### Måndag
 
 * `95` Biff á la lindström
-  > med kokt potatis, gräddsås, gröna ärtor & lingon.
+  > med kokt potatis, gräddsås & gröna ärtor.
 
 ### Tisdag
 
