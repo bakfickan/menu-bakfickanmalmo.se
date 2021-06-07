@@ -1,29 +1,30 @@
-## Veckans meny, V. 22
+## Veckans meny, V. 23
 
 ### Måndag
 
-* `95` Biff á la lindström
-  > med kokt potatis, gräddsås & gröna ärtor.
+* `95` Pannbiff 
+  > med fetaost & fransk potatissallad.
+
 
 ### Tisdag
 
-* `95` Pasta carbonara
+* `95` Skaldjurspasta i dillsås.
   
 
 ### Onsdag
 
-* `95` Fläsk schnitzel cordon bleu
-  > med stekt potatis.
+* `95` Wienerschnitzel 
+  > med klassiska tillbehör.
 
 ### Torsdag
 
-* `95` Grillspett
-  > serveras med klyft potatis & örtcréme.
+* `95` Friterad spätta
+  >  med remouladsås, kokt potatis & citron.
 
 ### Fredag
 
-* `95` Lövbiff 
-  >  serveras med rostad potatis, skysås & kryddsmör.
+* `95` Flankstek
+  >  serveras med rostad färskpotatis & chimichurri.
 
 ## Stående alternativ
 
