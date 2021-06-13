@@ -1,30 +1,31 @@
-## Veckans meny, V. 23
+## Veckans meny, V. 24
 
 ### Måndag
 
 * `95` Pannbiff 
-  > med fetaost & fransk potatissallad.
+  > med lök, kokt potatis & stekt ägg samt skysås.
 
 
 ### Tisdag
 
-* `95` Skaldjurspasta i dillsås.
+* `95` Lasagne
+  > serveras med tomatsås.
   
 
 ### Onsdag
 
-* `95` Wienerschnitzel 
-  > med klassiska tillbehör.
+* `95` Fläsk schnitzel
+  > med gröna ärtor & stekt potatis.
 
 ### Torsdag
 
-* `95` Friterad spätta
-  >  med remouladsås, kokt potatis & citron.
+* `95` Helstekt karré 
+  >  ljummen potatissallad & ramslökscréme.
 
 ### Fredag
 
-* `95` Flankstek
-  >  serveras med rostad färskpotatis & chimichurri.
+* `95` Baconlindad fläskfilé
+  >  serveras med rostad potatis, tomat & löksallad, samt kryddsmör.
 
 ## Stående alternativ
 
