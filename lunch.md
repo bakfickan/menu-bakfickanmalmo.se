@@ -26,7 +26,8 @@
 
 * `95` Baconlindad fläskfilé
   >  serveras med rostad potatis, tomat & löksallad, samt kryddsmör.
-  >  OBS: EM-match, lunch stänger 14.00! 
+  > 
+* >   OBS: EM-match, lunch stänger 14.00! 
 
 ## Stående alternativ
 
