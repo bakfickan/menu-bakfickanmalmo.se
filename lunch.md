@@ -1,33 +1,33 @@
-## Veckans meny, V. 24
+## Veckans meny, V. 25
 
 ### Måndag
 
-* `95` Pannbiff 
-  > med lök, kokt potatis & stekt ägg samt skysås.
+* `95` Baconlindad köttfärslimpa
+  > stekt färskopotatism gräddsås, pressgurka & lingon.
 
 
 ### Tisdag
 
-* `95` Lasagne
-  > serveras med tomatsås.
+* `95` Stekt fläsk med löksås
+  > serveras med koktpotatis & rårrörda lingon.
   
 
 ### Onsdag
 
-* `95` Fläsk schnitzel
-  > med gröna ärtor & stekt potatis.
+* `95` Jägarscnitzel 
+  >  med svampsås & stekt potatis.
 
 ### Torsdag
 
-* `95` Helstekt karré 
-  >  ljummen potatissallad & ramslökscréme.
+* `95` Lövbiff 
+  >  meed krispig potatis, kryddsmör & skysås.
 
 ### Fredag
 
-* `95` Baconlindad fläskfilé
-  >  serveras med rostad potatis, tomat & löksallad, samt kryddsmör.
+* `95` STÄNGT MIDSOMMARAFTON !
+  >  
   > 
-* >   OBS: EM-match, lunch stänger 14.00! 
+
 
 ## Stående alternativ
 
