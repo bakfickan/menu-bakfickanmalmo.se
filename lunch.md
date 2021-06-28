@@ -1,31 +1,31 @@
-## Veckans meny, V. 25
+## Veckans meny, V. 26
 
 ### Måndag
 
-* `95` Baconlindad köttfärslimpa
-  > stekt färskopotatism gräddsås, pressgurka & lingon.
+* `95` Persiljejärpar 
+  > kokt potatis, gräddsås & lingon.
 
 
 ### Tisdag
 
-* `95` Stekt fläsk med löksås
-  > serveras med koktpotatis & rårrörda lingon.
+* `95` Fläskfilémedaljonger
+  > stekt potatis, dragon & senapssås.
   
 
 ### Onsdag
 
-* `95` Jägarscnitzel 
-  >  med svampsås & stekt potatis.
+* `95` Schnitzel 
+  >  med rostad potatis, gröna ärtor & skysås.
 
 ### Torsdag
 
-* `95` Lövbiff 
-  >  meed krispig potatis, kryddsmör & skysås.
+* `95` Gravad lax 
+  >  meed dillstuvad potatis & hovmästarsås.
 
 ### Fredag
 
-* `95` STÄNGT MIDSOMMARAFTON !
-  >  
+* `95` Entrecoté 
+  >  Cajunpotatis, chilismör & grillad tomat.
   > 
 
 
