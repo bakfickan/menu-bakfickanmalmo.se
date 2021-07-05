@@ -1,31 +1,31 @@
-## Veckans meny, V. 26
+## Veckans meny, V. 27
 
 ### Måndag
 
-* `95` Persiljejärpar 
-  > kokt potatis, gräddsås & lingon.
+* `95` Pannbiff 
+  > stekt lök, skysås, kokt potatis & rårörda lingon.
 
 
 ### Tisdag
 
-* `95` Fläskfilémedaljonger
-  > stekt potatis, dragon & senapssås.
+* `95` Rostbiff
+  > ljummen potatissallad samt remouladsås.
   
 
 ### Onsdag
 
-* `95` Schnitzel 
-  >  med rostad potatis, gröna ärtor & skysås.
+* `95` Wienerschnitzel  
+  >  med stekt potatis, citron, kapris & ansjovis samt skysås.
 
 ### Torsdag
 
-* `95` Gravad lax 
-  >  meed dillstuvad potatis & hovmästarsås.
+* `95` Bakad potatis
+  >  serveras med räkröra.
 
 ### Fredag
 
-* `95` Entrecoté 
-  >  Cajunpotatis, chilismör & grillad tomat.
+* `95` Bookmaker Toast
+  >  
   > 
 
 
