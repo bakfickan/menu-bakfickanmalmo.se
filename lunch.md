@@ -1,31 +1,31 @@
-## Veckans meny, V. 27
+## Veckans meny, V. 28
 
 ### Måndag
 
-* `95` Pannbiff 
-  > stekt lök, skysås, kokt potatis & rårörda lingon.
+* `95` Pytt Bellman
+  >  serverad med rödbetor.
 
 
 ### Tisdag
 
-* `95` Rostbiff
-  > ljummen potatissallad samt remouladsås.
+* `95` Bakfickans räkmacka 
+  > lantbröd, dillmajonnäs, kokt ägg & citron.
   
 
 ### Onsdag
 
-* `95` Wienerschnitzel  
-  >  med stekt potatis, citron, kapris & ansjovis samt skysås.
+* `95` Kycklingschnitzel cordon bleu 
+  >  med rostad potatis och dijonsås. 
 
 ### Torsdag
 
-* `95` Bakad potatis
-  >  serveras med räkröra.
+* `95` Spagetti frutti di mare.
+  >  
 
 ### Fredag
 
-* `95` Bookmaker Toast
-  >  
+* `95` Flankstek 
+  >  serveras med fransk potatissallad samt chimichurri.
   > 
 
 
