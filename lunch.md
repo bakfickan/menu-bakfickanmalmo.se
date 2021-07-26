@@ -1,31 +1,31 @@
-## Veckans meny, V. 29
+## Veckans meny, V. 30
 
 ### Måndag
 
-* `95` Pannbiff
-  >  serveras med stekt lök, kokt potatis & skysås.
+* `95` Köttbullar
+  >  serveras med potatismos, gräddsås & rårörda lingon.
 
 
 ### Tisdag
 
-* `95` Stekt fläsk
-  > löksås, kokt potatis & rårörda lingon.
+* `95` Lasagne
+  > med tomatsås.
   
 
 ### Onsdag
 
-* `95` Fläskschnitzel 
-  >  med gröna ärtor, skysås, stekt potatis.
+* `95` Jägarschnitzel 
+  >  svampsås & stekt potatis.
 
 ### Torsdag
 
-* `95` Torsk
-  >  pepparrotsås, potatisstompp, smältsmör & grönaärtor.
+* `95` Wallenbergare
+  >  serveras med skirat smör, potatispuré, gröna ärtor & rårörda lingon.
 
 ### Fredag
 
-* `95` Fläskfilé Oscar
-  >  serveras med räkor, bearnaise samt grönsparris.
+* `95` Entreôte
+  >  serveras med klyftpotatis, kryddsmör, skysås samt haricot verts.
   > 
 
 
