@@ -1,32 +1,31 @@
-## Veckans meny, V. 30
+## Veckans meny, V. 31
 
 ### Måndag
 
-* `95` Köttbullar
-  >  serveras med potatismos, gräddsås & rårörda lingon.
+* `95` Persiljejärpar
+  >  serveras med kokt potatis, gräddsås & rårörda lingon.
 
 
 ### Tisdag
 
-* `95` Lasagne
-  > med tomatsås.
+* `95` Torsk
+  > med citron & dillsås, potatispuré & gröna ärtor.
   
 
 ### Onsdag
 
-* `95` Jägarschnitzel 
-  >  svampsås & stekt potatis.
+* `95` Klassisk wiener schnitzel
+  >  med citron, kapris & råstekt potatis.
 
 ### Torsdag
 
-* `95` Wallenbergare
-  >  serveras med skirat smör, potatispuré, gröna ärtor & rårörda lingon.
+* `95` Kycklingfilé 
+  >  med limésås, strimlad purjolökspotatis & svartvinbärsgelé.
 
 ### Fredag
 
-* `95` Entreôte
-  >  serveras med klyftpotatis, kryddsmör, skysås samt haricot verts.
-  > 
+* `95` Fläskfilémedaljonger
+  > serveras med klyftpotatis, bearnaisesås, skysås & haricot verts.
 
 
 ## Stående alternativ
