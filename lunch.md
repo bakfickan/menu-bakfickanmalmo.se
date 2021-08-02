@@ -15,7 +15,7 @@
 ### Onsdag
 
 * `95` Klassisk wiener schnitzel
-  >  med citron, kapris & råstekt potatis.
+  >  med citron, kapris, anjovis. Serveras med skysås & råstekt potatis.
 
 ### Torsdag
 
@@ -37,7 +37,7 @@
   >  samt aioli & citron.
 
 * `119` Caesarsallad
-  > bacon, krutonger & grana padano. Välj mellan scampi, halloumi eller kyckling.
+  > bacon, krutonger & grana padano. Välj mellan scampi, halloumi eller pankopanerad kyckling.
   
 * `119` Ryggbiff
   > pommes & bearnaise.
