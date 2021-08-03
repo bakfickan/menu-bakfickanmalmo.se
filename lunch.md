@@ -9,12 +9,12 @@
 ### Tisdag
 
 * `95` Torsk
-  > med citron & dillsås, potatispuré & gröna ärtor.
-  
+  > med citronsås, potatispuré & gröna ärtor.
+
 
 ### Onsdag
 
-* `95` Klassisk wiener schnitzel
+* `95` Fläkschnitzel
   >  med citron, kapris, anjovis. Serveras med skysås & råstekt potatis.
 
 ### Torsdag
