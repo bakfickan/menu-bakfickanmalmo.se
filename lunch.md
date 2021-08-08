@@ -2,27 +2,27 @@
 
 ### Måndag
 
-* `95` Semesterstängt lunch måndag till torsdag pga av semester. 
+* ` Semesterstängt lunch måndag till torsdag pga av semester. 
   > A la carte öppen som vanligt 15.00
   >  
 
 
 ### Tisdag
 
-* `95` Semesterstängt lunch måndag till torsdag pga av semester. 
+* `` Semesterstängt lunch måndag till torsdag pga av semester. 
   > A la carte öppen som vanligt 15.00
   > 
 
 
 ### Onsdag
 
-* `95` Semesterstängt lunch måndag till torsdag pga av semester.
+* `` Semesterstängt lunch måndag till torsdag pga av semester.
   > A la carte öppen som vanligt 15.00
   >  
 
 ### Torsdag
 
-* `95` Semesterstängt lunch måndag till torsdag pga av semester. 
+* `` Semesterstängt lunch måndag till torsdag pga av semester. 
   > A la carte öppen som vanligt 15.00
   >  
 
