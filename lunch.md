@@ -1,31 +1,35 @@
-## Veckans meny, V. 31
+## Veckans meny, V. 32
 
 ### Måndag
 
-* `95` Persiljejärpar
-  >  serveras med kokt potatis, gräddsås & rårörda lingon.
+* `95` Semesterstängt lunch måndag till torsdag pga av semester. 
+  > A la carte öppen som vanligt 15.00
+  >  
 
 
 ### Tisdag
 
-* `95` Torsk
-  > med citronsås, potatispuré & gröna ärtor.
+* `95` Semesterstängt lunch måndag till torsdag pga av semester. 
+  > A la carte öppen som vanligt 15.00
+  > 
 
 
 ### Onsdag
 
-* `95` Fläkschnitzel
-  >  med citron, kapris, anjovis. Serveras med skysås & råstekt potatis.
+* `95` Semesterstängt lunch måndag till torsdag pga av semester.
+  > A la carte öppen som vanligt 15.00
+  >  
 
 ### Torsdag
 
-* `95` Kycklingfilé 
-  >  med limésås, strimlad purjolökspotatis & svartvinbärsgelé.
+* `95` Semesterstängt lunch måndag till torsdag pga av semester. 
+  > A la carte öppen som vanligt 15.00
+  >  
 
 ### Fredag
 
-* `95` Fläskfilémedaljonger
-  > serveras med klyftpotatis, bearnaisesås, skysås & haricot verts.
+* `95` Lövbiff
+  > serveras med pommes,kryddsmör samt skysås & haricot verts.
 
 
 ## Stående alternativ
