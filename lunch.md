@@ -1,35 +1,35 @@
-## Veckans meny, V. 32
+## Veckans meny, V. 33
 
-### Måndag
+### Måndag 
 
-* ` Semesterstängt lunch måndag till torsdag pga av semester. 
-  > A la carte öppen som vanligt 15.00
-  >  
+* `95` Köttfärslimpa  
+  > gräddsås, kokt potatis & pressgurka. 
+  
 
 
 ### Tisdag
 
-* `` Semesterstängt lunch måndag till torsdag pga av semester. 
-  > A la carte öppen som vanligt 15.00
-  > 
+* `95` Stekt fläsk 
+  > med rårörda lingon samt kokt potatis. 
+  
 
 
 ### Onsdag
 
-* `` Semesterstängt lunch måndag till torsdag pga av semester.
-  > A la carte öppen som vanligt 15.00
+* `95`  Fläskschnitzel
+  > Kryddsmör, rödvinssky & stekt potatis. 
   >  
 
 ### Torsdag
 
-* `` Semesterstängt lunch måndag till torsdag pga av semester. 
-  > A la carte öppen som vanligt 15.00
+* `95`  Ugnsbakad lax
+  > Citronsås, potatispuré samt gröna ärtor.
   >  
 
 ### Fredag
 
-* `95` Lövbiff
-  > serveras med pommes,kryddsmör samt skysås & haricot verts.
+* `95` Fläskfilé medaljonger 
+  > serveras med klyftpotatis & skysås.
 
 
 ## Stående alternativ
