@@ -23,7 +23,7 @@
 ### Torsdag
 
 * `95`  Ugnsbakad lax
-  > Citronsås, potatispuré samt gröna ärtor.
+  > Citron & dillsås, räkor & potatispuré samt gröna ärtor.
   >  
 
 ### Fredag
