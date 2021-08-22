@@ -1,35 +1,35 @@
-## Veckans meny, V. 33
+## Veckans meny, V. 34
 
 ### Måndag 
 
-* `95` Köttfärslimpa  
-  > gräddsås, kokt potatis & pressgurka. 
+* `95` Persiljejärpar 
+  > gräddsås, kokt potatis, rårörda lingon &pressgurka. 
   
 
 
 ### Tisdag
 
-* `95` Stekt fläsk 
-  > med rårörda lingon samt kokt potatis. 
+* `95` Raggmunkar 
+  > med stekt fläsk & rårörda lingon. 
   
 
 
 ### Onsdag
 
 * `95`  Fläskschnitzel
-  > Kryddsmör, rödvinssky & stekt potatis. 
+  > Med paprikasås & stekt potatis. 
   >  
 
 ### Torsdag
 
-* `95`  Ugnsbakad lax
-  > Citron & dillsås, räkor & potatispuré samt gröna ärtor.
-  >  
+* `95`  Kycklingfilé 
+  > Med limesås, svartvinbärsgelé samt strimlad purjolökspotatis.
+  > 
 
 ### Fredag
 
-* `95` Fläskfilé medaljonger 
-  > serveras med klyftpotatis & skysås.
+* `95` Entrecôte 
+  > serveras med klyftpotatis, bearnaise & skysås samt haricot verts.
 
 
 ## Stående alternativ
