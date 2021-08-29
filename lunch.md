@@ -1,35 +1,35 @@
-## Veckans meny, V. 34
+## Veckans meny, V. 35
 
 ### Måndag 
 
-* `95` Persiljejärpar 
-  > gräddsås, kokt potatis, rårörda lingon &pressgurka. 
+* `95` Pannbiff
+  > stekt ägg, skysås, lök &  kokt potatis.
   
 
 
 ### Tisdag
 
-* `95` Raggmunkar 
-  > med stekt fläsk & rårörda lingon. 
+* `95` Dansk fläskstek
+  > med gräddsås, äpplemos, rödkål & ugnsstekt kulpotatis. 
   
 
 
 ### Onsdag
 
 * `95`  Fläskschnitzel
-  > Med paprikasås & stekt potatis. 
+  > kapris, citron & skysås. Serveras med purjolökspotatis. 
   >  
 
 ### Torsdag
 
-* `95`  Kycklingfilé 
-  > Med limesås, svartvinbärsgelé samt strimlad purjolökspotatis.
+* `95`  Wallenbergare 
+  >  skirat smör, gröna ärtor & rårörda lingon. Serveras med potatispuré.
   > 
 
 ### Fredag
 
-* `95` Entrecôte 
-  > serveras med klyftpotatis, bearnaise & skysås samt haricot verts.
+* `95` Lövbiff
+  > kryddsmör, rödvinssky samt pommes frites.
 
 
 ## Stående alternativ
