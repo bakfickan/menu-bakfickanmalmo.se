@@ -1,35 +1,35 @@
-## Veckans meny, V. 35
+## Veckans meny, V. 36
 
 ### Måndag 
 
-* `95` Pannbiff
-  > stekt ägg, skysås, lök &  kokt potatis.
+* `95` Biff à la Lindström 
+  > skysås &  kokt potatis.
   
 
 
 ### Tisdag
 
-* `95` Dansk fläskstek
-  > med gräddsås, äpplemos, rödkål & ugnsstekt kulpotatis. 
+* `95` Lasagne 
+  > serveras med tomatsås. 
   
 
 
 ### Onsdag
 
 * `95`  Fläskschnitzel
-  > kapris, citron & skysås. Serveras med purjolökspotatis. 
+   > serveras med kantarellsås samt stekt potatis . 
   >  
 
 ### Torsdag
 
-* `95`  Wallenbergare 
-  >  skirat smör, gröna ärtor & rårörda lingon. Serveras med potatispuré.
+* `95`  Kålpudding 
+  >  gräddsås, rårörda lingon samt kokt potatis.
   > 
 
 ### Fredag
 
-* `95` Lövbiff
-  > kryddsmör, rödvinssky samt pommes frites.
+* `95` Bookmaker Toast
+  > samt pommes frites.
 
 
 ## Stående alternativ
