@@ -29,7 +29,7 @@
 ### Fredag
 
 * `95` Bookmaker Toast
-  > samt pommes frites.
+  > pepparrot samt dijoncreme & pommes frites.
 
 
 ## Stående alternativ
