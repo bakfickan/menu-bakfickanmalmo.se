@@ -1,35 +1,34 @@
-## Veckans meny, V. 36
+## Veckans meny, V. 37
 
 ### Måndag 
 
-* `95` Biff à la Lindström 
-  > skysås &  kokt potatis.
+* `95` Köttfärslimpa
+  > med gräddsås, pressgurka & stekt kulpotatis.
   
 
 
 ### Tisdag
 
-* `95` Lasagne 
-  > serveras med tomatsås. 
+* `95` Stekt fläsk
+  > serveras med löksås, rårörda lingon & kokt potatis.  
   
 
 
 ### Onsdag
 
-* `95`  Fläskschnitzel
-   > serveras med kantarellsås samt stekt potatis . 
-  >  
+* `95`  Fläskschnitzel 
+  >  med whiskeysås, haricot verts & råstekt skivad potatis. 
 
 ### Torsdag
 
-* `95`  Kålpudding 
-  >  gräddsås, rårörda lingon samt kokt potatis.
-  > 
+* `95`  Halstrad Lax
+  > med hollandaisesås,gröna ärtor, citron samt potatispuré. 
+
 
 ### Fredag
 
-* `95` Bookmaker Toast
-  > pepparrot samt dijoncreme & pommes frites.
+* `95` Pepparbiff
+  > grönpepparsås, klyftpotatis samt primörer. 
 
 
 ## Stående alternativ
