@@ -27,7 +27,7 @@
 
 ### Fredag
 
-* `95` Pepparbiff
+* `95` Ryggbiff
   > grönpepparsås, klyftpotatis samt primörer. 
 
 
