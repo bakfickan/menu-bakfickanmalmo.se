@@ -1,34 +1,36 @@
-## Veckans meny, V. 37
+## Veckans meny, V. 38
 
 ### Måndag 
 
-* `95` Köttfärslimpa
-  > med gräddsås, pressgurka & stekt kulpotatis.
+* `95` Köttbullar 
+  > med gräddsås, pressgurka & kokt potatis.
   
 
 
 ### Tisdag
 
-* `95` Stekt fläsk
-  > serveras med löksås, rårörda lingon & kokt potatis.  
+* `95` Klassiskt grillspett
+  > serveras med tzatziki, lime, grönsaker samt stekt potatis.  
   
 
 
 ### Onsdag
 
-* `95`  Fläskschnitzel 
-  >  med whiskeysås, haricot verts & råstekt skivad potatis. 
+* `95`  Fläskschnitzel Milanese
+  >  tomat & paprikasås samt patatas bravas.
+
+
 
 ### Torsdag
 
-* `95`  Halstrad Lax
-  > med hollandaisesås,gröna ärtor, citron samt potatispuré. 
+* `95`  Chili con carne 
+  > med ris samt persilja. 
 
 
 ### Fredag
 
-* `95` Ryggbiff
-  > grönpepparsås, klyftpotatis samt primörer. 
+* `95` Fläskfilémedaljonger 
+  > serveras med timjansky, klyftpotatis samt rostade grönsaker. 
 
 
 ## Stående alternativ
