@@ -1,36 +1,36 @@
-## Veckans meny, V. 38
+## Veckans meny, V. 39
 
 ### Måndag 
 
-* `95` Köttbullar 
-  > med gräddsås, pressgurka & kokt potatis.
+* `95` Fetaostfyllda pannbiffar 
+  > med tzatziki, timjansky & klyftpotatis. 
   
 
 
 ### Tisdag
 
-* `95` Klassiskt grillspett
-  > serveras med tzatziki, lime, grönsaker samt stekt potatis.  
+* `95` Dansk fläskstek
+  > serveras med gräddsås, rödkål, äpplemos & stekt kulpotatis.  
   
 
 
 ### Onsdag
 
-* `95`  Fläskschnitzel Milanese
-  >  tomat & paprikasås samt patatas bravas.
+* `95`  Fläskschnitzel 
+  >  citron, kapris, skysås & stekt purjolökspotatis.
 
 
 
 ### Torsdag
 
-* `95`  Chili con carne 
-  > med ris samt persilja. 
+* `95`  Wallenbergare 
+  > med skiratsmör, gröna ärtor, rårörda lingon & potatispuré. 
 
 
 ### Fredag
 
-* `95` Fläskfilémedaljonger 
-  > serveras med timjansky, klyftpotatis samt rostade grönsaker. 
+* `95` Biff Rydberg
+  > serveras med äggula & dijoncréme. 
 
 
 ## Stående alternativ
