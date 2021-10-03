@@ -1,36 +1,36 @@
-## Veckans meny, V. 39
+## Veckans meny, V. 40
 
 ### Måndag 
 
-* `95` Fetaostfyllda pannbiffar 
-  > med tzatziki, timjansky & klyftpotatis. 
+* `95` Persiljejärpar 
+  > med gräddsås, kokt potatis & rårörda lingon & pressgurka. 
   
 
 
 ### Tisdag
 
-* `95` Dansk fläskstek
-  > serveras med gräddsås, rödkål, äpplemos & stekt kulpotatis.  
+* `95` Gulasch 
+  > serveras med créme fraiche & ris.  
   
 
 
 ### Onsdag
 
 * `95`  Fläskschnitzel 
-  >  citron, kapris, skysås & stekt purjolökspotatis.
+  >  kryddsmör, skyss, gröna ärtor & stekt potatis..
 
 
 
 ### Torsdag
 
-* `95`  Wallenbergare 
-  > med skiratsmör, gröna ärtor, rårörda lingon & potatispuré. 
+* `95` Pytt bellman 
+  > med rödbetor. 
 
 
 ### Fredag
 
-* `95` Biff Rydberg
-  > serveras med äggula & dijoncréme. 
+* `95` Entrecoté 
+  > serveras med klyftpotatis, skysås & bearnaise samt haricot verts.
 
 
 ## Stående alternativ
@@ -45,5 +45,5 @@
   > bacon, krutonger & grana padano. Välj mellan scampi, halloumi eller pankopanerad kyckling.
   
 * `119` Ryggbiff
-  > pommes & bearnaise.
+  > pommes frites & bearnaise.
 
