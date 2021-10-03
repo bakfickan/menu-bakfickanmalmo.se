@@ -17,7 +17,7 @@
 ### Onsdag
 
 * `95`  Fläskschnitzel 
-  >  kryddsmör, skyss, gröna ärtor & stekt potatis..
+  >  kryddsmör, skysås, gröna ärtor & stekt potatis.
 
 
 
