@@ -1,36 +1,37 @@
-## Veckans meny, V. 40
+## Veckans meny, V. 41
 
 ### Måndag 
 
-* `95` Persiljejärpar 
-  > med gräddsås, kokt potatis & rårörda lingon & pressgurka. 
+* `95` Skånsk Hackebiff 
+  >cognac-gräddsås kokt dillpotatis, pressgurka och lingon
+ 
   
 
 
 ### Tisdag
 
-* `95` Gulasch 
-  > serveras med créme fraiche & ris.  
+* `95` Friterad rödspätta Öresund
+  > Bearnaise,sparris och räkor serveras med kokt potatis. 
   
 
 
 ### Onsdag
 
-* `95`  Fläskschnitzel 
-  >  kryddsmör, skysås, gröna ärtor & stekt potatis.
+* `95` Schnitzel Cordon bleu
+  > (ost & skink fylld), rödvinsås, klyftpotatis  och ärtor
 
 
 
 ### Torsdag
 
-* `95` Pytt bellman 
-  > med rödbetor. 
+* `95`Bœuf bourguignon
+  > marinerad högrevsgryta med champinjoner, rökt fläsk, morötter, smålök och potatismos
 
 
 ### Fredag
 
-* `95` Entrecoté 
-  > serveras med klyftpotatis, skysås & bearnaise samt haricot verts.
+* `95` Steak au poivre på ryggbiff
+  > Grönpepparsås, friterad nypotatis & haricots verts
 
 
 ## Stående alternativ
