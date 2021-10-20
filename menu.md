@@ -1,4 +1,5 @@
 
+
 ## Snacks & Smårätter
 
 * `49` Pommeskorg
@@ -8,16 +9,16 @@
   
 * `59` Lökringar 
 
-* `79` Hot Wings
+* `85` Hot Wings
   > Serveras med grönsaksstavar & bluecheese dip
 
-* `89` Snackkorg
+* `95` Snackkorg
 
 * `89` Ostgratinerade Nachos
   > Serveras med jalapeños, salsa & aioli
 
 * `10:-/st` Extra sås:
-  > Aioli, Salsa, Bluecheese, Bearnaise, Chilisås, Bbq-sås
+  > Aioli, Salsa, Bluecheese, Bearnaise, Chilimayo, Bbq-sås, tryffelmayo
 
 
 ## Förrätter
@@ -25,17 +26,17 @@
 * `49` Vitlöksbröd
   > Serveras med aioli
 
-* `79` Smörstekt sparris
-  > Serveras med graña padano, syrad chili, rostade pinjenötter & olivolja.
+* `89` Gambas
+  > Chili & vitlöksfrästa räkor, serveras med vitlöksbröd.
 
-* `89` Feta & Melonsallad
-  > Serveras med serrano, oliver, rostade pinjenötter, sallad & husets dressing.
+* `89` Roqfortsallad
+  > Serveras med fikon, krutonger, valnötter & polkabetor.
 
 * `149` Plocktallrik för 2 personer
   > Charketurier, ostar, husets marmelad & tilltugg.
 
-* `89` Gambas
-  > Chili & vitlöksfrästa, serveras med vitlöksbröd
+* `89` Frästa kantareller
+  > Serveras på rostat bröd med rotselleri, hasselnötter, grana padano & tryffelmayo.
 
 
 ## Burgare
@@ -46,11 +47,11 @@
 * `139` Jack Daniels
   > Med Pepperjack ost, BBQ-sås & lökringar
 
-* `139` Chili
-  > Med chili relish, jalapenós & cheddar.
+* `139` Kycklingchili
+  > Med chili relish, gurka, picklad lök & grana padano.
 
-* `139` Roquefort
-  > Med roquefort, rökt sidfläsk, syrad lök & gräslöksmajonäs.
+* `139` Swissburgare
+  > Med stekt svamp, rostad lökcréme & Swissost.
 
 **Samtliga burgare är gjorda på oxfärs, serveras med pommes frites, sallad, tomat, lök, coleslaw & saltgurka**
 Samtliga burgare går att få som vegetariskt alternativ med halloumi.
@@ -61,8 +62,8 @@ Samtliga burgare går att få som vegetariskt alternativ med halloumi.
 
 ## Varmrätter
 
-* `139` Risotte Milanese 
-  > Toppad med syrad lök, graña padano, rostade tomater & pinjenötter.
+* `139` Kantarell risotto
+  > Med stekta & picklade kantareller, jordärtskocka & grana padano.
 
 * `139` Caesarsallad
   > Bacon, krutonger & graña padano. Välj mellan scampi, halloumi eller kyckling.
@@ -70,23 +71,23 @@ Samtliga burgare går att få som vegetariskt alternativ med halloumi.
 * `–––` Veckans Fisk
   > (Fråga personalen)
 
-* `169` Ankbröst
-  > Serveras med apelsin & lökchutney samt valfri side. 
+* `169` Anklår
+  > Serveras med jordärtskockor, sauterad grönkål, inlagda björbär, rödvinsås samt valfri side. 
 
-* `149` Bakfickans räkmacka 
-  > På lantbröd med dillmajonäs, kokt ägg & citron.
+* `169` Bookmaker Toast
+  > På lantbröd med entrecoté, pepparrot, äggula, dijonnaise & valfri side.
 
-* `169` Moules frites 
-  > Vitvinskokta blåmusslor med pommes frites & aioli.
+* `` Veckans Gryta
+  > (Fråga personalen)
 
 * `179` Grillad Ryggbiff
   > Serveras med rödvinsås, bearnaise, säsongens primörer & valfri side.
 
-* `209` Lammytterfilé 
-  > Med chevrésallad,rostade solrosfrön, chimichurri och valfri side.
+* `229` Pepparstek på Oxfilé
+  > Serveras med primörer, grönpepparssås samt valfri side.
 
 * `39/st` Extra sides
-  > Pommes frites, potatispuré, purjolökspotatis, dillkokt potatis, side sallad
+  > Pommes frites, potatispuré, råstekt purjolökspotatis, dillkokt potatis, potatisgratäng, grillade grönsaker, side sallad
   
 
 ## Dessert
@@ -96,10 +97,10 @@ Samtliga burgare går att få som vegetariskt alternativ med halloumi.
 * `45` Vaniljglass
   > Serveras med chokladsås
 
-* `59` Sorbet
-  > Serveras med bärcoulis.
+* `69` Morotskaka 
+  > 
   
-* `79` Pannacotta
+* `79` Veckans Paj
   > Fråga personalen om veckans smak.
 
 * `99` Osttallrik
@@ -109,7 +110,7 @@ Samtliga burgare går att få som vegetariskt alternativ med halloumi.
 ## Kaffe / Te / Läsk
 
 * `25` Kaffe / Te
-* `29` Läsk / Lättöl
+* `32` Läsk / Lättöl
 
 
 ## Fatöl
