@@ -1,37 +1,37 @@
-## Veckans meny, V. 42
+## Veckans meny, V. 43
 
 ### Måndag 
 
-* `95` Köttbullar 
-  >gräddsås, pressgurka, rårörda lingon & kokt potatis.
+* `95` Pannbiff
+  >löksky, pressgurka, rårörda lingon & potatismos.
  
   
 
 
 ### Tisdag
 
-* `95` Kycklingfilé 
-  > tomat & paprikasås, purjolökspotatis, basilika samt grana padano ost. 
+* `95` Lax
+  > citronsås, dillkokt potatis samt haricot verts.
   
 
 
 ### Onsdag
 
 * `95` Schnitzel 
-  >  champinjonsås, klyftpotatis  och ärtor.
+  >  dijonsås, klyftpotatis, citron och ärtor.
 
 
 
 ### Torsdag
 
-* `95` Skånsk kalops
-  > serveras med rödbetor & kokt potatis. 
+* `95` Kålpudding
+  > serveras med gräddsås, rårörda lingon & kokt potatis. 
 
 
 ### Fredag
 
-* `95` Entrecôte 
-  > Bearnaisesås, pommes frites & primörer.
+* `95` Lövbiff
+  > persiljesmör,rödvinssky, pommes frites & primörer.
 
 
 ## Stående alternativ
@@ -47,4 +47,7 @@
   
 * `119` Ryggbiff
   > pommes frites & bearnaise.
+
+* `119` Veckan Gryta - Skånsk Kalops
+  > serveras med rödbetor & kokt potatis.
 
