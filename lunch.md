@@ -17,7 +17,7 @@
 
 ### Onsdag
 
-* `95` Wienerschnitzel 
+* `95` Kalvschnitzel 
   > med skysås, stekt potatis & gröna ärtor .
 
 
@@ -39,8 +39,8 @@
 * `95` Bakfickans Klassiska Hamburgare
   > ost, bacon & hamburgardressing. Serveras med pommes frites.
 
-* `119` Fish'n'chips  
-  >  samt aioli & citron.
+* `119` Spätta Öresund  
+  >  räkor, citron, kokt potatis & remouladsås 
 
 * `119` Caesarsallad
   > bacon, krutonger & grana padano. Välj mellan scampi, halloumi eller pankopanerad kyckling.
