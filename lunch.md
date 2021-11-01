@@ -1,37 +1,37 @@
-## Veckans meny, V. 43
+## Veckans meny, V. 44
 
 ### Måndag 
 
 * `95` Pannbiff
-  >löksky, pressgurka, rårörda lingon & potatismos.
+  > champinjonsky, vinbärsgelé samt potatismos.
  
   
 
 
 ### Tisdag
 
-* `95` Lax
-  > citronsås, dillkokt potatis samt haricot verts.
+* `95` Stekt fläsk
+  > med löksås, dillkokt potatis och rårörda lingon
   
 
 
 ### Onsdag
 
-* `95` Schnitzel 
-  >  dijonsås, klyftpotatis, citron och ärtor.
+* `95` Wienerschnitzel 
+  > med skysås, stekt potatis & gröna ärtor .
 
 
 
 ### Torsdag
 
-* `95` Kålpudding
-  > serveras med gräddsås, rårörda lingon & kokt potatis. 
+* `95` Dansk fläskstek 
+  > brunsås, stekt kul potatis, äpplemos samt rödkål
 
 
 ### Fredag
 
-* `95` Lövbiff
-  > persiljesmör,rödvinssky, pommes frites & primörer.
+* `95` Klassisk porterstek
+  > med klyftpotatis, skysås, svartvinbärsgelé samt haricot verts.
 
 
 ## Stående alternativ
