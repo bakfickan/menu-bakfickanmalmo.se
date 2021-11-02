@@ -48,6 +48,6 @@
 * `119` Ryggbiff
   > pommes frites & bearnaise.
 
-* `119` Veckan Gryta - Skånsk Kalops
-  > serveras med rödbetor & kokt potatis.
+* `119` Veckans Gryta 
+  > 
 
