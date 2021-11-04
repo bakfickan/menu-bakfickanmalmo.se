@@ -39,9 +39,8 @@
 * `95` Bakfickans Klassiska Hamburgare
   > ost, bacon & hamburgardressing. Serveras med pommes frites.
 
-* `119` Spätta Öresund  
-  >  räkor, citron, kokt potatis & bearnaisesås  
-
+* `119` Fish n Chips   
+  >  panerad spätta med aioli & citron samt pommes.
 * `119` Caesarsallad
   > bacon, krutonger & grana padano. Välj mellan scampi, halloumi eller pankopanerad kyckling.
   
