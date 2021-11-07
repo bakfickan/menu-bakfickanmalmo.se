@@ -1,37 +1,37 @@
-## Veckans meny, V. 44
+## Veckans meny, V. 45
 
 ### Måndag 
 
 * `95` Pannbiff
-  > champinjonsky, vinbärsgelé samt potatismos.
+  > fylld med schweizerost, örtgräddsås, rårörda lingon och kokt nypotatis. 
  
   
 
 
 ### Tisdag
 
-* `95` Stekt fläsk
-  > med löksås, dillkokt potatis och rårörda lingon
+* `95` Raggmunk
+  > stekt fläsk med rårörda lingon.
   
 
 
 ### Onsdag
 
-* `95` Kalvschnitzel 
-  > med skysås, stekt potatis & gröna ärtor .
+* `95` Schnitzel
+  > med skysås, purjolökspotatis, citron & gröna ärtor .
 
 
 
 ### Torsdag
 
-* `95` Dansk fläskstek 
-  > brunsås, stekt kul potatis, äpplemos samt rödkål
+* `95` Sjömansbiff 
+  > a la special. 
 
 
 ### Fredag
 
-* `95` Klassisk porterstek
-  > med klyftpotatis, skysås, svartvinbärsgelé samt haricot verts.
+* `95` Slottsstek
+  > med klyftpotatis, skysås, svartvinbärsgelé samt pressgurka.
 
 
 ## Stående alternativ
