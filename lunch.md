@@ -44,7 +44,7 @@
 * `119` Caesarsallad
   > bacon, krutonger & grana padano. Välj mellan scampi, halloumi eller pankopanerad kyckling.
   
-* `119` Ryggbiff
+* `129` Ryggbiff
   > pommes frites & bearnaise.
 
 * `119` Veckans Gryta 
