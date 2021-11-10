@@ -25,7 +25,7 @@
 ### Torsdag
 
 * `95` Sjömansbiff 
-  > a la special. 
+  >  
 
 
 ### Fredag
