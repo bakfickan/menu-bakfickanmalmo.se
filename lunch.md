@@ -31,7 +31,7 @@
 ### Fredag
 
 * `95` Slottsstek
-  > med klyftpotatis, skysås, svartvinbärsgelé samt pressgurka.
+  > med klyftpotatis, gräddsås, svartvinbärsgelé samt pressgurka.
 
 
 ## Stående alternativ
