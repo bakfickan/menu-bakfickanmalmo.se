@@ -1,37 +1,37 @@
-## Veckans meny, V. 45
+## Veckans meny, V. 4
 
 ### Måndag 
 
-* `95` Pannbiff
-  > fylld med schweizerost, örtgräddsås, rårörda lingon och kokt nypotatis. 
+* `95` Baconlindad köttfärslimpa
+  > kokt potatis, gräddsås, rårörda lingon och pressgurka. 
  
   
 
 
 ### Tisdag
 
-* `95` Raggmunk
-  > stekt fläsk med rårörda lingon.
+* `95` Torsk
+  > vitvinssås, dillkokt potatis och snörslungade morötter.
   
 
 
 ### Onsdag
 
-* `95` Schnitzel
-  > med skysås, purjolökspotatis, citron & gröna ärtor .
+* `95` Schnitzel Piccata
+  > med tomatsås, friterad potatis samt haricot verts.
 
 
 
 ### Torsdag
 
-* `95` Sjömansbiff 
-  >  
+* `95` Wallenbergare 
+  >  brynt smör, potatispuré, rårörda lingon samt gröna ärtor.
 
 
 ### Fredag
 
-* `95` Slottsstek
-  > med klyftpotatis, gräddsås, svartvinbärsgelé samt pressgurka.
+* `95` Lövbiff
+  > med persiljesmör, pommes frites och skysås.
 
 
 ## Stående alternativ
