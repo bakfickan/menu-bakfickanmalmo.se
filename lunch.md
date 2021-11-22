@@ -10,7 +10,7 @@
 
 ### Tisdag
 
-* `95` Örtbrasserad helstekt fläskfilé
+* `95` Örtbakad fläskfilé
   > gelé, gräddsås & klyftpotatis .
   
 
