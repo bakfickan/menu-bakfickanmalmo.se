@@ -1,37 +1,37 @@
-## Veckans meny, V. 47
+## Veckans meny, V. 48
 
 ### Måndag 
 
-* `95` Köttbullar 
-  > potatismos, brunsås, rårörda lingon och pressgurka. 
+* `95` Persiljejärpar
+  > kokt potatis, gräddsås & rårörda lingon. 
  
   
 
 
 ### Tisdag
 
-* `95` Örtbakad fläskfilé
-  > gelé, gräddsås & klyftpotatis .
+* `95` Dansk fläskstek
+  > rödkål, äpplemos, stekt kulpotatis samt brunsås. 
   
 
 
 ### Onsdag
 
 * `95` Schnitzel 
-  > med citron, kapris, skysås & stekt potatis.
+  > med stekt purjolökspotatis, kryddsmör & skysås.
 
 
 
 ### Torsdag
 
-* `95` Stekt sill
-  >  skirat smör, rårörda lingon & potatispuré.
+* `95` Oxbringa
+  >  rotmos, pepparrotssås & haricot verts. 
 
 
 ### Fredag
 
-* `95` Helstekt ryggbiff 
-  > potatisgratäng, rödvinsås samt haricotverts.
+* `95` Entrecôte 
+  > whiskeysås, klyftpotatis & ugnsbakade rotfrukter.
 
 
 ## Stående alternativ
@@ -39,8 +39,8 @@
 * `95` Bakfickans Klassiska Hamburgare
   >oxfärs, (veg, alt halloumi), ost, bacon & hamburgardressing. Serveras med pommes frites.
 
-* `119` Fish n Chips   
-  >  panerad spätta med remouladsås & citron samt pommes.
+* `119`  Panerad spätta
+  >   med remouladsås, ärtor & citron samt pommes.
 
 * `119` Caesarsallad
   > bacon, krutonger & grana padano. Välj mellan scampi, halloumi eller pankopanerad kyckling.
@@ -49,5 +49,5 @@
   > pommes frites & bearnaise.
 
 * `119` Veckans Gryta 
-  > 
+  
 
