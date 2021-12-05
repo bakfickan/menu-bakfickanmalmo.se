@@ -1,37 +1,37 @@
-## Veckans meny, V. 48
+## Veckans meny, V. 49
 
 ### Måndag 
 
-* `95` Persiljejärpar
-  > kokt potatis, gräddsås & rårörda lingon. 
+* `95` Pannbiff
+  > champinjonsås, potatismos & vinbärsgelé. 
  
   
 
 
 ### Tisdag
 
-* `95` Dansk fläskstek
-  > rödkål, äpplemos, stekt kulpotatis samt brunsås. 
+* `95` Torsk
+  > citronsås, dillkokt potatis, gröna ärtor & citron. 
   
 
 
 ### Onsdag
 
 * `95` Schnitzel 
-  > med stekt purjolökspotatis, kryddsmör & skysås.
+  > konjakssky, råstekt potatis samt haricot verts. 
 
 
 
 ### Torsdag
 
-* `95` Oxbringa
-  >  rotmos, pepparrotssås & haricot verts. 
+* `95` Fläskfilé 
+  >  rödvinssky, bearnaisesås samt friterad kulpotatis och brysselkål. 
 
 
 ### Fredag
 
-* `95` Entrecôte 
-  > whiskeysås, klyftpotatis & ugnsbakade rotfrukter.
+* `95` Slottsstek
+  > gräddsås, vinbärsgelé samt stekt potatis samt pressgurka.
 
 
 ## Stående alternativ
