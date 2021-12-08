@@ -18,7 +18,7 @@
 ### Onsdag
 
 * `95` Schnitzel 
-  > konjakssky, råstekt potatis samt haricot verts. 
+  > konjakssky, friterad potatis samt haricot verts. 
 
 
 
