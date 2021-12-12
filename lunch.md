@@ -1,37 +1,37 @@
-## Veckans meny, V. 49
+## Veckans meny, V. 50
 
 ### Måndag 
 
-* `95` Pannbiff
-  > champinjonsås, potatismos & vinbärsgelé. 
+* `95` Köttfärslimpa
+  > gräddsås, kokt potatis & rårörda lingon samt pressgurka.  
  
   
 
 
 ### Tisdag
 
-* `95` Torsk
-  > citronsås, dillkokt potatis, gröna ärtor & citron. 
+* `95` Raggmunk
+  > med stekt fläsk & rårörda lingon. 
   
 
 
 ### Onsdag
 
-* `95` Schnitzel 
-  > konjakssky, friterad potatis samt haricot verts. 
+* `95` Schnitzel
+  > kryddsmör, skysås, klyftpotatis & ärtor. 
 
 
 
 ### Torsdag
 
-* `95` Fläskfilé 
-  >  rödvinssky, bearnaisesås samt friterad kulpotatis och brysselkål. 
+* `95` Wallenbergare
+  >  potatispuré, skirat smör, gröna ärtor & rårörda lingon. 
 
 
 ### Fredag
 
-* `95` Slottsstek
-  > gräddsås, vinbärsgelé samt stekt potatis samt pressgurka.
+* `95` Lövbiff
+  > kryddsmör, rödvinssky, pommes frites samt haricot verts.
 
 
 ## Stående alternativ
