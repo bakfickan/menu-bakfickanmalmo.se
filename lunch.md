@@ -31,7 +31,7 @@
 ### Fredag
 
 * `95` Lövbiff
-  > kryddsmör, rödvinssky, pommes frites samt haricot verts.
+  > bearnaisesås, rödvinssky, pommes frites samt haricot verts.
 
 
 ## Stående alternativ
