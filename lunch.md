@@ -1,37 +1,37 @@
-## Veckans meny, V. 50
+## Veckans meny, V. 51
 
 ### Måndag 
 
-* `95` Köttfärslimpa
-  > gräddsås, kokt potatis & rårörda lingon samt pressgurka.  
+* `95` Pannbiff 
+  > gräddsås, potatismos & rårörda lingon samt pressgurka.  
  
   
 
 
 ### Tisdag
 
-* `95` Raggmunk
-  > med stekt fläsk & rårörda lingon. 
+* `95` Stekt fläsk 
+  > med löksås & rårörda lingon. 
   
 
 
 ### Onsdag
 
 * `95` Schnitzel
-  > kryddsmör, skysås, klyftpotatis & ärtor. 
+  > skysås, citron, kapris, purjolökspotatis  & ärtor. 
 
 
 
 ### Torsdag
 
-* `95` Wallenbergare
-  >  potatispuré, skirat smör, gröna ärtor & rårörda lingon. 
+* `95` Helstekt ryggbiff 
+  >   Grönpepparsås, potatisgratäng samt primörer. 
 
 
 ### Fredag
 
-* `95` Lövbiff
-  > bearnaisesås, rödvinssky, pommes frites samt haricot verts.
+* `95` Stängt - Julafton
+  > God Jul & Gott nytt år önskar vi på Bakfickan!
 
 
 ## Stående alternativ
