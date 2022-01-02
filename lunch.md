@@ -1,37 +1,37 @@
-## Veckans meny, V. 51
+## Veckans meny, V. 1
 
 ### Måndag 
 
-* `95` Pannbiff 
-  > gräddsås, potatismos & rårörda lingon samt pressgurka.  
+* `95` Lunchstängt - öppnar 14.00
+  > 
  
   
 
 
 ### Tisdag
 
-* `95` Stekt fläsk 
-  > med löksås & rårörda lingon. 
+* `95` Lunchstängt - öppnar 14.00
+  > 
   
 
 
 ### Onsdag
 
-* `95` Schnitzel
-  > skysås, citron, kapris, purjolökspotatis  & ärtor. 
+* `95` Lunchstängt - öppnar 14.00
+  >  
 
 
 
 ### Torsdag
 
-* `95` Helstekt ryggbiff 
-  >   Grönpepparsås, potatisgratäng samt primörer. 
+* `95` Lunchstängt - öppnar 14.00
+  >    
 
 
 ### Fredag
 
-* `95` Stängt - Julafton
-  > God Jul & Gott nytt år önskar vi på Bakfickan!
+* `95` Lunchstängt - öppnar 14.00
+  > 
 
 
 ## Stående alternativ
