@@ -2,7 +2,8 @@
 
 ### Måndag 
 
-* `95` Vi håller lunchstängt på Bakfickan även under v.1 - öppnar 14.00 med à la carte.
+*   Vi håller lunchstängt på Bakfickan även under v.1 
+ Öppnar 14.00 med à la carte.
   > Från och med v2 öppnar vi lunchen som vanligt 11.30
  
   
