@@ -1,38 +1,37 @@
-## Veckans meny, V. 1
+## Veckans meny, V.2
 
 ### Måndag 
 
-*   Vi håller lunchstängt på Bakfickan även under v.1 
- Öppnar 14.00 med à la carte.
-  > Från och med v2 öppnar vi lunchen som vanligt 11.30
+*  `95` Pannbiff 
+  > Med potatismos, gräddsås, rårörda lingon & pressgurka.
  
   
 
 
 ### Tisdag
 
-* `95` Lunchstängt - öppnar 14.00
-  > 
+* `95` Stekt fläsk
+  > med kokt potatis,löksås & rårörda lingon.  
   
 
 
 ### Onsdag
 
-* `95` Lunchstängt - öppnar 14.00
-  >  
+* `95` Schnitzel 
+  >  med persiljesmör, rödvinssky, klyftpotatis & gröna ärtor.
 
 
 
 ### Torsdag
 
-* `95` Lunchstängt - öppnar 14.00
-  >    
+* `95` Kålpudding 
+  >    Kokt potatis, gräddsås & rårörda lingon. 
 
 
 ### Fredag
 
-* `95` Lunchstängt - öppnar 14.00
-  > 
+* `95` Lövbiff
+  >  med pommes, bearnaisesås, skysås & haricot verts.
 
 
 ## Stående alternativ
