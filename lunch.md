@@ -18,7 +18,7 @@
 ### Onsdag
 
 * `95` Schnitzel 
-  >  med persiljesmör, rödvinssky, klyftpotatis & gröna ärtor.
+  >  med kryddsmör, rödvinssky, klyftpotatis & gröna ärtor.
 
 
 
