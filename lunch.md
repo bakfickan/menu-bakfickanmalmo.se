@@ -1,37 +1,37 @@
-## Veckans meny, V.2
+## Veckans meny, V.3
 
 ### Måndag 
 
 *  `95` Pannbiff 
-  > Med potatismos, gräddsås, rårörda lingon & pressgurka.
+  > kokt potatis, löksky, rårörda lingon & pressgurka.
  
   
 
 
 ### Tisdag
 
-* `95` Stekt fläsk
-  > med kokt potatis,löksås & rårörda lingon.  
+* `95` Dansk fläskstek
+  > med gräddsås, stekt kulpotatis, rödkål, äpplemos.  
   
 
 
 ### Onsdag
 
 * `95` Schnitzel 
-  >  med kryddsmör, rödvinssky, klyftpotatis & gröna ärtor.
+  >  citron, kapris, skysås samt purjolökspotatis.
 
 
 
 ### Torsdag
 
-* `95` Kålpudding 
-  >    Kokt potatis, gräddsås & rårörda lingon. 
+* `95` Wallenbergare
+  >    Potatispuré, skirat smör rårörda lingon & gröna ärtor. 
 
 
 ### Fredag
 
-* `95` Lövbiff
-  >  med pommes, bearnaisesås, skysås & haricot verts.
+* `95` Biff Rydberg
+  > potatis, lök, ryggbiff, äggula & dijoncreme.
 
 
 ## Stående alternativ
