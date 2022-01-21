@@ -31,7 +31,7 @@
 ### Fredag
 
 * `95` Biff Rydberg
-  > potatis, lök, ryggbiff, äggula & dijoncreme.
+  > äggula & dijoncreme.
 
 
 ## Stående alternativ
