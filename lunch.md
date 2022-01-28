@@ -31,7 +31,7 @@
 ### Fredag
 
 * `95` Porterstek 
-  > skysås, dillkokt potatis, vinbärsgelé & brysselkål. 
+  > gräddsås, dillkokt potatis, vinbärsgelé & brysselkål. 
 
 
 ## Stående alternativ
