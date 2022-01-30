@@ -36,7 +36,7 @@
 
 ## Stående alternativ
 
-* `95` Bakfickans Klassiska Hamburgare
+* `119`Bakfickans Klassiska Hamburgare
   >oxfärs, (veg, alt halloumi), ost, bacon & hamburgardressing. Serveras med pommes frites.
 
 * `119`  Panerad spätta
