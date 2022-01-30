@@ -1,37 +1,37 @@
-## Veckans meny, V.4
+## Veckans meny, V.5
 
 ### Måndag 
 
-*  `95` Persiljejärpar 
-  > potatismos, gräddsås & rårörda lingon.
+*  `95` Viltfärsbiffar
+  > (på hjort) med nypotatis, champinjonsås & rårörda lingon.
  
   
 
 
 ### Tisdag
 
-* `95` Biff stroganoff 
-  > med ris.  
+* `95` Kalvkött i dillsås 
+  > med kokt potatis, morötter & lök.
   
 
 
 ### Onsdag
 
 * `95` Schnitzel 
-  >  cognacssky, persiljesmör, klyftpotatis & ärtor.
+  >  skysås, citron, kapris &  klyftpotatis samt ärtor.
 
 
 
 ### Torsdag
 
-* `95` Örtbakad fläskfilé 
-  >   rödvinssky, purjolökspotatis & haricot verts.
+* `95` Slottsstek 
+  >   Gräddsås, kulpotatis, gelé & pressgurka. 
 
 
 ### Fredag
 
-* `95` Porterstek 
-  > gräddsås, dillkokt potatis, vinbärsgelé & brysselkål. 
+* `95` Helstekt ryggbiff
+  > hasselbackspotatis, tryffelbearnaise, rödvinssky samt haricot verts. 
 
 
 ## Stående alternativ
