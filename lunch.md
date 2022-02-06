@@ -1,39 +1,38 @@
-## Veckans meny, V.5
+## Veckans meny, V.6
 
 ### Måndag 
 
-*  `95` Viltfärsbiffar
-  > (på hjort) med nypotatis, champinjonsås & rårörda lingon.
+*  `95` Köttbullar 
+  > potatismos, brunsås, pressgurka & rårörda lingon.
  
   
 
 
 ### Tisdag
 
-* `95` Kalvkött i dillsås 
-  > med kokt potatis, morötter & lök.
+* `95` Stekt fläsk 
+  > med löksås, rårörda lingon & kokt potatis.
   
 
 
 ### Onsdag
 
 * `95` Schnitzel 
-  >  skysås, citron, kapris &  klyftpotatis samt ärtor.
+ rödvinssky, strimlad purjolökspotatis, samt ärtor.
 
 
 
 ### Torsdag
 
-* `95` Slottsstek 
-  >   Gräddsås, kulpotatis, gelé & pressgurka. 
+* `95`Dansk fläskstek
+    Kulpotatis, gräddsås, äpplemos & rödkål.
+
 
 
 ### Fredag
 
-* `95` Helstekt ryggbiff
-  > hasselbackspotatis, tryffelbearnaise, rödvinssky samt haricot verts. 
-
-
+* `95` Lövbiff 
+      Klyftpotatis, kryddsmör,skysås, samt  bearnaisesås samt 
 ## Stående alternativ
 
 * `119`Bakfickans Klassiska Hamburgare
