@@ -32,7 +32,7 @@
 ### Fredag
 
 * `95` Lövbiff 
-    > Klyftpotatis, kryddsmör,skysås, samt  bearnaisesås samt 
+    > Pommes,kryddsmör,skysås & haricot verts.
 
 ## Stående alternativ
 
