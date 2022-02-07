@@ -18,21 +18,22 @@
 ### Onsdag
 
 * `95` Schnitzel 
- rödvinssky, strimlad purjolökspotatis, samt ärtor.
+  > rödvinssky, strimlad purjolökspotatis, samt ärtor.
 
 
 
 ### Torsdag
 
-* `95`Dansk fläskstek
-    Kulpotatis, gräddsås, äpplemos & rödkål.
+* `95` Dansk fläskstek
+   > Kulpotatis, gräddsås, äpplemos & rödkål.
 
 
 
 ### Fredag
 
 * `95` Lövbiff 
-      Klyftpotatis, kryddsmör,skysås, samt  bearnaisesås samt 
+    > Klyftpotatis, kryddsmör,skysås, samt  bearnaisesås samt 
+
 ## Stående alternativ
 
 * `119`Bakfickans Klassiska Hamburgare
