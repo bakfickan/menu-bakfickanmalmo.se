@@ -25,7 +25,7 @@
 ### Torsdag
 
 * `95` Dansk fläskstek
-   > Kulpotatis, gräddsås, äpplemos & rödkål.
+   > Dillkokt nypotatis, gräddsås, äpplemos & rödkål.
 
 
 
