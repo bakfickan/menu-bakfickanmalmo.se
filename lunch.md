@@ -1,40 +1,41 @@
-## Veckans meny, V.6
+## Veckans meny, V.7
 
 ### Måndag 
 
-*  `95` Köttbullar 
-  > potatismos, brunsås, pressgurka & rårörda lingon.
+*  `95` Pannbiff
+  > med champinjonsås, kokt potatis & rödbetor.
  
   
 
 
 ### Tisdag
 
-* `95` Stekt fläsk 
-  > med löksås, rårörda lingon & kokt potatis.
+* `95` Örtbakad fläskfilé 
+  > med cognacssky, stekt purjolökspotatis samt rotfrukter. 
   
 
 
 ### Onsdag
 
 * `95` Schnitzel 
-  > rödvinssky, strimlad purjolökspotatis, samt ärtor.
+  > med ”sauce aux trois mutardes” 3 sorters senapssås, klyftpotatis & haricot verts. 
 
 
 
 ### Torsdag
 
-* `95` Dansk fläskstek
-   > Dillkokt nypotatis, gräddsås, äpplemos & rödkål.
+* `95` Wallenbergare 
+   > med potatispuré, skirat smör, rårörda lingon & gröna ärtor. 
 
 
 
 ### Fredag
 
-* `95` Lövbiff 
-    > Pommes,kryddsmör,skysås & haricot verts.
+* `95` Helstekt rostbiff 
+    > med brunsås, stekt kulpotatis, vinbärsgelé samt brysselkål.
 
-## Stående alternativ
+## 
+Stående alternativ
 
 * `119`Bakfickans Klassiska Hamburgare
   >oxfärs, (veg, alt halloumi), ost, bacon & hamburgardressing. Serveras med pommes frites.
