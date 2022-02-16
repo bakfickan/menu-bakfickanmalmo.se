@@ -24,8 +24,8 @@
 
 ### Torsdag
 
-* `95` Wallenbergare 
-   > med potatispuré, skirat smör, rårörda lingon & gröna ärtor. 
+* `95` Lövbiff
+   > rödvinssky, bearnaise & pommes. 
 
 
 
