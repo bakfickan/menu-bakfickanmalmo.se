@@ -31,8 +31,8 @@
 
 ### Fredag
 
-* `95` Helstekt rostbiff 
-    > med brunsås, stekt kulpotatis, vinbärsgelé samt brysselkål.
+* `95` Matinerad rostbiff 
+    > med vitvinssås, dillkokt nypotatis, vinbärsgelé samt brysselkål.
 
 ## 
 Stående alternativ
