@@ -31,7 +31,7 @@
 
 ### Fredag
 
-* `95` Matinerad rostbiff 
+* `95` Marinerad  rostbiff 
     > med vitvinssås, dillkokt nypotatis, vinbärsgelé samt brysselkål.
 
 ## 
