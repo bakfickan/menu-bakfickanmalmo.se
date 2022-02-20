@@ -1,38 +1,38 @@
-## Veckans meny, V.7
+## Veckans meny, V.8
 
 ### Måndag 
 
-*  `95` Pannbiff
-  > med champinjonsås, kokt potatis & rödbetor.
+*  `95` Wallenbergare 
+  > potatispuré, skirat smör, rårörda lingon & gröna ärtor.
  
   
 
 
 ### Tisdag
 
-* `95` Örtbakad fläskfilé 
-  > med cognacssky, stekt purjolökspotatis samt rotfrukter. 
+* `95` Fläskfilé 
+  > med champinjonsås, klyftpotatis & haricot verts. 
   
 
 
 ### Onsdag
 
 * `95` Schnitzel 
-  > med ”sauce aux trois mutardes” 3 sorters senapssås, klyftpotatis & haricot verts. 
+  > citron, kapris, skysås, purjolökspotatis. 
 
 
 
 ### Torsdag
 
-* `95` Lövbiff
-   > rödvinssky, bearnaise & pommes. 
+* `95` Biff Bellman
+   > serveras med rödbetor. 
 
 
 
 ### Fredag
 
-* `95` Marinerad  rostbiff 
-    > med vitvinssås, dillkokt nypotatis, vinbärsgelé samt brysselkål.
+* `95` Slottsstek  
+    > gräddsås, stekt kulpotatis & vinbärsgelé.
 
 ## 
 Stående alternativ
