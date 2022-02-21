@@ -24,7 +24,7 @@
 
 ### Torsdag
 
-* `95` Biff Bellman
+* `95` Pytt Bellman
    > serveras med rödbetor. 
 
 
