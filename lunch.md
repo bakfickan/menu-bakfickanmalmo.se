@@ -24,8 +24,8 @@
 
 ### Torsdag
 
-* `95` Lasagne 
-   > med tomatsås serveras med tzatziki. 
+* `95` Biff stroganoff 
+   > med ris.  
 
 
 
