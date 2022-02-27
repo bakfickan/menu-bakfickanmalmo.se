@@ -1,38 +1,38 @@
-## Veckans meny, V.8
+## Veckans meny, V.9
 
 ### Måndag 
 
-*  `95` Wallenbergare 
-  > potatispuré, skirat smör, rårörda lingon & gröna ärtor.
+*  `95` Köttfärslimpa 
+  > kokt potatis, brunsås, rårörda lingon & pressgurka.
  
   
 
 
 ### Tisdag
 
-* `95` Fläskfilé 
-  > med champinjonsås, klyftpotatis & haricot verts. 
+* `95` Örtbakad Fläskfilé 
+  > med timjansky, klyftpotatis & haricot verts. 
   
 
 
 ### Onsdag
 
 * `95` Schnitzel 
-  > citron, kapris, skysås, purjolökspotatis. 
+  > kryddsmör, skysås, kulpotatis & gröna ärtor. 
 
 
 
 ### Torsdag
 
-* `95` Pytt Bellman
-   > serveras med rödbetor. 
+* `95` Lasagne 
+   > med tomatsås serveras med tzatziki. 
 
 
 
 ### Fredag
 
-* `95` Slottsstek  
-    > gräddsås, stekt kulpotatis & vinbärsgelé.
+* `95` Helstekt ryggbiff
+    > cognacsky, potatisgratäng samt primörer.
 
 ## 
 Stående alternativ
