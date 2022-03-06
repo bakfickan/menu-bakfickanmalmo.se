@@ -2,38 +2,37 @@
 
 ### Måndag 
 
-*  `95` Köttfärslimpa 
-  > kokt potatis, brunsås, rårörda lingon & pressgurka.
+*  `95` Pannbiff 
+  > stekt ägg, löksky, kokt potatis, rårörda lingon lingon & pressgurka.
  
   
 
 
 ### Tisdag
 
-* `95` Örtbakad Fläskfilé 
-  > med timjansky, klyftpotatis & haricot verts. 
+* `95` Stekt fläsk 
+  > med kokt potatis, rårörda lingon.  
   
 
 
 ### Onsdag
 
 * `95` Schnitzel 
-  > kryddsmör, skysås, kulpotatis & gröna ärtor. 
+  > citron, kapris & skysås, stekt potatis  & gröna ärtor. 
 
 
 
 ### Torsdag
 
-* `95` Biff stroganoff 
-   > med ris.  
+* `95` Kycklingfilé 
+  > med limesås, vinbärsgelé @
+ & purjolökspotatis 
 
-
-
+   
 ### Fredag
 
-* `95` Helstekt ryggbiff
-    > cognacsky, potatisgratäng samt primörer.
-
+* `95` Lövbiff 
+   > choronsås, klyftpotatis samt primörer. 
 ## 
 Stående alternativ
 
