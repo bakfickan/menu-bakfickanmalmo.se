@@ -3,7 +3,7 @@
 ### Måndag 
 
 *  `95` Pannbiff 
-  > stekt ägg, löksky, kokt potatis, rårörda lingon lingon & pressgurka.
+  > stekt ägg, löksky, kokt potatis, rårörda lingon. 
  
   
 
@@ -11,7 +11,7 @@
 ### Tisdag
 
 * `95` Stekt fläsk 
-  > med kokt potatis, rårörda lingon.  
+  > med löksås, kokt potatis, rårörda lingon.  
   
 
 
@@ -25,7 +25,7 @@
 ### Torsdag
 
 * `95` Kycklingfilé 
-  > med limesås, vinbärsgelé @
+  > med limesås, vinbärsgelé, 
  & purjolökspotatis 
 
    
