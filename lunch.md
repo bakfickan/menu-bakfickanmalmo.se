@@ -18,7 +18,7 @@
 ### Onsdag
 
 * `95` Schnitzel 
-  > citron, kapris & skysås, stekt potatis  & gröna ärtor. 
+  > citron, kapris & skysås, klyftpotatis  & gröna ärtor. 
 
 
 
