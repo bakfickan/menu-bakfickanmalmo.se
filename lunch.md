@@ -1,9 +1,9 @@
-## Veckans meny, V.12
+## Veckans meny, V.13
 
 ### Måndag 
 
-*  `95` Pannbiff 
-  > potatismos, gräddsås, pressgurka & rårörda lingon. 
+*  `95` Hackebiff
+  > löksky, kokt potatis & rödbetor. 
  
   
 
@@ -11,28 +11,28 @@
 ### Tisdag
 
 * `95` Stekt kycklingfilé  
-  > med kantarellsås, råstekt potatis, vinbärsgelé & brysselkål.  
+  > tomat/paprikasås, klyftpotatis & broccoli.
   
 
 
 ### Onsdag
 
 * `95` Schnitzel 
-  > sauce aux trois moutardes (3 sorters senap), klyftpotatis & gröna ärtor. 
+  > citron, kapris, rödvinssky, kulpotatis & gröna ärtor. 
 
 
 
 ### Torsdag
 
-* `95` Ungersk gulasch 
-  > ris, gräddfil & saltgurka.
+* `95` Fläskfilé 
+  > pommes, bearnaisesås & haricot verts.
 
 
    
 ### Fredag
 
-* `95` Helstekt ryggbiff
-   > potatisgratäng, cognacssky & primörer.
+* `95` Entrecôte 
+   > kryddsmör, skysås, klyftpotatis & primörer.
 ## 
 
 Stående alternativ
