@@ -3,15 +3,15 @@
 ### Måndag 
 
 *  `95` Biff Lindström
-  > stekt ägg, skysås, kokt potatis & rödbetor. 
+  > skysås, kokt potatis & pressgurka. 
  
   
 
 
 ### Tisdag
 
-* `95` Lasagne
-  > med tomatsås.
+* `95` Ugnsbakad Lax
+  > citronsås, full, potatismos & haricot verts
   
 
 
@@ -24,8 +24,8 @@
 
 ### Torsdag
 
-* `95` Ugnsbakad Lax
-  > citron/dillsås, kokt potatis & haricot verts.
+* `95` Dansk fläskstek 
+  > gräddsås, äpplemos, rödkål & kulpotatis.
 
 
    
