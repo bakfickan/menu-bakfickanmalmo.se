@@ -1,38 +1,38 @@
-## Veckans meny, V.13
+## Veckans meny, V.14
 
 ### Måndag 
 
-*  `95` Hackebiff
-  > löksky, kokt potatis & rödbetor. 
+*  `95` Biff Lindström
+  > stekt ägg, skysås, kokt potatis & rödbetor. 
  
   
 
 
 ### Tisdag
 
-* `95` Stekt kycklingfilé  
-  > tomat/paprikasås, klyftpotatis & broccoli.
+* `95` Lasagne
+  > med tomatsås.
   
 
 
 ### Onsdag
 
 * `95` Schnitzel 
-  > citron, kapris, rödvinssky, kulpotatis & gröna ärtor. 
+  >  kryddsmör, skysås, klyftpotatis & gröna ärtor. 
 
 
 
 ### Torsdag
 
-* `95` Fläskfilé 
-  > pommes, bearnaisesås & haricot verts.
+* `95` Ugnsbakad Lax
+  > citron/dillsås, kokt potatis & haricot verts.
 
 
    
 ### Fredag
 
-* `95` Entrecôte 
-   > kryddsmör, skysås, klyftpotatis & primörer.
+* `95` Helstekt ryggbiff 
+   >  rödvinssås, bearnaise, pommes chateau & primörer.
 ## 
 
 Stående alternativ
