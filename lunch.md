@@ -1,38 +1,38 @@
-## Veckans meny, V.14
+## Veckans meny, V.15
 
 ### Måndag 
 
-*  `95` Biff Lindström
-  > skysås, kokt potatis & pressgurka. 
+*  `95` Köttfärslimpa
+  > gräddsås, kokt potatis, rårörda lingon & pressgurka. 
  
   
 
 
 ### Tisdag
 
-* `95` Ugnsbakad Lax
-  > citronsås, full, potatismos & haricot verts
+* `95` Biff stroganoff
+  > ris, créme fraîche & saltgurka.
   
 
 
 ### Onsdag
 
 * `95` Schnitzel 
-  >  kryddsmör, skysås, klyftpotatis & gröna ärtor. 
+  >  rödvinssås, stekt kulpotatis, citron & kapris. 
 
 
 
 ### Torsdag
 
-* `95` Dansk fläskstek 
-  > gräddsås, äpplemos, rödkål & kulpotatis.
+* `95` Wallenbergare 
+  > skirat smör, potatispuré, rårörda lingon & gröna ärtor.
 
 
    
 ### Fredag
 
 * `95` Helstekt ryggbiff 
-   >  rödvinssås, bearnaise, pommes chateau & primörer.
+   >  skysås, blue cheese, klyftpotatis & primörer.
 ## 
 
 Stående alternativ
