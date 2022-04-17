@@ -1,38 +1,38 @@
-## Veckans meny, V.15
+## Veckans meny, V.16
 
 ### Måndag 
 
-*  `95` Köttfärslimpa
-  > gräddsås, kokt potatis, rårörda lingon & pressgurka. 
+*  Stängt för lunch annandag påsk, öppnar 13.00 för à la carte.
+  > 
  
   
 
 
 ### Tisdag
 
-* `95` Biff stroganoff
-  > ris, créme fraîche & saltgurka.
+* `95` Köttbullar 
+  > gräddsås, rårörda lingon, pressgurka & potatismos.
   
 
 
 ### Onsdag
 
 * `95` Schnitzel 
-  >  rödvinssås, stekt kulpotatis, citron & kapris. 
+  >   skysås, råstekt purjolökspotatis samt persiljesmör.
 
 
 
 ### Torsdag
 
-* `95` Wallenbergare 
-  > skirat smör, potatispuré, rårörda lingon & gröna ärtor.
+* `95` Helstekt karré 
+  > klyftpotatis, tzatziki & tomat/rödlök salsa.
 
 
    
 ### Fredag
 
-* `95` Helstekt ryggbiff 
-   >  skysås, blue cheese, klyftpotatis & primörer.
+* `95` Fläskfilé
+   >  grönpepparsås, potatisgratäng samt primörer.
 ## 
 
 Stående alternativ
