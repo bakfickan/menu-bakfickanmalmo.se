@@ -18,7 +18,7 @@
 ### Onsdag
 
 * `95` Schnitzel 
-  >   skysås, råstekt purjolökspotatis samt persiljesmör.
+  >   skysås, råstekt purjolökspotatis samt café de Paris kryddsmör .
 
 
 
