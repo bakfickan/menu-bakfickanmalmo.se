@@ -1,8 +1,10 @@
-##  V.17
+
+  
+## v.18 Fredags Lunch 12.00-15.00
 
 ### Måndag 
 
-*  Från och med v.17 har vi stängt för lunch måndag - torsdag, öppnar 15.00 för à la carte.
+*  
   > 
  
   
@@ -18,24 +20,33 @@
 ### Onsdag
 
 * 
- 
+  >   
 
 
 
 ### Torsdag
 
-*  
+* 
   > 
 
 
    
 ### Fredag
 
-* `119` Lövbiff 
-  > Med skysås, kryddsmör. Serveras med pommes frites.
-   
+* `119` Entrecôte 
+   >  skysås, klyftpotatis & primörer.
 ## 
 
+Stående alternativ
 
+* `119`Bakfickans Klassiska Hamburgare
+  >oxfärs, (veg, alt halloumi), ost, bacon & hamburgardressing. Serveras med pommes frites.
+
+* `119`  Panerad spätta
+  >   med remouladsås, ärtor & citron samt pommes.
+
+* `119` Caesarsallad
+  > bacon, krutonger & grana padano. Välj mellan scampi, halloumi eller pankopanerad kyckling.
   
-
+* `129` Ryggbiff
+  > pommes frites & bearnaise.
