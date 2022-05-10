@@ -1,6 +1,6 @@
 
   
-## v.18 Fredags Lunch 12.00-15.00
+## v.v19 Fredags Lunch 12.00-15.00
 
 ### Måndag 
 
@@ -33,8 +33,8 @@
    
 ### Fredag
 
-* `119` Entrecôte 
-   >  skysås, klyftpotatis & primörer.
+* `119` Schnitzel 
+   >  skysås, kapris, citron, kulpotatis & gröna ärtor.
 ## 
 
 Stående alternativ
