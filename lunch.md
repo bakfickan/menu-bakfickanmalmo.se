@@ -1,6 +1,6 @@
 
   
-## v.v19 Fredags Lunch 12.00-15.00
+## v.v20 Fredags Lunch 12.00-15.00
 
 ### Måndag 
 
@@ -33,8 +33,8 @@
    
 ### Fredag
 
-* `119` Schnitzel 
-   >  skysås, kapris, citron, kulpotatis & gröna ärtor.
+* `119` Fläskfilé
+   >  rödvinsås, bearnaise, ugnsrostad potatis samt primörer.
 ## 
 
 Stående alternativ
