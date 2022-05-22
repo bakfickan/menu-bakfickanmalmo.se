@@ -1,6 +1,6 @@
 
   
-## v.v20 Fredags Lunch 12.00-15.00
+## v.21 Fredags Lunch 12.00-15.00
 
 ### Måndag 
 
@@ -33,8 +33,8 @@
    
 ### Fredag
 
-* `119` Fläskfilé
-   >  rödvinsås, bearnaise, ugnsrostad potatis samt primörer.
+* `119` Grillspett 
+   >  serveras med tzatziki med klyftpotatis och somriga primörer.
 ## 
 
 Stående alternativ
