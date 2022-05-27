@@ -34,7 +34,7 @@
 ### Fredag
 
 * `119` Grillspett 
-   >  serveras med tzatziki med klyftpotatis och somriga primörer.
+   >  serveras med tzatziki med pommes och somriga primörer.
 ## 
 
 Stående alternativ
