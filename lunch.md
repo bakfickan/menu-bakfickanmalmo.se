@@ -1,6 +1,6 @@
 
   
-## v.21 Fredags Lunch 12.00-15.00
+## v.22 Fredags Lunch 12.00-15.00
 
 ### Måndag 
 
@@ -33,8 +33,8 @@
    
 ### Fredag
 
-* `119` Grillspett 
-   >  serveras med tzatziki med pommes och somriga primörer.
+* `119` Örtbakad fläskfilé 
+   >  rödvinssky, potatisgratäng & primörer.
 ## 
 
 Stående alternativ
@@ -43,7 +43,7 @@ Stående alternativ
   >oxfärs, (veg, alt halloumi), ost, bacon & hamburgardressing. Serveras med pommes frites.
 
 * `119`  Panerad spätta
-  >   med remouladsås, ärtor & citron samt pommes.
+  >   med pommes, aioli & citron.
 
 * `119` Caesarsallad
   > bacon, krutonger & grana padano. Välj mellan scampi, halloumi eller pankopanerad kyckling.
