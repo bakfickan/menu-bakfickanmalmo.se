@@ -1,6 +1,6 @@
 
   
-## v.22 Fredags Lunch 12.00-15.00
+## v.23 Fredags Lunch 12.00-15.00
 
 ### Måndag 
 
@@ -33,7 +33,7 @@
    
 ### Fredag
 
-* `119` Örtbakad fläskfilé 
+* `119` Schnitzel med citron, kapris, rödvinssky, stekt potatis samt gröna ärtor 
    >  rödvinssky, potatisgratäng & primörer.
 ## 
 
