@@ -33,8 +33,8 @@
    
 ### Fredag
 
-* `119` Schnitzel med citron, kapris, rödvinssky, stekt potatis samt gröna ärtor 
-.
+* `119` Schnitzel 
+  > med citron, kapris, rödvinssky, stekt potatis samt gröna ärtor 
 ## 
 
 Stående alternativ
