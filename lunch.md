@@ -34,7 +34,7 @@
 ### Fredag
 
 * `119` Schnitzel med citron, kapris, rödvinssky, stekt potatis samt gröna ärtor 
-   >  rödvinssky, potatisgratäng & primörer.
+.
 ## 
 
 Stående alternativ
