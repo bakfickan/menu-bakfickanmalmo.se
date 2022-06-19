@@ -1,6 +1,6 @@
 
   
-## v.23 Fredags Lunch 12.00-15.00
+## v.24 Fredags Lunch 12.00-15.00
 
 ### Måndag 
 
@@ -33,8 +33,9 @@
    
 ### Fredag
 
-* `119` Chicken cordon bleu
-  > med dijonsås, kulpotatis, citron samt gröna ärtor. 
+* `119` Stängt Midsommarafton 🌸
+
+  > 
 ## 
 
 Stående alternativ
