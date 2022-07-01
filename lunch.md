@@ -1,6 +1,6 @@
 
   
-## v.24 Fredags Lunch 12.00-15.00
+## v.25 Fredags Lunch 12.00-15.00
 
 ### Måndag 
 
@@ -33,9 +33,8 @@
    
 ### Fredag
 
-* `119` Stängt Midsommarafton 🌸
-
-  > 
+* `119` Örtbakad fläskfilé  
+  > potatisgratäng, skysås & primörer 
 ## 
 
 Stående alternativ
