@@ -1,6 +1,6 @@
 
   
-## v.25 Fredags Lunch 12.00-15.00
+## v.26 Fredags Lunch 12.00-15.00
 
 ### Måndag 
 
@@ -33,8 +33,8 @@
    
 ### Fredag
 
-* `119` Örtbakad fläskfilé  
-  > potatisgratäng, skysås & primörer 
+* `119` Flankstek  
+  > chimichurri, skysås, krispig potatis & en liten fetaost/tomat sallad. 
 ## 
 
 Stående alternativ
