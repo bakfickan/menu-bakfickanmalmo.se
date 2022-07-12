@@ -1,6 +1,6 @@
 
   
-## v.26 Fredags Lunch 12.00-15.00
+## v.28 Fredags Lunch 12.00-15.00
 
 ### Måndag 
 
@@ -33,8 +33,8 @@
    
 ### Fredag
 
-* `119` Flankstek  
-  > chimichurri, skysås, krispig potatis & en liten fetaost/tomat sallad. 
+* `119` Fläskfilé 
+  > sötpotatis, tzatziki, majskolv & zucchini.  
 ## 
 
 Stående alternativ
