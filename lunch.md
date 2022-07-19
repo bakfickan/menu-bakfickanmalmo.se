@@ -1,6 +1,6 @@
 
   
-## v.28 Fredags Lunch 12.00-15.00
+## v.29 Fredags Lunch 12.00-15.00
 
 ### Måndag 
 
@@ -33,8 +33,8 @@
    
 ### Fredag
 
-* `119` Fläskfilé 
-  > sötpotatis, tzatziki, majskolv & zucchini.  
+* `119` Lövbiff 
+  > skysås, bearnaisesås & pommes frites.  
 ## 
 
 Stående alternativ
