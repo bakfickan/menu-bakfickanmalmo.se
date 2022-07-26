@@ -1,6 +1,6 @@
 
   
-## v.29 Fredags Lunch 12.00-15.00
+## v.30 Fredags Lunch 12.00-15.00
 
 ### Måndag 
 
@@ -33,8 +33,8 @@
    
 ### Fredag
 
-* `119` Lövbiff 
-  > skysås, bearnaisesås & pommes frites.  
+* `119` Grillspett
+  > klyftpotatis, tzatziki & en liten fetaostsallad 
 ## 
 
 Stående alternativ
