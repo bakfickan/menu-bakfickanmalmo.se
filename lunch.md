@@ -34,7 +34,7 @@
 ### Fredag
 
 * `119` Helstekt Ryggbiff
-  > pommes toppade med parmesan & gräslök, rödvinssky samt grillade grönsaker.  
+  > pommes toppade med parmesan & gräslök, rödvinssky samt primörer.  
 ## 
 
 Stående alternativ
