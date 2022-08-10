@@ -1,6 +1,6 @@
 
   
-## v.31 Fredags Lunch 12.00-15.00
+## v.32 Fredags Lunch 12.00-15.00
 
 ### Måndag 
 
@@ -33,8 +33,8 @@
    
 ### Fredag
 
-* `119` Helstekt Ryggbiff
-  > pommes toppade med parmesan & gräslök, rödvinssky samt primörer.  
+* `119` Souvlaki 
+  > krispig potatis, tzatziki & grillad paprika.
 ## 
 
 Stående alternativ
