@@ -1,6 +1,6 @@
 
   
-## v.32 Fredags Lunch 12.00-15.00
+## v.33 Fredags Lunch 12.00-15.00
 
 ### Måndag 
 
@@ -33,8 +33,8 @@
    
 ### Fredag
 
-* `119` Souvlaki 
-  > krispig potatis, tzatziki & grillad paprika.
+* `119` Fläskschnitzel
+  > rödvinssky, stekt potatis, citron & kapris
 ## 
 
 Stående alternativ
