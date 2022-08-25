@@ -1,6 +1,6 @@
 
   
-## v.33 Fredags Lunch 12.00-15.00
+## v.34 Fredags Lunch 12.00-15.00
 
 ### Måndag 
 
@@ -33,8 +33,8 @@
    
 ### Fredag
 
-* `119` Fläskschnitzel
-  > rödvinssky, stekt potatis, citron & kapris
+* `119` Fläskfilé 
+  > rödvinssky, krispig potatis & primörer. 
 ## 
 
 Stående alternativ
