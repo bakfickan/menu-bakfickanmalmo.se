@@ -1,6 +1,6 @@
 
   
-## v.34 Fredags Lunch 12.00-15.00
+## v.35 Fredags Lunch 12.00-15.00
 
 ### Måndag 
 
@@ -33,8 +33,8 @@
    
 ### Fredag
 
-* `119` Fläskfilé 
-  > rödvinssky, krispig potatis & primörer. 
+* `119` Kyckling cordon bleu
+  > dijonsås, krispig potatis & grön ärtor  
 ## 
 
 Stående alternativ
