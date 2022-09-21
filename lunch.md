@@ -1,6 +1,6 @@
 
   
-## v.37 Fredags Lunch 12.00-15.00
+## v.38 Fredags Lunch 12.00-15.00
 
 ### Måndag 
 
@@ -33,8 +33,8 @@
    
 ### Fredag
 
-* `119` Dansk fläskstek
-  > gräddsås, rödkål, äpplemos samt krispig potatis  
+* `119` Griskind
+  > rödvinsås, morot & potatispuré, ugnsbakad spetskål & picklade senapsfrön.  
 ## 
 
 Stående alternativ
