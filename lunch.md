@@ -1,6 +1,6 @@
 
   
-## v.38 Fredags Lunch 12.00-15.00
+## v.39 Fredags Lunch 12.00-15.00
 
 ### Måndag 
 
@@ -33,8 +33,8 @@
    
 ### Fredag
 
-* `119` Griskind
-  > rödvinsås, morot & potatispuré, ugnsbakad spetskål & picklade senapsfrön.  
+* `119` Schnitzel 
+  > skysås, krispig potatis, citron & kapris.  
 ## 
 
 Stående alternativ
