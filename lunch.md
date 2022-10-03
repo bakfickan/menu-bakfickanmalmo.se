@@ -1,52 +1,5 @@
 
   
-## v.39 Fredags Lunch 12.00-15.00
-
-### Måndag 
-
-*  
-  > 
- 
-  
+## Vintertid och vi har stängt lunch och öppnar Mån-Tors 16.00-00.00 & Fre 15.00-01.00
 
 
-### Tisdag
-
-* 
-  > 
-  
-
-
-### Onsdag
-
-* 
-  >   
-
-
-
-### Torsdag
-
-* 
-  > 
-
-
-   
-### Fredag
-
-* `119` Schnitzel 
-  > skysås, krispig potatis, citron & kapris.  
-## 
-
-Stående alternativ
-
-* `119`Bakfickans Klassiska Hamburgare
-  >oxfärs, (veg, alt halloumi), ost, bacon & hamburgardressing. Serveras med pommes frites.
-
-* `119`  Panerad spätta
-  >   med pommes, aioli & citron.
-
-* `119` Caesarsallad
-  > bacon, krutonger & grana padano. Välj mellan scampi, halloumi eller pankopanerad kyckling.
-  
-* `129` Ryggbiff
-  > pommes frites & bearnaise.
