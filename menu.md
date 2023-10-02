@@ -29,8 +29,6 @@
 * `99` Gambas
   > Chili & vitlöksfrästa räkor, serveras med vitlöksbröd.
 
-* `99` Canneloni
-  > Ricotta, spenat, tomat.
 
 * `199` Plocktallrik för 2 personer
   > Charketurier, ostar, husets marmelad & tilltugg.
@@ -75,8 +73,8 @@ Samtliga burgare går att få som vegetariskt alternativ med halloumi.
   > handskalade räkor, kokt ägg, gurka, picklad rödlök, citron & dillmayo.
   > 
 
- * `169` Bakfickans musslor
-  > blåmusslor, tomatsås, chirizo, lök & koriander.
+ * `189` Moule frites
+  > vitvinskokta blåmysslor serveras med pommes frites & aioli.
 
  * `199` Supermackan
   > Entrecote, pepparrotscréme, ekrökt cheddar, krispig lök, sallad.
@@ -87,8 +85,8 @@ Samtliga burgare går att få som vegetariskt alternativ med halloumi.
  * `229` Grillad Ryggbiff 
   > Serveras med rödvinsås, bearnaisesås, säsongens primörer samt valfri side.
   
-  * `249` Lammytterfilé
-  > serveras med marockanskt ris, rostad mandel, sallad & myntayoghurt.
+  * `249` Lammytterfilé 
+  > valfri side, rostad mandel, sallad & myntayoghurt.
 
 * `39/st` Extra sides
   > Pommes frites, potatissallad med ramslök, dillkokt potatis, idaho potatis,grillade grönsaker, side sallad, marokanskt ris, potata bravas.
