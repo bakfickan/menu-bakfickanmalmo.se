@@ -74,7 +74,7 @@ Samtliga burgare går att få som vegetariskt alternativ med halloumi.
   > 
 
  * `189` Moule frites
-  > vitvinskokta blåmysslor serveras med pommes frites & aioli.
+  > vitvinskokta blåmusslor serveras med pommes frites & aioli.
 
  * `199` Supermackan
   > Entrecote, pepparrotscréme, ekrökt cheddar, krispig lök, sallad.
