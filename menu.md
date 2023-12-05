@@ -18,7 +18,7 @@
   > Serveras med jalapeños, salsa & aioli
 
 * `15:-/st` Extra sås:
-  > Aioli, Baconmayo, Bluecheese, Bearnaise, Chilimayo, Tryffelmayo
+  > Aioli, Tryffelmajo, Bluecheese, Bearnaise, Chilimayo, Parmesancreme, Chorizomajo
 
 
 ## Förrätter
@@ -33,23 +33,23 @@
 * `199` Plocktallrik för 2 personer
   > Charketurier, ostar, husets marmelad & tilltugg.
 
-* `99` Feta & melonsallad
-  > mixad sallad, basilika, rödlök & körsbärstomater.
+* `89` Friterad kronärtskocka 
+  > Med tryggelolja, parmesan, gräslök & rökt créme fraîches. 
 
 
 ## Burgare
 
-* `135` Klassisk
+* `139` Klassisk
   > Med ost, bacon & hamburgardressing
 
-* `149` Jamaican jerk burgare
-  > cheddaros, jalapenos, ananassalsa & paprika.
+* `149` Raclette burgare 
+  > Med karamelliserad lök, racletteost, rökt créme fraîches & krispig potatisslice.
 
-* `149` Fransk brie burgare
-  > Brieost, bacon & tryffelmayo.
+* `149` Kyckling burgare 
+  > Med chipotlemajo, cheddar & pico de gallo. 
 
-* `149` Japansk burgare
-  > Picklad ingefära,sesamglaze, krispig lök & wasabimayo.
+* `149` Spansk burgare 
+  >  Med chorizomajo, chilimarmelad, manchego & piementos. 
 
 **Samtliga burgare är gjorda på oxfärs, serveras med pommes frites, sallad, tomat, lök, coleslaw & saltgurka**
 Samtliga burgare går att få som vegetariskt alternativ med halloumi.
@@ -60,36 +60,36 @@ Samtliga burgare går att få som vegetariskt alternativ med halloumi.
 
 ## Varmrätter
 
-* `149` Ramslök & spenatrisotto
-  > pinjenötter, vårlök, brynt smör & grana padano.
+* `149` Rödbetsrisotto
+  > Med buratta, honungsglacerade valnötter & basilika..
 
-* `169` Caesarsallad
+* `179` Caesarsallad
   > Bacon, krutonger & graña padano. Välj mellan scampi, halloumi eller kyckling.
 
 * `–––` Veckans Fisk
   > (Fråga personalen)
 
- * `179` Bakfickans Räkmacka
-  > handskalade räkor, kokt ägg, gurka, picklad rödlök, citron & dillmayo.
+ * `___` Veckans Gryta
+  > Fråga personalen.
   > 
 
  * `189` Moule frites
   > vitvinskokta blåmusslor serveras med pommes frites & aioli.
 
- * `199` Supermackan
-  > Entrecote, pepparrotscréme, ekrökt cheddar, krispig lök, sallad.
+ * `219` Steak sandwich
+  > Entrecote,  parmesancreme, panvhetta, stekt ägg& rostade körsbärstomater. 
   
-  * `219` Grillad Iberico kotlett
-  > potata bravas, padrones, chimichurri.
+  * `229` Grillad Iberico kotlett
+  > smashed potatoes, konfiterade geönsaker & gremolata.
   
- * `229` Grillad Ryggbiff 
+ * `239` Grillad Ryggbiff 
   > Serveras med rödvinsås, bearnaisesås, säsongens primörer samt valfri side.
   
-  * `249` Lammytterfilé 
-  > valfri side, rostad mandel, sallad & myntayoghurt.
+  * `249` Schnitzel
+  > Serveras med stelt potatis, citron, kapris, anjovis & gröna äetor (*fläsk).
 
 * `39/st` Extra sides
-  > Pommes frites, potatissallad med ramslök, dillkokt potatis, idaho potatis,grillade grönsaker, side sallad, marokanskt ris, potata bravas.
+  > Pommes frites, dillkokt potatis, stekt potatis,grillade grönsaker, side sallad, smached potatoes.
   
 
 ## Dessert
@@ -98,8 +98,8 @@ Samtliga burgare går att få som vegetariskt alternativ med halloumi.
 
 * `59` Italiensk glass
   
-* `89` Snickers cake
-> choklad ganache, jordnötssmör ganache, kolasås, salta jordnötter samt glass.
+* `129` Husets ostbricka
+>. 3 sorters ost med kex & marmelad.
 
 * Veckans dessert
   > Fråga personalen.
@@ -109,30 +109,30 @@ Samtliga burgare går att få som vegetariskt alternativ med halloumi.
 
 * `25` Kaffe / Te
 * `35` Läsk / Lättöl
-* `29` Juice
+* `35` Juice
 
 
 ## Fatöl
 
-* `65` Norrlands Guld _40cl 5,3%_
+* `69` Norrlands Guld _40cl 5,3%_
 * `69` Mariestad Continental _40cl 4,2%_
-* `75` Krušovice _40cl 5,0%_
-* `79` Rotating tap _40cl_
-* `79` Wisby Bulldog IPA _40cl 5,0%_
-* `79` Wisby Klosteröl _50cl 5,5%_
+* `77` Krušovice _40cl 5,0%_
+* `85` Rotating tap _40cl_
+* `85` Wisby Bulldog IPA _40cl 5,0%_
+* `85` Wisby Klosteröl _50cl 5,5%_
 * `89`  Weißbier _50cl 5,0%_
 
 
 ## Flasköl
 
-* `45` Heineken _(alkoholfri) 33cl_
-* `49` A Ship Full Of IPA _(alkoholfri) 33cl_
+* `49` Heineken _(alkoholfri) 33cl_
+* `55` A Ship Full Of IPA _(alkoholfri) 33cl_
 * `59` Peoples IPA _33cl 3,5%_
 * `69` Heineken _33cl 5,0%_
 * `69` Melleruds Pils Ekologisk _33cl 4,5%_
 * `75` Menabrea, lager _33cl 5,0%_
-* `65` Corona _33cl 4,5%_
-* `69` Mariestad _50cl 5,3%_
+*. 69`Corona _33cl 4,5%_
+*  65`Mariestad _50cl 5,3%_
 * `75` Newcastle Brown Ale _33cl 4,7%_
 * `72` The tail of a Whale _33cl 4,8%_
 * `72` A Ship Full Of IPA _33cl 5,8%_
@@ -154,7 +154,7 @@ Samtliga burgare går att få som vegetariskt alternativ med halloumi.
 
 ## Cider & Alkoläsk
 
-* `45` Briska päron _(alkoholfri) 33cl_
+* `49` Briska päron _(alkoholfri) 33cl_
 * `69` Briska päron _33cl 4,5%_
 * `69` Briska fläder _33cl 4,5%_
 * `72` Briska Riesling Persika _33cl 4,5%_
