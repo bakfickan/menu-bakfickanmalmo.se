@@ -80,13 +80,13 @@ Samtliga burgare går att få som vegetariskt alternativ med halloumi.
   > Entrecote,  parmesancreme, panvhetta, stekt ägg& rostade körsbärstomater. 
   
   * `229` Grillad Iberico kotlett
-  > smashed potatoes, konfiterade geönsaker & gremolata.
+  > smashed potatoes, konfiterade grönsaker & gremolata.
   
  * `239` Grillad Ryggbiff 
   > Serveras med rödvinsås, bearnaisesås, säsongens primörer samt valfri side.
   
-  * `249` Schnitzel
-  > Serveras med stelt potatis, citron, kapris, anjovis & gröna äetor (*fläsk).
+  * `179` Schnitzel
+  > Serveras med stelt potatis, citron, kapris, anjovis & gröna ärtor (*fläsk).
 
 * `39/st` Extra sides
   > Pommes frites, dillkokt potatis, stekt potatis,grillade grönsaker, side sallad, smached potatoes.
