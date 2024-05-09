@@ -4,52 +4,56 @@
 
 * `59` Pommeskorg
 
-* `59` Pimientos de Padrón 
+* `69` Pimientos de Padrón 
   > Serveras med graña padano & flingsalt.
   
-* `59` Lökringar 
+* `59` Lökringar
 
-* `95` Hot Wings
+* `59` Oliver
+
+* `99` Hot Wings
   > Serveras med grönsaksstavar & bluecheese dip
 
-* `99` Snackkorg
+* `109` Snackkorg
 
-* `95` Ostgratinerade Nachos
+* `119` Ostgratinerade Nachos
   > Serveras med jalapeños, salsa & aioli
 
 * `15:-/st` Extra sås:
-  > Aioli, Tryffelmajo, Bluecheese, Bearnaise, Chilimayo, Parmesancreme, Chorizomajo
+  > Aioli, Tryffelmajo, Bluecheese, Bearnaise, Chilimayo, salsa
 
 
 ## Förrätter
 
-* `49` Vitlöksbröd
+* `55` Vitlöksbröd
   > Serveras med aioli
 
 * `99` Gambas
   > Chili & vitlöksfrästa räkor, serveras med vitlöksbröd.
 
+* `119` Getostsallad
+  > Serveras ljummen med rostad paprika, valnötter & honungsdressing.
 
 * `199` Plocktallrik för 2 personer
   > Charketurier, ostar, husets marmelad & tilltugg.
 
-* `89` Friterad kronärtskocka 
-  > Med tryggelolja, parmesan, gräslök & rökt créme fraîches. 
+* `119` Bruschetta 
+  > Serveras med buratta, tomat, rödlök, basilika, olivolja & balsamico. 
 
 
 ## Burgare
 
-* `139` Klassisk
+* `149` Klassisk
   > Med ost, bacon & hamburgardressing
 
-* `149` Raclette burgare 
-  > Med karamelliserad lök, racletteost, rökt créme fraîches & krispig potatisslice.
+* `159` Grekisk burgare 
+  > Med tzatziki, riven fetaost & olivtapenade.
 
-* `149` Kyckling burgare 
-  > Med chipotlemajo, cheddar & pico de gallo. 
+* `159` Philadelphia burgare 
+  > Med philadelphia cream cheese, avacado & rostad lök. 
 
-* `149` Spansk burgare 
-  >  Med chorizomajo, chilimarmelad, manchego & piementos. 
+* `159` Koreansk burgare 
+  >  Med kimchi, gochuang chilimayo, soyaglaze, koriander & gurka. 
 
 **Samtliga burgare är gjorda på oxfärs, serveras med pommes frites, sallad, tomat, lök, coleslaw & saltgurka**
 Samtliga burgare går att få som vegetariskt alternativ med halloumi.
@@ -60,8 +64,8 @@ Samtliga burgare går att få som vegetariskt alternativ med halloumi.
 
 ## Varmrätter
 
-* `149` Rödbetsrisotto
-  > Med buratta, honungsglacerade valnötter & basilika..
+* `159` Citron & zucchinirisotto
+  > Serveras med pinjenötter & panerad sparris.
 
 * `179` Caesarsallad
   > Bacon, krutonger & graña padano. Välj mellan scampi, halloumi eller kyckling.
@@ -69,27 +73,25 @@ Samtliga burgare går att få som vegetariskt alternativ med halloumi.
 * `–––` Veckans Fisk
   > (Fråga personalen)
 
- * `___` Veckans Gryta
-  > Fråga personalen.
+ * `199` Bakfickans räkmacka
+  > Handskalade räkor, kokt ägg, gurka, picklad rödlök, citron & dillmajonäs.
   > 
 
  * `189` Moule frites
   > vitvinskokta blåmusslor serveras med pommes frites & aioli.
 
- * `219` Steak sandwich
-  > Entrecote,  parmesancreme, panvhetta, stekt ägg& rostade körsbärstomater. 
+ * `229` Grillad Iberico kotlett
+  > med karamelliserd lök, gruyereost, äpplecidersås & stekt purjolökspotatis. 
   
-  * `229` Grillad Iberico kotlett
-  > smashed potatoes, konfiterade grönsaker & gremolata.
+  * `239` Grillad Ryggbiff
+  > Serveras med rödvinsås, bearnaise, grillade grönsaker samt valfri side.
   
- * `239` Grillad Ryggbiff 
-  > Serveras med rödvinsås, bearnaisesås, säsongens primörer samt valfri side.
+ * `269` Bookmaker toast
+  > Oxfilé, dijonmayo, pepparrot & äggula. Serveras med lökringar.
   
-  * `179` Schnitzel
-  > Serveras med stelt potatis, citron, kapris, anjovis & gröna ärtor (*fläsk).
 
-* `39/st` Extra sides
-  > Pommes frites, dillkokt potatis, stekt potatis,grillade grönsaker, side sallad, smached potatoes.
+* `49/st` Extra sides
+  > Pommes frites, dillkokt potatis, side sallad, grillade grönsaker, stekt purjolökspotatis.
   
 
 ## Dessert
