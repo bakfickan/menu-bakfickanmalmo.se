@@ -100,8 +100,7 @@ Samtliga burgare går att få som vegetariskt alternativ med halloumi.
 
 * `59` Italiensk glass
   
-* `129` Husets ostbricka
->. 3 sorters ost med kex & marmelad.
+* `89` Tiramisu
 
 * Veckans dessert
   > Fråga personalen.
@@ -117,31 +116,31 @@ Samtliga burgare går att få som vegetariskt alternativ med halloumi.
 ## Fatöl
 
 * `69` Norrlands Guld _40cl 5,3%_
-* `69` Mariestad Continental _40cl 4,2%_
-* `77` Krušovice _40cl 5,0%_
-* `85` Rotating tap _40cl_
-* `85` Wisby Bulldog IPA _40cl 5,0%_
-* `85` Wisby Klosteröl _50cl 5,5%_
+* `72` Mariestad Continental _40cl 4,2%_
+* `79` Krušovice _40cl 5,0%_
+* `89` Rotating tap _40cl_
+* `89` Wisby Bulldog IPA _40cl 5,0%_
+* `79` Menabrea _50cl 5,0%_
 * `89`  Weißbier _50cl 5,0%_
 
 
 ## Flasköl
 
-* `49` Heineken _(alkoholfri) 33cl_
-* `55` A Ship Full Of IPA _(alkoholfri) 33cl_
-* `59` Peoples IPA _33cl 3,5%_
+* `55` Heineken _(alkoholfri) 33cl_
+* `59` A Ship Full Of IPA _(alkoholfri) 33cl_
+* `65` Peoples IPA _33cl 3,5%_
 * `69` Heineken _33cl 5,0%_
 * `69` Melleruds Pils Ekologisk _33cl 4,5%_
 * `75` Menabrea, lager _33cl 5,0%_
-*. 69`Corona _33cl 4,5%_
-*  65`Mariestad _50cl 5,3%_
-* `75` Newcastle Brown Ale _33cl 4,7%_
-* `72` The tail of a Whale _33cl 4,8%_
+* `75` Corona _33cl 4,5%_
+* `75` Mariestad _50cl 5,3%_
+* `79` Newcastle Brown Ale _33cl 4,7%_
+* `79` Wisbyklosteröl _33cl 5,0%_
 * `72` A Ship Full Of IPA _33cl 5,8%_
 * `69` Södra EKO Pale Ale _33cl 5,0%_
 * `72` Ginger Beer _33cl 4,5%_
 * `79` Kallholmen Levande IPA _33cl 5,6%_
-* `69` Menabrea, ambrata _33cl 4,6%_
+* `75` Menabrea, ambrata _33cl 4,6%_
 * `75` Wisby Stout _33cl 5,0%_
 * `79` Blue Moon Belgian White _33cl 5,4%_
 * `75` Mariestad Old Ox _50cl 6,9%_
@@ -156,9 +155,9 @@ Samtliga burgare går att få som vegetariskt alternativ med halloumi.
 
 ## Cider & Alkoläsk
 
-* `49` Briska päron _(alkoholfri) 33cl_
+* `55` Briska päron _(alkoholfri) 33cl_
 * `69` Briska päron _33cl 4,5%_
 * `69` Briska fläder _33cl 4,5%_
-* `72` Briska Riesling Persika _33cl 4,5%_
-* `73` Strongbow _(torr engelsk cider) 33cl 5,0%_
+* `75` Briska Riesling Persika _33cl 4,5%_
+* `79` Strongbow _(torr engelsk cider) 33cl 5,0%_
 
