@@ -5,7 +5,7 @@
 * `59` Pommeskorg
 
 * `69` Pimientos de Padrón 
-  > Serveras med graña padano & flingsalt.
+  > Serveras med citron & havssalt.
   
 * `59` Lökringar
 
