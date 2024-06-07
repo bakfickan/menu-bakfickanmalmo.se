@@ -26,7 +26,7 @@
 ## Förrätter
 
 * `55` Vitlöksbröd
-  > Serveras med aioli
+  > 
 
 * `99` Gambas
   > Chili & vitlöksfrästa räkor, serveras med vitlöksbröd.
