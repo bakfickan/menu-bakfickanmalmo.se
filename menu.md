@@ -46,14 +46,14 @@
 * `149` Klassisk
   > Med ost, bacon & hamburgardressing
 
-* `159` Grekisk burgare 
-  > Med tzatziki, riven fetaost & olivtapenade.
+* `159` Asiatisk kycklingburgare
+  > Med srirachamajo, asiatiska pickles, gurka & koriander.
 
-* `159` Philadelphia burgare 
-  > Med philadelphia cream cheese, avacado & rostad lök. 
+* `159` Argentinsk burgare
+  > Med baconmajo, chimichurri, provoloneost <6 picklad rödlök. 
 
-* `159` Koreansk burgare 
-  >  Med kimchi, gochuang chilimayo, soyaglaze, koriander & gurka. 
+* `159` Öresundsburgare 
+  >  Med rökt sidfläsk, äpple, tryffelmajo, & västerhavsost. 
 
 **Samtliga burgare är gjorda på oxfärs, serveras med pommes frites, sallad, tomat, lök, coleslaw & saltgurka**
 Samtliga burgare går att få som vegetariskt alternativ med halloumi.
