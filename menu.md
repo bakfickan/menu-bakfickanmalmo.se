@@ -20,7 +20,7 @@
   > Serveras med jalapeños, salsa & aioli
 
 * `15:-/st` Extra sås:
-  > Aioli, Tryffelmajo, Bluecheese, Bearnaise, Chilimayo, salsa
+  > Aioliv Salsa,, Tryffelmajo, Bluecheese, Bearnaise, Chilimayo, Baconmajo
 
 
 ## Förrätter
@@ -31,14 +31,14 @@
 * `99` Gambas
   > Chili & vitlöksfrästa räkor, serveras med vitlöksbröd.
 
-* `119` Getostsallad
-  > Serveras ljummen med rostad paprika, valnötter & honungsdressing.
+* `99` Friterad fetaost
+  > Fetaost med honung & sesamfrön.
 
 * `199` Plocktallrik för 2 personer
   > Charketurier, ostar, husets marmelad & tilltugg.
 
-* `119` Bruschetta 
-  > Serveras med buratta, tomat, rödlök, basilika, olivolja & balsamico. 
+* `129` Pumpasallad 
+  > Med fetaost, päron, pumpafrön, morot & ingefärsdressing. 
 
 
 ## Burgare
@@ -64,8 +64,8 @@ Samtliga burgare går att få som vegetariskt alternativ med halloumi.
 
 ## Varmrätter
 
-* `159` Citron & zucchinirisotto
-  > Serveras med pinjenötter & panerad sparris.
+* `169` Svamprisotto
+  > Serveras med krispig grönkål & parmesan.
 
 * `179` Caesarsallad
   > Bacon, krutonger & graña padano. Välj mellan scampi, halloumi eller kyckling.
@@ -73,25 +73,21 @@ Samtliga burgare går att få som vegetariskt alternativ med halloumi.
 * `–––` Veckans Fisk
   > (Fråga personalen)
 
- * `199` Bakfickans räkmacka
-  > Handskalade räkor, kokt ägg, gurka, picklad rödlök, citron & dillmajonäs.
-  > 
-
  * `189` Moule frites
   > vitvinskokta blåmusslor serveras med pommes frites & aioli.
 
- * `229` Grillad Iberico kotlett
-  > med karamelliserd lök, gruyereost, äpplecidersås & stekt purjolökspotatis. 
+ * `229` Biff Rydberg
+  > Oxfilé, dijonmajo, potatis, stekt lök & äggula. 
   
   * `239` Grillad Ryggbiff
   > Serveras med rödvinsås, bearnaise, grillade grönsaker samt valfri side.
   
- * `269` Bookmaker toast
-  > Oxfilé, dijonmayo, pepparrot & äggula. Serveras med lökringar.
+ * `299` Pepparstek, oxfilé
+  > med grönpepparsås, grönsaker & potatisgratäng.
   
 
 * `49/st` Extra sides
-  > Pommes frites, dillkokt potatis, side sallad, grillade grönsaker, stekt purjolökspotatis.
+  > Pommes frites, dillkokt potatis, side sallad, grillade grönsaker, potatisgratäng.
   
 
 ## Dessert
@@ -100,7 +96,8 @@ Samtliga burgare går att få som vegetariskt alternativ med halloumi.
 
 * `59` Italiensk glass
   
-* `89` Tiramisu
+* `89` Päronpaj
+ > Med ingefära, serveras med glass.
 
 * Veckans dessert
   > Fråga personalen.
