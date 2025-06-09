@@ -38,7 +38,7 @@
   > Charketurier, ostar, husets marmelad & tilltugg.
 
 * `119` Pancetta & Avocado 
-  > serveras med sallas, rostad lökmajonäs & riven äggula. 
+  > serveras med sallad, rostad lökmajonäs & riven äggula. 
 
 * `139` Flamberad Ahi-Tonfisk
   > med avocado, edamame, rädisa, vårlök & misodrssing
