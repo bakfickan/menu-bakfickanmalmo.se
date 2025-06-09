@@ -20,7 +20,7 @@
   > Serveras med jalapeños, salsa & aioli
 
 * `15:-/st` Extra sås:
-  > Aioliv Salsa,, Tryffelmajo, Bluecheese, Bearnaise, Chilimayo, Baconmajo
+  > Aioliv Salsa,, Jalapeñomajonäs, Bluecheese, Bearnaise, Rostad lökmajonäs, Miso-wasabimajonäs
 
 
 ## Förrätter
@@ -37,23 +37,26 @@
 * `199` Plocktallrik för 2 personer
   > Charketurier, ostar, husets marmelad & tilltugg.
 
-* `129` Pumpasallad 
-  > Med fetaost, päron, pumpafrön, morot & ingefärsdressing. 
+* `119` Pancetta & Avocado 
+  > serveras med sallas, rostad lökmajonäs & riven äggula. 
+
+* `139` Flamberad Ahi-Tonfisk
+  > med avocado, edamame, rädisa, vårlök & misodrssing
 
 
 ## Burgare
 
-* `149` Klassisk
+* `159` Klassisk
   > Med ost, bacon & hamburgardressing
 
-* `159` Asiatisk kycklingburgare
-  > Med srirachamajo, asiatiska pickles, gurka & koriander.
+* `169` Italiensk
+  > Rostad lökmajonäs, mozzarella, pesto & pancetta
 
-* `159` Argentinsk burgare
-  > Med baconmajo, chimichurri, provoloneost <6 picklad rödlök. 
+* `169` Mexikansk
+  > Jalapeñomajonäs,avacodo, tortilla chips, pico de gallo & cheddarost.
 
-* `159` Öresundsburgare 
-  >  Med rökt sidfläsk, äpple, tryffelmajo, & västerhavsost. 
+* `169` Tokyo Umami
+  >  Musi-wasabimajonäs,gurka, picklad ingefär & krispig lök.. 
 
 **Samtliga burgare är gjorda på oxfärs, serveras med pommes frites, sallad, tomat, lök, coleslaw & saltgurka**
 Samtliga burgare går att få som vegetariskt alternativ med halloumi.
@@ -64,30 +67,30 @@ Samtliga burgare går att få som vegetariskt alternativ med halloumi.
 
 ## Varmrätter
 
-* `169` Svamprisotto
-  > Serveras med krispig grönkål & parmesan.
+* `169` Sparris Risotto
+  > pinjenötter, brynt smör, cårlök & citron.
 
 * `179` Caesarsallad
-  > Bacon, krutonger & graña padano. Välj mellan scampi, halloumi eller kyckling.
+  > Bacon, krutonger & graña padano. Välj mellan scampi, halloumi eller pankopanerad kyckling.
 
 * `–––` Veckans Fisk
   > (Fråga personalen)
 
- * `189` Moule frites
+ * `199` Moule frites
   > vitvinskokta blåmusslor serveras med pommes frites & aioli.
 
- * `229` Biff Rydberg
-  > Oxfilé, dijonmajo, potatis, stekt lök & äggula. 
+ * `229` Lammkotletter 
+  > Idaho potatis, skysås, broccolini & tzatziki. 
   
-  * `239` Grillad Ryggbiff
-  > Serveras med rödvinsås, bearnaise, grillade grönsaker samt valfri side.
+  * `249` Grillad Ryggbiff
+  > Serveras med rödvinsås, bearnaise, säsongens primörer samt valfri side.
   
- * `299` Pepparstek, oxfilé
-  > med grönpepparsås, grönsaker & potatisgratäng.
+ * `(öppet pris)` Veckans Grillspett
+  > 
   
 
 * `49/st` Extra sides
-  > Pommes frites, dillkokt potatis, side sallad, grillade grönsaker, potatisgratäng.
+  > Pommes frites, Idaho potatis, Smörad dillpotatis, side sallad, säsonges primörer ugnsgrillade, mixsallad.
   
 
 ## Dessert
@@ -96,7 +99,7 @@ Samtliga burgare går att få som vegetariskt alternativ med halloumi.
 
 * `59` Italiensk glass
   
-* `89` Päronpaj
+* `79` Morotskaka
  > Med ingefära, serveras med glass.
 
 * Veckans dessert
