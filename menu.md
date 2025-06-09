@@ -20,7 +20,7 @@
   > Serveras med jalapeños, salsa & aioli
 
 * `15:-/st` Extra sås:
-  > Aioliv Salsa,, Jalapeñomajonäs, Bluecheese, Bearnaise, Rostad lökmajonäs, Miso-wasabimajonäs
+  > Aioli,  Salsa, Jalapeñomajonäs, Bluecheese, Bearnaise, Rostad lökmajonäs, Miso-wasabimajonäs
 
 
 ## Förrätter
@@ -56,7 +56,7 @@
   > Jalapeñomajonäs,avacodo, tortilla chips, pico de gallo & cheddarost.
 
 * `169` Tokyo Umami
-  >  Musi-wasabimajonäs,gurka, picklad ingefär & krispig lök.. 
+  >  Miso-wasabimajonäs,gurka, picklad ingefär & krispig lök.. 
 
 **Samtliga burgare är gjorda på oxfärs, serveras med pommes frites, sallad, tomat, lök, coleslaw & saltgurka**
 Samtliga burgare går att få som vegetariskt alternativ med halloumi.
@@ -68,7 +68,7 @@ Samtliga burgare går att få som vegetariskt alternativ med halloumi.
 ## Varmrätter
 
 * `169` Sparris Risotto
-  > pinjenötter, brynt smör, cårlök & citron.
+  > pinjenötter, brynt smör, vårlök & citron.
 
 * `179` Caesarsallad
   > Bacon, krutonger & graña padano. Välj mellan scampi, halloumi eller pankopanerad kyckling.
