@@ -20,7 +20,7 @@
   > Serveras med jalapeños, salsa & aioli
 
 * `15:-/st` Extra sås:
-  > Aioli,  Salsa, Jalapeñomajonäs, Bluecheese, Bearnaise, Rostad lökmajonäs, Miso-wasabimajonäs
+  > Aioli, Salsa, Jalapeñomajonäs, Bluecheese, Bearnaise, Rostad lökmajonäs, Miso-wasabimajonäs
 
 
 ## Förrätter
