@@ -37,7 +37,7 @@
 * `199` Plocktallrik för 2 personer
   > Charketurier, ostar, husets marmelad & tilltugg.
 
-* `119` Pancetta & Avocado 
+* `119` Pancetta & Avocado Toast
   > serveras med sallad, rostad lökmajonäs & riven äggula. 
 
 * `139` Flamberad Ahi-Tonfisk
@@ -58,7 +58,7 @@
 * `169` Tokyo Umami
   >  Miso-wasabimajonäs,gurka, picklad ingefär & krispig lök.. 
 
-**Samtliga burgare är gjorda på oxfärs, serveras med pommes frites, sallad, tomat, lök, coleslaw & saltgurka**
+**Samtliga burgare är gjorda på oxfärs, serveras med pommes frites, Brioche bröd, sallad, tomat, lök, coleslaw & saltgurka**
 Samtliga burgare går att få som vegetariskt alternativ med halloumi.
 
 *Extra sås +15kr*
@@ -67,13 +67,13 @@ Samtliga burgare går att få som vegetariskt alternativ med halloumi.
 
 ## Varmrätter
 
-* `169` Sparris Risotto
+ * `169` Sparris Risotto
   > pinjenötter, brynt smör, vårlök & citron.
 
-* `179` Caesarsallad
+ * `179` Caesarsallad
   > Bacon, krutonger & graña padano. Välj mellan scampi, halloumi eller pankopanerad kyckling.
 
-* `–––` Veckans Fisk
+ * `–––` Veckans Fisk
   > (Fråga personalen)
 
  * `199` Moule frites
@@ -82,7 +82,7 @@ Samtliga burgare går att få som vegetariskt alternativ med halloumi.
  * `229` Lammkotletter 
   > Idaho potatis, skysås, broccolini & tzatziki. 
   
-  * `249` Grillad Ryggbiff
+ * `249` Grillad Ryggbiff
   > Serveras med rödvinsås, bearnaise, säsongens primörer samt valfri side.
   
  * `(öppet pris)` Veckans Grillspett
@@ -100,7 +100,7 @@ Samtliga burgare går att få som vegetariskt alternativ med halloumi.
 * `59` Italiensk glass
   
 * `79` Morotskaka
- > Med ingefära, serveras med glass.
+ > 
 
 * Veckans dessert
   > Fråga personalen.
