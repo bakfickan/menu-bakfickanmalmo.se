@@ -73,6 +73,9 @@ Samtliga burgare går att få som vegetariskt alternativ med halloumi.
  * `179` Caesarsallad
   > Bacon, krutonger & graña padano. Välj mellan scampi, halloumi eller pankopanerad kyckling.
 
+ * `199` Bakfickans Räkmacka
+  > handskalde räkor, lantbröd, dillajonnäs, sallas, gurka, ägg, citron & picklad lök
+   
  * `–––` Veckans Fisk
   > (Fråga personalen)
 
