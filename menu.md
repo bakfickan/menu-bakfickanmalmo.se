@@ -14,51 +14,49 @@
 * `99` Hot Wings
   > Serveras med grönsaksstavar & bluecheese dip
 
-* `109` Snackkorg
+* `119` Snackkorg
 
 * `119` Ostgratinerade Nachos
   > Serveras med jalapeños, salsa & aioli
 
 * `15:-/st` Extra sås:
-  > Aioli, Salsa, Jalapeñomajonäs, Bluecheese, Bearnaise, Rostad lökmajonäs, Miso-wasabimajonäs
+  > Aioli, Salsa, Bearnaise, Bluecheese, Tryffelmayo, Chilimayo, Baconmayo, BBQ
 
 
 ## Förrätter
 
-* `55` Vitlöksbröd
+* `59` Vitlöksbröd
   > 
 
 * `99` Gambas
   > Chili & vitlöksfrästa räkor, serveras med vitlöksbröd.
 
-* `99` Friterad fetaost
-  > Fetaost med honung & sesamfrön.
+* `129` Rökt Laxtoast
+  > Serveras med dill, citronkräm, kapris & rödlök.
 
-* `199` Plocktallrik för 2 personer
+* `219` Plocktallrik för 2 personer
   > Charketurier, ostar, husets marmelad & tilltugg.
 
-* `119` Pancetta & Avocado Toast
-  > serveras med sallad, rostad lökmajonäs & riven äggula. 
+* `119` Chevré chaud
+  > Gratinerad chevré med rödbetor, valnötter & créma di balsamico. 
 
-* `139` Flamberad Ahi-Tonfisk
-  > med avocado, edamame, rädisa, vårlök & misodrssing
 
 
 ## Burgare
 
-* `159` Klassisk
+* `169` Klassisk
   > Med ost, bacon & hamburgardressing
 
-* `169` Italiensk
-  > Rostad lökmajonäs, mozzarella, pesto & pancetta
+* `179` Jack Daniels burgare
+  > Pepper Jack ost, lökringar, bacon & bbq-sås.
 
-* `169` Mexikansk
-  > Jalapeñomajonäs,avacodo, tortilla chips, pico de gallo & cheddarost.
+* `179` Louisiana burgare
+  > Spicy cajun kyckling, chipotlemayo,  gurka, paprika & rökt cheddar.
 
-* `169` Tokyo Umami
-  >  Miso-wasabimajonäs,gurka, picklad ingefär & krispig lök.. 
+* `179` Fläskestek burgare
+  >  Fläskestek med svål, rödkål, majonnäs & inlagd gurka. 
 
-**Samtliga burgare är gjorda på oxfärs, serveras med pommes frites, Brioche bröd, sallad, tomat, lök, coleslaw & saltgurka**
+**Samtliga burgare är gjorda på oxfärs, serveras med pommes frites, brioche bröd, sallad, tomat, lök, & saltgurka**
 Samtliga burgare går att få som vegetariskt alternativ med halloumi.
 
 *Extra sås +15kr*
@@ -67,33 +65,39 @@ Samtliga burgare går att få som vegetariskt alternativ med halloumi.
 
 ## Varmrätter
 
- * `169` Sparris Risotto
-  > pinjenötter, brynt smör, vårlök & citron.
+ * `169` Svamp Risotto
+  > Krispig bacon, grana padano.
 
- * `179` Caesarsallad
+ * `189` Caesarsallad
   > Bacon, krutonger & graña padano. Välj mellan scampi, halloumi eller pankopanerad kyckling.
 
- * `199` Bakfickans Räkmacka
-  > handskalde räkor, lantbröd, dillmajonnäs, sallad, gurka, ägg, citron & picklad lök
+ * `---` Veckans Gryta
+  > Fråga personalen
    
- * `–––` Veckans Fisk
+ * `---` Veckans Fisk
   > (Fråga personalen)
 
  * `199` Moule frites
   > vitvinskokta blåmusslor serveras med pommes frites & aioli.
 
- * `229` Lammkotletter 
-  > Idaho potatis, skysås, broccolini & tzatziki. 
+ * `239` Lammkotletter 
+  > Ljummen chévresallad med betor, krispig potatis & rödvinssky.
   
- * `249` Grillad Ryggbiff
+ * `259` Grillad Ryggbiff
   > Serveras med rödvinsås, bearnaise, säsongens primörer samt valfri side.
   
- * `(öppet pris)` Veckans Grillspett
-  > 
+ * `259` Steak sandwich
+  > Oxfilé, baconmayo, stekt ägg & krispig lök. Välj valfri side.
+
+* `299` Pepparstek på Oxfilé
+  > Grönpepparsås, potatisgratäng & säsongens primörer.
+  
+  
+
   
 
 * `49/st` Extra sides
-  > Pommes frites, Idaho potatis, Smörad dillpotatis, side sallad, säsonges primörer ugnsgrillade, mixsallad.
+  > Pommes frites,Potatisgratäng, Smörad dillpotatis, side sallad, säsonges primörer ugnsgrillade, mixsallad.
   
 
 ## Dessert
@@ -102,7 +106,7 @@ Samtliga burgare går att få som vegetariskt alternativ med halloumi.
 
 * `59` Italiensk glass
   
-* `79` Morotskaka
+* `85` Créme Brulée
  > 
 
 * Veckans dessert
@@ -112,8 +116,8 @@ Samtliga burgare går att få som vegetariskt alternativ med halloumi.
 ## Kaffe / Te / Läsk
 
 * `25` Kaffe / Te
-* `35` Läsk / Lättöl
-* `35` Juice
+* `37` Läsk / Lättöl
+* `37` Juice
 
 
 ## Fatöl
@@ -121,39 +125,36 @@ Samtliga burgare går att få som vegetariskt alternativ med halloumi.
 * `69` Norrlands Guld _40cl 5,3%_
 * `72` Mariestad Continental _40cl 4,2%_
 * `79` Krušovice _40cl 5,0%_
-* `89` Rotating tap _40cl_
-* `89` Wisby Bulldog IPA _40cl 5,0%_
+* `95` Rotating tap _40cl_
+* `95` Wisby Bulldog IPA _40cl 5,0%_
 * `79` Menabrea _50cl 5,0%_
-* `89`  Weißbier _50cl 5,0%_
+* `95`  Weißbier _50cl 5,0%_
 
 
 ## Flasköl
 
 * `55` Heineken _(alkoholfri) 33cl_
 * `59` A Ship Full Of IPA _(alkoholfri) 33cl_
-* `65` Peoples IPA _33cl 3,5%_
+* `65` Carlsberg HOF _33cl 4,2%_
 * `69` Heineken _33cl 5,0%_
 * `69` Melleruds Pils Ekologisk _33cl 4,5%_
-* `75` Menabrea, lager _33cl 5,0%_
+* `75` Kronenbourg 1664 _33cl 5,0%_
 * `75` Corona _33cl 4,5%_
 * `75` Mariestad _50cl 5,3%_
 * `79` Newcastle Brown Ale _33cl 4,7%_
 * `79` Wisbyklosteröl _33cl 5,0%_
 * `72` A Ship Full Of IPA _33cl 5,8%_
-* `69` Södra EKO Pale Ale _33cl 5,0%_
+* `79` Brooklyn Lager _33cl 5,2%_
 * `72` Ginger Beer _33cl 4,5%_
-* `79` Kallholmen Levande IPA _33cl 5,6%_
-* `75` Menabrea, ambrata _33cl 4,6%_
-* `75` Wisby Stout _33cl 5,0%_
+* `79` Guinesse _50cl 4,2%_
+* `75` Odd Island Brewing, suröl _33cl 4,2%_
 * `79` Blue Moon Belgian White _33cl 5,4%_
 * `75` Mariestad Old Ox _50cl 6,9%_
 * `85` Hazy Bulldog APA _33cl 5,7%_
 * `85` Duvel _33cl 8,5%_
-* `85` Höganäs APA _33cl 5,6%_
-* `85` Höganäs Missbehave IPA _33cl 6,0%_
 * `69` Daura Damm _(glutenfri) 33cl 5,4%_
 * `85` Peachy bulldog PA 33cl 5,4%_
-* `89` Paulaner Lager _50cl 4,5%_
+
 
 
 ## Cider & Alkoläsk
