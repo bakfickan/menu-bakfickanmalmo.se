@@ -66,7 +66,7 @@ Samtliga burgare går att få som vegetariskt alternativ med halloumi.
 
 ## Varmrätter
 
- * `169` Risottp
+ * `169` Risotto
   > Med soltorkade tomater, basilika & pinjenötter.
 
  * `189` Caesarsallad
