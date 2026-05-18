@@ -88,7 +88,7 @@ Samtliga burgare går att få som vegetariskt alternativ med halloumi.
   > Serveras med rödvinsås, bearnaise, säsongens primörer samt valfri side.
   
  * `259` Steak sandwich
-  > Entrecote på foccaciabröd, riccola, tomat, parmesan, aioli. Välj valfri side.
+  > Entrecote på foccaciabröd, ruccola, tomat, parmesan, aioli. Välj valfri side.
 
 * `---` Veckas Grillspett
   > Fråga pesonal.
