@@ -34,7 +34,7 @@
 * `89` Caprese Sallad
   > Mozarella, tomat, basilika, olivolja & balsamico.
 
-* `219` Plocktallrik för 2 personer
+* `219` Plocktallrik för 2 personer. 
   > Charketurier, ostar, husets marmelad & tilltugg.
 
 * `119` Friterad Feta
