@@ -20,7 +20,7 @@
   > Serveras med jalapeños, salsa & aioli
 
 * `15:-/st` Extra sås:
-  > Aioli, Salsa, Bearnaise, Bluecheese, Tryffelmayo, Chilimayo, Baconmayo, BBQ
+  > Aioli, Salsa, Bearnaise, Bluecheese, Tryffelmayo, Chilimayo, Örtmayo, 
 
 
 ## Förrätter
@@ -31,30 +31,31 @@
 * `99` Gambas
   > Chili & vitlöksfrästa räkor, serveras med vitlöksbröd.
 
-* `129` Rökt Laxtoast
-  > Serveras med dill, citronkräm, kapris & rödlök.
+* `89` Caprese Sallad
+  > Mozarella, tomat, basilika, olivolja & balsamico.
 
 * `219` Plocktallrik för 2 personer
   > Charketurier, ostar, husets marmelad & tilltugg.
 
-* `119` Chevré chaud
-  > Gratinerad chevré med rödbetor, valnötter & créma di balsamico. 
+* `119` Friterad Feta
+  > Serveras med honung & sallad. 
 
-
+* `119` Rökt Laxterrin
+  > Färskost, dill, citron & gräslök. 
 
 ## Burgare
 
 * `169` Klassisk
   > Med ost, bacon & hamburgardressing
 
-* `179` Jack Daniels burgare
-  > Pepper Jack ost, lökringar, bacon & bbq-sås.
+* `179` Västerbotten burgare
+  > Västerbottenost, bacon & tryffelmayo.
 
-* `179` Louisiana burgare
-  > Spicy cajun kyckling, chipotlemayo,  gurka, paprika & rökt cheddar.
+* `179` California burgare
+  > Avacado, picklad rödlök & fetaostkräm.
 
-* `179` Fläskestek burgare
-  >  Fläskestek med svål, rödkål, majonnäs & inlagd gurka. 
+* `179` Chorizo burgare
+  >  Chorizofärs, rökt créme fraiche, jalapeños & cheddarost. 
 
 **Samtliga burgare är gjorda på oxfärs, serveras med pommes frites, brioche bröd, sallad, tomat, lök, & saltgurka**
 Samtliga burgare går att få som vegetariskt alternativ med halloumi.
@@ -65,14 +66,14 @@ Samtliga burgare går att få som vegetariskt alternativ med halloumi.
 
 ## Varmrätter
 
- * `169` Svamp Risotto
-  > Krispig bacon, grana padano.
+ * `169` Risottp
+  > Med soltorkade tomater, basilika & pinjenötter.
 
  * `189` Caesarsallad
   > Bacon, krutonger & graña padano. Välj mellan scampi, halloumi eller pankopanerad kyckling.
 
- * `---` Veckans Gryta
-  > Fråga personalen
+ * `199` Bakfickans Räkmacka
+  > Räkor, kokt ägg, gurka, picklad rödlök, citron & dillmajo.
    
  * `---` Veckans Fisk
   > (Fråga personalen)
@@ -80,24 +81,24 @@ Samtliga burgare går att få som vegetariskt alternativ med halloumi.
  * `199` Moule frites
   > vitvinskokta blåmusslor serveras med pommes frites & aioli.
 
- * `239` Lammkotletter 
-  > Ljummen chévresallad med betor, krispig potatis & rödvinssky.
+ * `319` Lammracks
+  >  Tzatziki, broccolini, majskolv, rödvinssky. Valfri side.
   
- * `259` Grillad Ryggbiff
+ * `269` Grillad Ryggbiff (200g)
   > Serveras med rödvinsås, bearnaise, säsongens primörer samt valfri side.
   
  * `259` Steak sandwich
-  > Oxfilé, baconmayo, stekt ägg & krispig lök. Välj valfri side.
+  > Entrecote på foccaciabröd, riccola, tomat, parmesan, aioli. Välj valfri side.
 
-* `299` Pepparstek på Oxfilé
-  > Grönpepparsås, potatisgratäng & säsongens primörer.
+* `---` Veckas Grillspett
+  > Fråga pesonal.
   
   
 
   
 
 * `49/st` Extra sides
-  > Pommes frites,Potatisgratäng, Smörad dillpotatis, side sallad, säsonges primörer ugnsgrillade, mixsallad.
+  > Pommes frites,Potatisgratäng,Idahopotatis,Smörad dillpotatis, side sallad, säsonges primörer ugnsgrillade, mixsallad.
   
 
 ## Dessert
@@ -106,7 +107,7 @@ Samtliga burgare går att få som vegetariskt alternativ med halloumi.
 
 * `59` Italiensk glass
   
-* `85` Créme Brulée
+* `85` Key Lime paj
  > 
 
 * Veckans dessert
@@ -123,7 +124,7 @@ Samtliga burgare går att få som vegetariskt alternativ med halloumi.
 ## Fatöl
 
 * `69` Norrlands Guld _40cl 5,3%_
-* `72` Mariestad Continental _40cl 4,2%_
+* `72` Mariestad Ljusbrygd _40cl 4,7%_
 * `79` Krušovice _40cl 5,0%_
 * `95` Rotating tap _40cl_
 * `95` Wisby Bulldog IPA _40cl 5,0%_
